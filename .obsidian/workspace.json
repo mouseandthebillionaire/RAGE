@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "93b16516c87b9527",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd0d115808f6998a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff50e889549d7a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8103b4e7f79eec52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1c93c068db7e62f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b49f2472c72280b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4c5529371f460b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93a98f4f4334a04d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26339b0920b4060f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7957f5e2dfba2397",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fcc35a59bd2e9e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbf68fff26473e0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "988223f0ebce5329",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Comps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dd773aedc0324e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a50ef34f5b1d0cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Comps.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8103b4e7f79eec52",
+  "lastOpenFiles": [
+    "README.md",
+    "Comps.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
