@@ -1,3 +1,3 @@
-# Sound Design for Reflective Game Experiences
+# Reflective Audio Game Experiences
 
 Sandbox/Playground for PhD research
