@@ -1,8 +1,17 @@
-# Readings
+# Related Work
 (or, a study in GaR Lit)
 
 A collection of quotes, reflections, design ideas, musings, et cetera pertaining to the readings completed in preparation for comprehensive exams. (Starting June 4, 2024)
 
+### Fullerton, Tracy. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
+
+"'Slow play' \[...]\ allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtueres that internal process through its design. its scope, and its pace."
+
+"the process of making meaning through reflection requires time at a human pace and cycles of response, interpretation, and unpacking of experience."
+
+It’s interesting to think about the place that time has in the success of possibility for reflective play. It does seem that for reflection to happen there also needs to be the time to reflect. But does that time necessarily have to happen with the timeframe of the game? Once we are outside of the magic circle, could we not continue to think about the experience that we just had and reflect on it? Additionally there is some space in longer experiences to build in these moments of reflection (what De Koven calls “interludes”) to provide a momentary reflection-time for the audience. The best theatre/cinema does this by necessity because a viewer cannot stop the action on the stage/screen.
+
+This, then, opens up some interesting possibilities: an arcade game experience could be reflective if its content/nature/gameplay/(something else?) contained deep and thoughtful ideas. The player may feel like they are doing something frantic and mindless, but the moment thet stop, could reflection happen? Prior personal work like [_Busy Work_](http://www.mouseandthebillionaire.com/busyWork/) and [_Buy! Sell!_](http://www.mouseandthebillionaire.com/buySell) have perhaps tested this theory to varying degrees of success… It could be worthwhile to spend some time spent thinking about what this material "something" is that makes a piece of media appropriate for reflection.
 ### Gibbons, Liam. “Strategies for the Design of Reflective Shortform Videogames,” 2020
 
 Gibbons strategies for making games reflective are as follows (with accompanying pull-quotes and notes):

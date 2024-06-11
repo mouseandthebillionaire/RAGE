@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8103b4e7f79eec52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Comps.md",
+                "file": "relatedWork.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comps.md",
+                "file": "relatedWork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comps.md",
+                "file": "relatedWork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comps.md"
+                "file": "relatedWork.md"
               }
             }
           }
@@ -159,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8103b4e7f79eec52",
+  "active": "5a4c5529371f460b",
   "lastOpenFiles": [
+    "README.md",
+    "relatedWork.md",
     "01/exports/patch.export.license",
     "01/exports/patch.export.json",
     "01/exports/media",
@@ -171,9 +160,6 @@
     "01/app.js",
     "01",
     "00/exports/patch.export.license",
-    "00/exports/patch.export.json",
-    "README.md",
-    "Comps.md",
     "create a link.md",
     "Welcome.md"
   ]
