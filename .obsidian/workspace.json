@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d0af77de780f2535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "relatedWork.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a4c5529371f460b",
+  "active": "d0af77de780f2535",
   "lastOpenFiles": [
     "README.md",
     "relatedWork.md",

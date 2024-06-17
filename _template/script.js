@@ -4,6 +4,7 @@ let device;
 let sketchStarted=false;
 let audioContext;
 
+// RNBO Control
 let parameter;
 
 function setup(){

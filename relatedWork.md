@@ -5,7 +5,7 @@ A collection of quotes, reflections, design ideas, musings, et cetera pertaining
 
 ### Fullerton, Tracy. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
 
-"'Slow play' \[...]\ allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtueres that internal process through its design. its scope, and its pace."
+"'Slow play' \[...] allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtures that internal process through its design. its scope, and its pace."
 
 "the process of making meaning through reflection requires time at a human pace and cycles of response, interpretation, and unpacking of experience."
 
@@ -32,3 +32,26 @@ Gibbons strategies for making games reflective are as follows (with accompanying
 
 4. *Avoid interrupting or overtly directing the player’s engagement with the game system*
 
+	*“To understand how we might encourage reflective play within a short form therefore, we first need to understand how we can make room for that reflection and anticipation to occur during the player’s direct experience of a game, rather than after it.”*
+
+I suppose that I can understand why Gibbons is looking specifically at how to create reflective experiences _during_ play, but I wonder if there is a real need? Perhaps his desire to make shortform games necessitates this a bit more, but doesn't the pause menu actually provide a perfect place for reflection to happen? Just as paragraph/section/chapter breaks allow the reader a natural place to stop the act of reading to filter it through their own experiences. Especially if chess is used as an example. With chess being such a rich space for theory, reflection, stories, etc, isn’t okay to reflect “during the pause menu” as it were? Or maybe when we reflect during a game of chess, we aren’t necessarily “pausing” the game? We are still within the game-space? Maybe then the question/practice/idea is to create a pause-state like functionality that doesn’t _feel_ like a pause-state. If you simply stop feeding input into the system it stays in a state of stasis without feeling removed from the game. It’s the difference between sitting with a furrowed brow and pondering your next move in chess and pushing back your chair, standing up, and walking away from the chess board. And maybe this is the better way of talking about this idea. A fluid pause-state that doesn’t take you out of the game, but still allows for this period of reflection.
+
+It is also worth noting that I think my definition of reflection differs from Gibbons’.
+
+	“reflection-based play activities make no immediate demands of the player, as I will discuss in more detail throughout this chapter. These activities allow or even re- quire the player to think back and reflect upon past events and instances of reac- tion-based play, think forward and anticipate future events, and to consider and experiment with potential courses of action”
+
+While I don’t deny that these activities are “reflective” (in that the player is reflecting on the state of play) I find it slightly removed from reflection in the depper context that I am considering. I want to make some wider gulf between deep reflection and simply “thinking back on past play sessions and what might come next.” Gibbons’ use of reflection reminds me more of Bogost’s discussion of “lean back” media in “How to do Things with Videogames.”
+
+### Koike, R. *The Practice of Not Thinking: A Guide to Mindful Living*
+
+The “Three Kleshas (literally poisons) or disturbing emotions” are desire, anger, and uncertainty (6)
+
+Q: Is there a way to either:
+<ol type="a">
+	<li>use this knowledge of the kleshas to help people *avoid* these feelings as they are playing a game, 
+thus creating a more reflexive experience, or…</li>
+	<li>*harness* the kleshas to take the player out of their normal routine, creating something more meaningful for them</li>
+</ol>
+This second idea is fairly interesting (but slightly disturbing to posit, obviously) BUT, if a normal “good” state in game-play is the flow-state, then wouldn’t we want to take the player out of that state to create a state of reflection? Or, again, can that reflection happen after when they consider the experience they’ve just had? We can also argue, though, that maybe this is what every puzzle does: puts a hard stop on flow and forces the player to confront some new idea and/or reality.
+
+A follow-up question then becomes: *is there a way to create a non-puzzle puzzle-like experience (one that takes the player out of normal flow-state and helps them to have a shift in perception)?*

@@ -4,6 +4,7 @@ let device;
 let sketchStarted=false;
 let audioContext;
 
+// RNBO Control
 let parameter;
 
 function setup(){
@@ -11,7 +12,7 @@ function setup(){
     h = window.innerHeight;
     canvas = createCanvas(w,h)
     background('white')
-    fill('red')
+    fill('black')
     noStroke()
 
     startButton = createButton('Start')
