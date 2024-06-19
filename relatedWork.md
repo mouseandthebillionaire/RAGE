@@ -3,7 +3,16 @@
 
 A collection of quotes, reflections, design ideas, musings, et cetera pertaining to the readings completed in preparation for comprehensive exams. (Starting June 4, 2024)
 
-### Fullerton, Tracy. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
+### Bogost, I. "Relaxation" from *How to Do Things with Videogames,*  2011
+
+Bogost has some interesting excursions into and around reflection in his essay on “Relaxation” in games. And there are definitely some parallels here, but it strikes me that the notion of “relaxing” and/or “zen” games remains in a different category than “reflective” games. The goal of a relaxing game is obviously to relax, and zen games are (per Bogost) “akin to doodling on a napkin or skimming through a magazine, or knitting in front of the television” (92) These really are the lean-back forms of games that Bogost is arguing towards here, where the mind becomes calmer through the activity. But in true “reflective” media is there this calmness? Are we “calm” when brought face to face with notions that challenge the way we have constructed the world around us?
+
+Bogost’s mention of “meditation” and walking is a surprising turn that is obviously an interesting one for future work and writing. Baudelaire, Thoreau, obviously, but he also mentions medieval labyrinths, which are a great example of the kind of reflective activity I’m thinking of. Labyrinths are definitely (or can be) akin to the idea of knitting in front of the television. Activities to be doing while your mind is focused on something else. Is there something to be said for the busy-work of games freeing your mind to go elsewhere? Is this something that can be explored, but just hasn’t been talked about that much? Or is it a tenuous link?
+
+Finally, this quote in his conclusion is pertinent “Relaxation and reflection arise from constrained environments in which the senses are de-emphasized and focused rather than escalated and expanded.” (95)
+
+Is this true? Relaxation, maybe? But reflection? Are we reflecting if our senses have become de-emphasized? Focused, feels right, though. We do want our senses focused and honed in order to see things in a new way. Again, more work to be done by thinking about reflective architecture, and how that can be applied to games.
+### Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
 
 "'Slow play' \[...] allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtures that internal process through its design. its scope, and its pace."
 
