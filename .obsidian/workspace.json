@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b98845edcd69a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "experiments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relatedWork.md",
+                "file": "experiments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relatedWork.md",
+                "file": "experiments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relatedWork.md"
+                "file": "experiments.md"
               }
             }
           }
@@ -159,20 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0af77de780f2535",
+  "active": "0b98845edcd69a91",
   "lastOpenFiles": [
     "README.md",
     "relatedWork.md",
-    "01/exports/patch.export.license",
-    "01/exports/patch.export.json",
-    "01/exports/media",
-    "01/exports/dependencies.json",
-    "01/script.js",
-    "01/index.html",
-    "01/exports",
-    "01/app.js",
-    "01",
-    "00/exports/patch.export.license",
+    "experiments.md",
+    "Untitled",
+    "01/audio/patch.export.json",
+    "01/audio/media/chime.wav",
+    "01/audio/chime.wav",
+    "01/audio/AbletonTmp-0000",
+    "01/audio/media/drone_0.wav",
+    "01/audio/media/AbletonTmp-0000",
+    "01/audio/synth.export.license",
+    "01/audio/synth.export.json",
+    "01/audio/patch.export.license",
     "create a link.md",
     "Welcome.md"
   ]

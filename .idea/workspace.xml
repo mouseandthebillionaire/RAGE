@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Tracy Fullerton's short essay about Slow/Reflective play in Bernie De Koven's Infinite Playground">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/exports/dependencies.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/exports/patch.export.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/exports/patch.export.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_template/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/_template/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,19 +29,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/m/Documents/_PHD/Research&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/m/Documents/_PHD/Research",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718045857314</updated>
       <workItem from="1718045858333" duration="9109000" />
-      <workItem from="1718515912831" duration="1008000" />
+      <workItem from="1718515912831" duration="18672000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -73,15 +81,53 @@
       <option name="project" value="LOCAL" />
       <updated>1718123139900</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="readings: Gibbons definition of Reflection&#10;&#10;In his chapter on &quot;Reflective Play.&quot;, Gibbons looks at how to create reflection-heavy interactions apart from the reaction/reflection cycle. I argue that the pause-state may be a fine place to allow for these reflections, but perhaps we need to design them differently.">
+      <option name="closed" value="true" />
+      <created>1718634899671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718634899671</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fix: formatting of the relatedWork document">
+      <option name="closed" value="true" />
+      <created>1718646470533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718646470533</updated>
+    </task>
+    <task id="LOCAL-00005" summary="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?">
+      <option name="closed" value="true" />
+      <created>1718815304538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718815304538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches" />
     <MESSAGE value="readings: thoughts on Tracy Fullerton's short essay about Slow/Reflective play in Bernie De Koven's Infinite Playground" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Tracy Fullerton's short essay about Slow/Reflective play in Bernie De Koven's Infinite Playground" />
+    <MESSAGE value="readings: Gibbons definition of Reflection&#10;&#10;In his chapter on &quot;Reflective Play.&quot;, Gibbons looks at how to create reflection-heavy interactions apart from the reaction/reflection cycle. I argue that the pause-state may be a fine place to allow for these reflections, but perhaps we need to design them differently." />
+    <MESSAGE value="fix: formatting of the relatedWork document" />
+    <MESSAGE value="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?" />
   </component>
 </project>
