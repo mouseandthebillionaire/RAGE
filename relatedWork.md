@@ -51,6 +51,14 @@ It is also worth noting that I think my definition of reflection differs from Gi
 
 While I don’t deny that these activities are “reflective” (in that the player is reflecting on the state of play) I find it slightly removed from reflection in the depper context that I am considering. I want to make some wider gulf between deep reflection and simply “thinking back on past play sessions and what might come next.” Gibbons’ use of reflection reminds me more of Bogost’s discussion of “lean back” media in “How to do Things with Videogames.”
 
+### Jones, L. “Architectural Catalysts to Contemplation"
+
+Jones' essay turns out to be less applicable than I had originally hoped, but there are still a few interesting things here. While she is focusing (as is the entire collection of which it is a part) on the specifically *religious* side of contemplation, the categorization of modes of sacred spaces into *theatric, sanctuary, and contemplative* is a useful way to think about making these spaces. 
+
+Of sanctuary space she says "the demarcation of a “threshold,” that is, a boundary, limit, frontier, or picket between, in Eliadean terms, two “modes of being”—between “a profane outside” and “a sacred inside.” This feels in line with line with traditional game design (i.e Huiznga's) notion of the "magic circle," and supports the idea that these spaces can be used for more than just entertainment. Similarly, the move from passive/sanctuary space to active/contemplative space, where the architecture is helping aid in the act of contemplation, is an even more perfect argument and look into the possibility space.
+
+After reading this article, I would like to do a cursory reading of the collection's third section (RESPONSE FROM ARCHITECTURAL PRACTICE) as it appears to have more practical/application-based content. 
+
 ### Koike, R. *The Practice of Not Thinking: A Guide to Mindful Living*
 
 The “Three Kleshas (literally poisons) or disturbing emotions” are desire, anger, and uncertainty (6)
