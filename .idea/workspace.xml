@@ -4,19 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;">
+      <change afterPath="$PROJECT_DIR$/01/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/exports/dependencies.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/exports/patch.export.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/exports/patch.export.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/audio/chime.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/audio/media/chime.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,6 +33,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2hhUZUEr8uURgCDCDShbsvpXFU7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +49,8 @@
     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
     "WebServerToolWindowPanel.toolwindow.show.size": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/m/Documents/_PHD/Research",
+    "last_opened_file_path": "/Users/m/Documents/_PHD/Research/02/audio/media",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +59,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02/audio/media" />
+      <recent name="$PROJECT_DIR$/02/audio" />
+      <recent name="$PROJECT_DIR$/01" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718045857314</updated>
       <workItem from="1718045858333" duration="9109000" />
-      <workItem from="1718515912831" duration="18672000" />
+      <workItem from="1718515912831" duration="29575000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -105,7 +125,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718815304538</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="makings: experiment 1 exploring simple interactions and a correlation of success with the reduction of effort">
+      <option name="closed" value="true" />
+      <created>1718823479159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718823479159</updated>
+    </task>
+    <task id="LOCAL-00007" summary="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;">
+      <option name="closed" value="true" />
+      <created>1719348844901</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719348844901</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +164,8 @@
     <MESSAGE value="readings: Gibbons definition of Reflection&#10;&#10;In his chapter on &quot;Reflective Play.&quot;, Gibbons looks at how to create reflection-heavy interactions apart from the reaction/reflection cycle. I argue that the pause-state may be a fine place to allow for these reflections, but perhaps we need to design them differently." />
     <MESSAGE value="fix: formatting of the relatedWork document" />
     <MESSAGE value="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?" />
+    <MESSAGE value="makings: experiment 1 exploring simple interactions and a correlation of success with the reduction of effort" />
+    <MESSAGE value="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;" />
   </component>
 </project>
