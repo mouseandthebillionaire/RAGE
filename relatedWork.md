@@ -62,6 +62,20 @@ It is also worth noting that I think my definition of reflection differs from Gi
 
 While I don’t deny that these activities are “reflective” (in that the player is reflecting on the state of play) I find it slightly removed from reflection in the depper context that I am considering. I want to make some wider gulf between deep reflection and simply “thinking back on past play sessions and what might come next.” Gibbons’ use of reflection reminds me more of Bogost’s discussion of “lean back” media in “How to do Things with Videogames.”
 
+### Jensen, J. "Designing for Profound Experiences," 2014
+
+Again, the use of "profound" is a bit of a red herring here. Profound as in containing meaning and being deeper than the "tangible" and "usage" dimensions that he lists (and I suppose there is something profound in the example of riding a bike and being removed from the task at hand \[a la Csikszentmihalyi]), but not the reflective, profound, transcendence that is possible in great art.
+
+That being said, this is some definite value in Jensen's list of characteristics for a general deeper interaction with our designed elements:
+
+- deemphasize the focus on temporal parameters;
+- focus on meaning structures;
+- encompass the full scope of the experience;
+- encourage qualitative approaches through dialogue;
+- enable immersion into lived experiences;
+- translate into design with usable, lightweight representations.
+
+In particular, the first three seem useful as lenses for designing reflective game experiences. He only has a very short paragraph on the "deemphasize the focus on temporal parameters" idea \[ _most methods used in service design and experience design (e.g., conceptual models, service blueprinting, experience models, or taxonomies) tend to focus on flow and timed sequences; a profound dimension has less focus on temporal parameters._] but there is something there that feels right and appears to line up with Khaled's idea of "disruption over comfort" and "reflection over immersion."
 ### Jones, L. “Architectural Catalysts to Contemplation" from *Transcending Architecture*
 
 Jones' essay turns out to be less applicable than I had originally hoped, but there are still a few interesting things here. While she is focusing (as is the entire collection of which it is a part) on the specifically *religious* side of contemplation, the categorization of modes of sacred spaces into *theatric, sanctuary, and contemplative* is a useful way to think about making these spaces. 
