@@ -3,13 +3,24 @@
 
 A collection of quotes, reflections, design ideas, musings, et cetera pertaining to the readings completed in preparation for comprehensive exams. (Starting June 4, 2024)
 
+### Bermudez, J. Introduction to *Transcending Architecture*, 2015
+
+Some really nice thoughts in here. Bermudez's definition of architecture that "transcends" feels particularly helpful: 
+	"They are talking of an architecture that has removed the 'opacity' hiding life’s meanings so that we can catch a momentous and revelatory (even if unsettling) glimpse"
+
+This feels more aligned with what I think of as reflection than I have found before. An artistic reflection vs. an educational one. A reflection that includes a stepping back but not necessarily a re-evaluation or change in preconceived ideas. Bermudez goes on to add:
+	"We should also notice that these qualifiers are referring to something “other than” or “beyond” architecture. It is as if the experience of the building has exceeded the building, passing, as it were, through it into another realm that defies all words or gauging."
+
+It is this passing on or beyond that I believe games can do well (as perhaps all great art does?) The subject material and the activity goes beyond narrative topics and the mechanics of play into something deeper. Beyond.
+
 ### Bogost, I. "Relaxation" from *How to Do Things with Videogames,*  2011
 
 Bogost has some interesting excursions into and around reflection in his essay on “Relaxation” in games. And there are definitely some parallels here, but it strikes me that the notion of “relaxing” and/or “zen” games remains in a different category than “reflective” games. The goal of a relaxing game is obviously to relax, and zen games are (per Bogost) “akin to doodling on a napkin or skimming through a magazine, or knitting in front of the television” (92) These really are the lean-back forms of games that Bogost is arguing towards here, where the mind becomes calmer through the activity. But in true “reflective” media is there this calmness? Are we “calm” when brought face to face with notions that challenge the way we have constructed the world around us?
 
 Bogost’s mention of “meditation” and walking is a surprising turn that is obviously an interesting one for future work and writing. Baudelaire, Thoreau, obviously, but he also mentions medieval labyrinths, which are a great example of the kind of reflective activity I’m thinking of. Labyrinths are definitely (or can be) akin to the idea of knitting in front of the television. Activities to be doing while your mind is focused on something else. Is there something to be said for the busy-work of games freeing your mind to go elsewhere? Is this something that can be explored, but just hasn’t been talked about that much? Or is it a tenuous link?
 
-Finally, this quote in his conclusion is pertinent “Relaxation and reflection arise from constrained environments in which the senses are de-emphasized and focused rather than escalated and expanded.” (95)
+Finally, this quote in his conclusion is pertinent 
+	“Relaxation and reflection arise from constrained environments in which the senses are de-emphasized and focused rather than escalated and expanded.” (95)
 
 Is this true? Relaxation, maybe? But reflection? Are we reflecting if our senses have become de-emphasized? Focused, feels right, though. We do want our senses focused and honed in order to see things in a new way. Again, more work to be done by thinking about reflective architecture, and how that can be applied to games.
 ### Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
@@ -51,7 +62,7 @@ It is also worth noting that I think my definition of reflection differs from Gi
 
 While I don’t deny that these activities are “reflective” (in that the player is reflecting on the state of play) I find it slightly removed from reflection in the depper context that I am considering. I want to make some wider gulf between deep reflection and simply “thinking back on past play sessions and what might come next.” Gibbons’ use of reflection reminds me more of Bogost’s discussion of “lean back” media in “How to do Things with Videogames.”
 
-### Jones, L. “Architectural Catalysts to Contemplation"
+### Jones, L. “Architectural Catalysts to Contemplation" from *Transcending Architecture*
 
 Jones' essay turns out to be less applicable than I had originally hoped, but there are still a few interesting things here. While she is focusing (as is the entire collection of which it is a part) on the specifically *religious* side of contemplation, the categorization of modes of sacred spaces into *theatric, sanctuary, and contemplative* is a useful way to think about making these spaces. 
 
