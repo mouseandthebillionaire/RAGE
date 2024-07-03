@@ -3,6 +3,16 @@
 
 A collection of quotes, reflections, design ideas, musings, et cetera pertaining to the readings completed in preparation for comprehensive exams. (Starting June 4, 2024)
 
+### Austin, M. "Music Games," 2021
+
+Not a *ton* here, but I particularly enjoyed the background on some music-games that I was not aware of or had forgotten about, including:
+- [Quest for Fame (1995)](https://www.youtube.com/watch?v=Uka9EQLqlDc)
+- [Dance Aerobics (1987)](https://www.youtube.com/watch?v=pQ6V3D5kpsQ)
+- [Musika (2007)](https://en.wikipedia.org/wiki/Musika)
+- [DropMix (2017)](https://en.wikipedia.org/wiki/DropMix)
+
+Austin's classification of music games as either procedural/conceptual is very interesting, but less pertinent to this current project. There are a couple of additional essays from this collection (*The Cambridge Companion to Video Game Music*) that I may add to the list as they seem more useful, but I will wait until I actually read to make sure they are a good fit. These are Richard Stevens' "The Inherent Conflicts of Musical Interactivity in Video Games," and Elizabeth Medina-Gray's "Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games" And dare I even *suggest* Dana Plank's "Audio and the Experience of Gaming: A Cognitive-Emotional Approach to Video Game Sound"..?
+
 ### Bermudez, J. Introduction to *Transcending Architecture*, 2015
 
 Some really nice thoughts in here. Bermudez's definition of architecture that "transcends" feels particularly helpful: 
