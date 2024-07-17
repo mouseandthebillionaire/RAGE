@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff50e889549d7a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "relatedWork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d0af77de780f2535",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experiments.md",
+                "file": "relatedWork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experiments.md",
+                "file": "relatedWork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experiments.md"
+                "file": "relatedWork.md"
               }
             }
           }
@@ -171,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b98845edcd69a91",
+  "active": "d0af77de780f2535",
   "lastOpenFiles": [
+    "experiments.md",
     "02/audio/media/chime.wav",
     "02/audio/chime.wav",
     "01/audio/media/chime.wav",
@@ -184,7 +172,6 @@
     "02/script.js",
     "02/app.js",
     "02/audio/synth.export.license",
-    "experiments.md",
     "README.md",
     "create a link.md",
     "Welcome.md"
