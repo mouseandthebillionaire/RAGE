@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;">
-      <change afterPath="$PROJECT_DIR$/01/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/style.css" afterDir="false" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Austin's Music Games">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01/audio/chime.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/01/audio/media/chime.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/audio/chime.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/audio/media/chime.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +40,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/m/Documents/_PHD/Research/02/audio/media",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/m/Documents/_PHD/Research&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/02/audio/media" />
@@ -83,7 +83,11 @@
       <option name="presentableId" value="Default" />
       <updated>1718045857314</updated>
       <workItem from="1718045858333" duration="9109000" />
-      <workItem from="1718515912831" duration="29575000" />
+      <workItem from="1718515912831" duration="30177000" />
+      <workItem from="1719519207196" duration="15000" />
+      <workItem from="1719519377136" duration="9566000" />
+      <workItem from="1721326118499" duration="33000" />
+      <workItem from="1721336019953" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -141,7 +145,39 @@
       <option name="project" value="LOCAL" />
       <updated>1719348844901</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="makings: experiment 2&#10;&#10;This experiment swaps the direction from version 1 so that we move from atonal/distorted to tonal/clean. The experiments.md journal discusses this more and considers the results and next steps.">
+      <option name="closed" value="true" />
+      <created>1719518881136</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719518881136</updated>
+    </task>
+    <task id="LOCAL-00009" summary="readings: thoughts on Julio Bermudez's introduction to Transcending Architecture, particularly the use of &quot;transcending&quot; as a design goal">
+      <option name="closed" value="true" />
+      <created>1719861424635</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719861424635</updated>
+    </task>
+    <task id="LOCAL-00010" summary="readings: thoughts on Jensen's Designing for Profound Experiences">
+      <option name="closed" value="true" />
+      <created>1719870458690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719870458690</updated>
+    </task>
+    <task id="LOCAL-00011" summary="readings: thoughts on Austin's Music Games">
+      <option name="closed" value="true" />
+      <created>1720025031668</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720025031668</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +202,10 @@
     <MESSAGE value="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?" />
     <MESSAGE value="makings: experiment 1 exploring simple interactions and a correlation of success with the reduction of effort" />
     <MESSAGE value="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;" />
+    <MESSAGE value="makings: experiment 2&#10;&#10;This experiment swaps the direction from version 1 so that we move from atonal/distorted to tonal/clean. The experiments.md journal discusses this more and considers the results and next steps." />
+    <MESSAGE value="readings: thoughts on Julio Bermudez's introduction to Transcending Architecture, particularly the use of &quot;transcending&quot; as a design goal" />
+    <MESSAGE value="readings: thoughts on Jensen's Designing for Profound Experiences" />
+    <MESSAGE value="readings: thoughts on Austin's Music Games" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Austin's Music Games" />
   </component>
 </project>

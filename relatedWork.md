@@ -107,3 +107,7 @@ thus creating a more reflexive experience, or…</li>
 This second idea is fairly interesting (but slightly disturbing to posit, obviously) BUT, if a normal “good” state in game-play is the flow-state, then wouldn’t we want to take the player out of that state to create a state of reflection? Or, again, can that reflection happen after when they consider the experience they’ve just had? We can also argue, though, that maybe this is what every puzzle does: puts a hard stop on flow and forces the player to confront some new idea and/or reality.
 
 A follow-up question then becomes: *is there a way to create a non-puzzle puzzle-like experience (one that takes the player out of normal flow-state and helps them to have a shift in perception)?*
+
+*"Everything affects everything else and is part of an interconnected whole, like the stars that make up a constellation. Don't discriminate between those stars. Give an equal amount of attention to every one of them, and the world of the sounds around you will become enriched" (38)*
+
+This feels like a good place for a classic puzzly experience and also a key quote to be presented to the player before a sonically reflective interaction.

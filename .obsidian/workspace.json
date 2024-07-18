@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiments.md",
+                "file": "relatedWork.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experiments.md",
+                "file": "relatedWork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experiments.md",
+                "file": "relatedWork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experiments.md"
+                "file": "relatedWork.md"
               }
             }
           }
@@ -173,19 +173,24 @@
   },
   "active": "0b98845edcd69a91",
   "lastOpenFiles": [
-    "02/audio/media/chime.wav",
-    "02/audio/chime.wav",
-    "01/audio/media/chime.wav",
-    "01/audio/chime.wav",
-    "relatedWork.md",
-    "01/style.css",
-    "02/style.css",
-    "02/index.html",
-    "02/script.js",
-    "02/app.js",
-    "02/audio/synth.export.license",
     "experiments.md",
+    "media/images/03.00.png",
+    "media/images/Screen Shot 2024-07-18 at 3.50.16 PM.png",
+    "media/images",
+    "media/untitled folder",
+    "relatedWork.md",
+    "relatedWork.md.md",
+    "relatedWork 1.md",
+    "relatedWork/Koike,.md",
+    "relatedWork",
     "README.md",
+    "experiments/01 Project/01.als",
+    "experiments/01 Project/AbletonTmp-0000",
+    "experiments/01 Project/Icon\r",
+    "experiments/01 Project/Ableton Project Info",
+    "experiments/01 Project",
+    "experiments",
+    "02/audio/media/chime.wav",
     "create a link.md",
     "Welcome.md"
   ]
