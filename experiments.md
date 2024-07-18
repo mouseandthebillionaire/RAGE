@@ -47,7 +47,7 @@ Some ideas arise for a third iteration or for implementation in new prototypes:
 
 For these next series of experiments, I would like to document a few possible version of the audio within Max/RNBO before integrating with p5. There are a lot of ideas here, and I think will be able to iterate faster if I don't have to worry about the p5 (or even visual) side of things.
 
-![[03.00.png]]
+![Max/RNBO patch for experiment 03.00](media/images/03.00.png)
 
 All of these are based on the movement vs. no-movement outlined above, and the entire series will examine specific ideas and improvements within that concept. This first experiment lays down the framework upon which all the others will be built. Six different bell tones were exported out of Ableton Live, each starting on subsequent beats (1, 1.1.2, 1.1.3, etc). When the WASD keys are pressed ('cause it's a *gaaame*) the sounds are triggered, but as soon as all keys are released, the system selects a BPM between 40 and 175 and an interval for each of the 6 notes (8th, quarter, half, whole, double whole \[[breve!](https://en.wikipedia.org/wiki/Double_whole_note)\], and quadruple whole \[[longa!](https://en.wikipedia.org/wiki/Longa_(music))\])
 

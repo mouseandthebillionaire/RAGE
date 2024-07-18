@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relatedWork.md",
+                "file": "experiments.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relatedWork.md",
+                "file": "experiments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relatedWork.md",
+                "file": "experiments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relatedWork.md"
+                "file": "experiments.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "0b98845edcd69a91",
   "lastOpenFiles": [
+    "relatedWork.md",
     "experiments.md",
     "media/images/03.00.png",
     "media/images/Screen Shot 2024-07-18 at 3.50.16 PM.png",
     "media/images",
     "media/untitled folder",
-    "relatedWork.md",
     "relatedWork.md.md",
     "relatedWork 1.md",
     "relatedWork/Koike,.md",
