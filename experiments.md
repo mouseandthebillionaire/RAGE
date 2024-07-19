@@ -75,3 +75,11 @@ I realized in this version that because of the way I have rigged up the groove~ 
 Along with this, the next version will try to randomize the starting time of each note (as outlined above) for more variety. I think for that version I will also include the jumpy staticky sfx loop thing for during the movement phase.
 
 Final note: It is a nice to change to make these without any visuals in mind. I had originally thought about a simple shape that you maneuver around the screen with the WASD keys, but leaving this open creates the opportunity for something to come about more organically. As I interact with them I hope that some obvious (or at least likely) visual representations will come to mind. 
+
+### Experiment 03.02 // 19 Jul, 2024
+
+[Experiment 03.02 on Soundcloud](https://soundcloud.com/thebillionaire/ex0302)
+
+Went ahead and did one with only adding the static sfx loop so as not to get too many extra ideas in here when evaluating. Works better.
+
+Playing out the sound after ending the movement phase sounds nice, but I think it's confusing. User-testing with N shows that she plays it as an instrument (scratch, downward scale, scritch, scratch, downward scale), rather than allowing for the new pattern to emerge, which goes against the goal here...

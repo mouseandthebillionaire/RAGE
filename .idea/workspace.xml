@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="fix: image link">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Meelberg and Sound Design Thinking&#10;&#10;(coming next: sounds on thoughts on thoughts on sound on thoughts)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/0.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/2.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/3.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/4.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/5.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03/audio/audio.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/audio.maxpat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/audio/ex03.00.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/media/audio/ex03.00.mp3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +83,7 @@
       <workItem from="1719519377136" duration="9566000" />
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
-      <workItem from="1721336170983" duration="1024000" />
+      <workItem from="1721336170983" duration="3614000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -212,7 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721336586786</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="makings: Experiment 03.01 - drones, pianos, patterns in stillness and chaos in movement">
+      <option name="closed" value="true" />
+      <created>1721398077933</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721398077933</updated>
+    </task>
+    <task id="LOCAL-00017" summary="readings: thoughts on Meelberg and Sound Design Thinking&#10;&#10;(coming next: sounds on thoughts on thoughts on sound on thoughts)">
+      <option name="closed" value="true" />
+      <created>1721413853383</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721413853383</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +252,8 @@
     <MESSAGE value="readings: thoughts on Austin's Music Games" />
     <MESSAGE value="makings: experiment 03.00&#10;&#10;Along with musings about what is happening here and where it can go" />
     <MESSAGE value="fix: image link" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: image link" />
+    <MESSAGE value="makings: Experiment 03.01 - drones, pianos, patterns in stillness and chaos in movement" />
+    <MESSAGE value="readings: thoughts on Meelberg and Sound Design Thinking&#10;&#10;(coming next: sounds on thoughts on thoughts on sound on thoughts)" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Meelberg and Sound Design Thinking&#10;&#10;(coming next: sounds on thoughts on thoughts on sound on thoughts)" />
   </component>
 </project>
