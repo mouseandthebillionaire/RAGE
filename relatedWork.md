@@ -111,3 +111,18 @@ A follow-up question then becomes: *is there a way to create a non-puzzle puzzle
 *"Everything affects everything else and is part of an interconnected whole, like the stars that make up a constellation. Don't discriminate between those stars. Give an equal amount of attention to every one of them, and the world of the sounds around you will become enriched" (38)*
 
 This feels like a good place for a classic puzzly experience and also a key quote to be presented to the player before a sonically reflective interaction.
+
+### Meelberg, V. "Sound Design Thinking" from *Doing Research in Sound Design*
+
+*"Because of the specific characteristics of sound \[...\], aspects such as communication, relationality and interaction become perhaps even more important in sound design that (sic) in other design disciplines that work with materials other than sound. **It could even be said that sound design is a practice in which such aspects are constantly reflected upon**" (6)
+
+*"Sound is used as a means to reflect on issues related to interaction, communication, and relationality"* (6)
+
+Nice.
+
+*"Sonic thinking stresses that auditory experience is corporeal. Sound are felt before they are interpreted and quantified by listeners. Consequently, in sound design, considered as a form of sonic thinking, it is more important to focus on what a sound does, or can do, than on what sound is.* (14)
+
+
+
+
+
