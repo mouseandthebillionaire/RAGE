@@ -43,7 +43,7 @@ Some ideas arise for a third iteration or for implementation in new prototypes:
 - A version where whoever is playing has to listen to a conversation my kids have with each other (which, for example, might contain them saying the word "fun" over and over and over and over as they read the Star Wars encyclopedia together, which is what they are doing as I am writing this)
 - A version where the player's amount of "focus" changes the vocalized output of an NPC. 
 
-### Experiment 03.00 // 18, Jul, 2024
+### Experiment 03.00 // 18 Jul, 2024
 
 For these next series of experiments, I would like to document a few possible version of the audio within Max/RNBO before integrating with p5. There are a lot of ideas here, and I think will be able to iterate faster if I don't have to worry about the p5 (or even visual) side of things.
 
@@ -63,3 +63,15 @@ Even within this fairly simple system there are some really lovely patterns that
 - Because the sounds are staggered, only the root C2 is getting triggered with the movement action. This is probably fine, but maybe it's worth recording these all out as a single file anyway and targeting their starting time in groove so we only have to load one file instead of 6? 
 - If we do that, then maybe the starting time of each note could be randomized as well (start *after* a quarter-note, half-note, etc) Though right now there are some unexpected patterns happening and hopefully this wouldn't kill those serendipities. 
 - It might also be good to have a sound effect that triggers during the 'movement.' Something to signify "chaos is happening! You're changing things!" Radio static? Jumping around between various sound effects? Both!? I really like the idea of the sound effect business. That might be job 1.
+
+### Experiment 03.01 // 19 Jul, 2024
+
+[Experiment 03.01 on Soundcloud](https://soundcloud.com/thebillionaire/ex0301)
+
+This is working better. The drone below helps to stitch everything together, and the piano is able to cut through the base layer and be heard clearly. This particular piano sound may be *too* jangly or *too* front-and-center, but it works for now. Additionally, I have added some distortion during the movement phase to further push that chaos up a bit.
+
+I realized in this version that because of the way I have rigged up the groove~ objects (and how the notes are staggered in the recordings), every time you stop the movement phase it plays through the remainder of the downward scale, which is kind of nice, but would need to be addressed in the final version if this isn't what we want to happen. 
+
+Along with this, the next version will try to randomize the starting time of each note (as outlined above) for more variety. I think for that version I will also include the jumpy staticky sfx loop thing for during the movement phase.
+
+Final note: It is a nice to change to make these without any visuals in mind. I had originally thought about a simple shape that you maneuver around the screen with the WASD keys, but leaving this open creates the opportunity for something to come about more organically. As I interact with them I hope that some obvious (or at least likely) visual representations will come to mind. 
