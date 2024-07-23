@@ -83,3 +83,15 @@ Final note: It is a nice to change to make these without any visuals in mind. I 
 Went ahead and did one with only adding the static sfx loop so as not to get too many extra ideas in here when evaluating. Works better.
 
 Playing out the sound after ending the movement phase sounds nice, but I think it's confusing. User-testing with N shows that she plays it as an instrument (scratch, downward scale, scritch, scratch, downward scale), rather than allowing for the new pattern to emerge, which goes against the goal here...
+
+### Experiment 03.03 // 23 Jul, 2024
+
+[Experiment 03.03 on Soundcloud](https://soundcloud.com/thebillionaire/ex0303)
+
+Alright. I think we're pretty good here. It sounds pretty much the same as 03.02 but it's working a bit differently under the hood. The gap between stopping and the patterns beginning should be shorter, and hopefully that will translate well to the actual interaction. 
+
+And to PB's point "I guess the big question: how do they feel in relation to some kind of play overlay?" 
+
+I don't know! Let's find out!
+
+First idea is expanding Eno bloom-like circles, but perhaps some more explicit "game-like" interaction after that.
