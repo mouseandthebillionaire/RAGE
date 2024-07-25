@@ -95,3 +95,12 @@ And to PB's point "I guess the big question: how do they feel in relation to som
 I don't know! Let's find out!
 
 First idea is expanding Eno bloom-like circles, but perhaps some more explicit "game-like" interaction after that.
+
+### A Few Scattered Thoughts // 25 Jul, 2024
+
+Most games mirror the underlying urge of life to be active. They don’t want us to stand still, and so to do so is an act of resistance. 
+
+So what does a game that goes against this flow feel like? For that matter, what does a *life* that goes against this flow look like? A person simply sitting on a park bench? Or slowly walking through the city on their daily errands? Is the player who refuses to be rushed along by the game but spend a minute instead looking at the landscape committing an act of protest? Can we create a game where that conflict between action and inaction is implicit in the gameplay? That dares a player to stop. How would you subtly and elegantly communicate the benefit of stillness when the core of the experience is clearly communicating activity? And does something else happen in the mean-time, during the stillness?
+
+A character wanders around a maze, picking up items, the background noise gets louder and louder. Or perhaps a zelda-like, where the music accompanies you when you move, but not when you stop. Maybe there are constant background sounds (bird-chatter, a water feature, wind rustling) but they are unable to be heard whenever the character is moving. Perhaps the water/bird/wind could draw the player’s attention to another portion of the maze where the gameplay splits into new territories. One path for the active. And one for the still.
+
