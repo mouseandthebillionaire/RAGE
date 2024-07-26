@@ -1,27 +1,36 @@
 let canvas;
 let w, h;
+let xoff = 0;
+let r = [25, 30, 40, 50, 60, 70, 80];
+let c = ['#88E3B0','#87E0AE','#6FB88F','#5A9674','#46745A','#315240'];
+
 let device;
-let distortionAMT, delayAMT;
 let sketchStarted=false;
 let audioContext;
+
+// RNBO Control
+let paramInteraction;
+// messages FROM RNBO
+let n = [];
+
+function windowResized() {
+    w = window.innerWidth;
+    h = window.innerHeight;
+    resizeCanvas(w, h);
+}
 
 function setup(){
     w = window.innerWidth;
     h = window.innerHeight;
     canvas = createCanvas(w,h)
-    background('black')
-    fill('red')
-    noStroke()
-    ellipse(100, 100, 50)
+    background('black');
+    noStroke();
+    frameRate(15);
 
     startButton = createButton('Start')
     startButton.position(w/2, h/2)
-    startButton.mousePressed(resumeAudio)
-    audioContext = getAudioContext()
-
-    synth = new p5.MonoSynth()
-    synth.setADSR(10, 1, 1, 5)
-    synth.amp(0.1)
+    startButton.mousePressed(resumeAudio);
+    audioContext = new (window.AudioContext || window.webkitAudioContext)();
 
     rnboSetup(audioContext);
 }
@@ -31,48 +40,97 @@ async function rnboSetup(context){
 
     const { createDevice } = RNBO;
     await context.resume();
-    const rawPatcher = await fetch('exports/patch.export.json');
+    const rawPatcher = await fetch('audio/stillness.export.json');
     const patcher = await rawPatcher.json();
 
-    device = await createDevice ({context: context, patcher});
-
-    // signal chain
-    synth.connect(device.node);
+    device = await createDevice ({context, patcher});
     device.node.connect(outputNode);
 
-    distortionAMT = device.parametersById.get('drive');
-    delayAMT = device.parametersById.get('delayFB');
+    // (Optional) Fetch the dependencies
+    let dependencies = [];
+    try {
+        const dependenciesResponse = await fetch("audio/dependencies.json");
+        dependencies = await dependenciesResponse.json();
+
+        // Prepend the "audio" folder to any file dependencies
+        dependencies = dependencies.map(d => d.file ? Object.assign({}, d, { file: "audio/" + d.file }) : d);
+    } catch (e) {}
+
+    // (Optional) Load the samples
+    if (dependencies.length)
+        await device.loadDataBufferDependencies(dependencies);
+
+    // Parameters
+    paramInteraction = device.parametersById.get('interaction');
+
+    // Messages
+    for(let i=0; i<6; i++)
+    {
+        let name = 'n' + i;
+        n[i] = device.parametersById.get(name);
+    }
 }
 
-function mousePressed(){
-    if(sketchStarted == true){
-        // mouse X is 0-500(w)
-        // Midi is 12-108
-        let note = map(mouseX, 0, w, 12, 108);
-        synth.play(midiToFreq(note), 90, 0, 0.1);
-
-        fill('red');
-        ellipse(mouseX, mouseY, random(200));
-
-
-        let distortion = map(mouseY, 0, h, 0.0, 1.0);
-        let delay = map(mouseX, 0, w, 0.0, 1.0);
-        if(distortionAMT) distortionAMT.normalizedValue = distortion;
-        if(delayAMT) delayAMT.normalizedValue = delay;
+function KeyPress(){
+    if(keyIsPressed){
+        if(key == 'w' || key == 'a' || key == 's' || key == 'd') {
+            if (paramInteraction) {
+                paramInteraction.value = 1;
+                Chaos();
+            }
+        }
+    } else {
+        if (paramInteraction) paramInteraction.value = 0;
     }
+}
+
+function Chaos(){
+    let r = random(255);
+    let g = random(255);
+    let b = random(255);
+    let size = random(100, h);
+    let xLoc = random(w/2 - 500, w/2 + 500);
+    let yLoc = random(h/2 - 300, h/2 + 300);
+    fill(r, g, b);
+    ellipse(xLoc, yLoc, size, size);
+}
+
+function applyParameters() {
+    // Apply the parameters
+    let playSpeedAMT = map(r, 25, w/2, 0.1, 1.0);
 }
 
 function resumeAudio(){
     sketchStarted = true;
     startButton.style('opacity', '0')
 
+
     if(getAudioContext().state !== 'running'){
-        audioContext.resume()
+        audioContext.resume();
     }
 }
 
+function CreateDrop(index) {
+    let xLoc = random((w/2 - 200), (w/2 + 200));
+    fill(c[index]);
+    ellipse(xLoc, h/2, r[index]*2, r[index]*2);
+}
+
 function draw(){
-    background('rgba(0, 0, 0, 0.05)');
+
+
+
+    background('rgba(0, 0, 0, 0.125)');
+    if(sketchStarted == true){
+        for(let i=0; i<n.length; i++){
+            if(n[i]){
+                if(n[i].value == 1){
+                    CreateDrop(i);
+                }
+            }
+        }
+        KeyPress();
+    }
 
 
 }

@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd0d115808f6998a",
+        "id": "3dccd686e3065c75",
         "type": "tabs",
         "children": [
           {
-            "id": "ff50e889549d7a95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "relatedWork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0af77de780f2535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "relatedWork.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b98845edcd69a91",
+            "id": "da22d629a875086d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,21 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b98845edcd69a91",
+  "active": "da22d629a875086d",
   "lastOpenFiles": [
-    "media/audio/ex03.03.mp3",
-    "03/audio/5.wav",
-    "03/audio/AbletonTmp-0000",
-    "03/audio/4.wav",
-    "03/audio/3.wav",
-    "03/audio/2.wav",
-    "03/audio/1.wav",
-    "03/audio/0.wav",
-    "03/audio/staggered/5.wav",
-    "03/audio/staggered/4.wav",
-    "03/audio/staggered/3.wav",
-    "relatedWork.md",
+    "03/audio/media/static.wav",
+    "03/audio/media/drone.wav",
+    "03/audio/drone.wav",
+    "03/audio/static.wav",
+    "03/audio/stillness.export.json",
     "experiments.md",
+    "relatedWork.md",
+    "03/audio/stillness.export.license",
+    "03/style.css",
+    "_template/style.css",
+    "03/exports/media/static.wav",
+    "03/exports/media/drone.wav",
+    "03/exports/media/5.wav",
     "media/images/03.00.png",
     "media/images/Screen Shot 2024-07-18 at 3.50.16 PM.png",
     "relatedWork.md.md",

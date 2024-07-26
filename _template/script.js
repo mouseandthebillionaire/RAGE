@@ -28,7 +28,7 @@ async function rnboSetup(context){
 
     const { createDevice } = RNBO;
     await context.resume();
-    const rawPatcher = await fetch('exports/patch.export.json');
+    const rawPatcher = await fetch('exports/stillness.export.json');
     const patcher = await rawPatcher.json();
 
     device = await createDevice ({context: context, patcher});
