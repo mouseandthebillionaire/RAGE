@@ -119,6 +119,21 @@ A follow-up question then becomes: *is there a way to create a non-puzzle puzzle
 
 This feels like a good place for a classic puzzly experience and also a key quote to be presented to the player before a sonically reflective interaction.
 
+### Kultima, A. *Game Design Praxiology*, 2018
+
+Very visually well-designed dissertation and something to model my own future writing after. There is less of the academic glut here than in other things I have been reading, but I'm still curious if there are ways to push this out even further. On the other hand, where is the line that would be going too far? Great use of personal images, narrative, and writing to tie all of this together.
+
+Building on Nigel Cross's (2007) breakdown of 'design research,' Kultima splits these into _game design praxiology_ (study of game creation) and _game design research_ (studying games as artefacts). (14) I remain slightly more interested (especially as a designer thinking about my own practice) with Cross's third category, _design epistemology_ (study of designerly ways of knowing). There seems to be a real interesting thoughline here with that idea, Ivar Holm's design values, and Bryan Lawson's concept of "guiding principles."
+
+_"The fourth set, the value of artistic expression, innovation and experimentation reflect design values that target games as a multidimensional medium for artistic exploration."_ (80)
+
+Kultima's adaptation of Holm's design values is quite nice here. Thinking of my own work, this notion of a design value of "artistic expression" feels right, and helps to start answering the question, "what kind of games do you enjoy?" It makes sense that designers have these understanding about what is valuable in games (or any artform, really) and that their intended audience would be those that feel the same way. So, a group of friends who enjoy gruesomely shocking horror appreciate the directors and film studios who also value that. And likewise, those filmgoers who are looking for deeply obtuse narrative will gravitate to those types of film (and declare those films "good").[^1] 
+
+_"Throughout my ethnographic period with game developers, it has been clear that the creators value the final product over the ideas. “It is not the idea; it is the execution”_ (103)
+
+Really?
+
+[^1]: Not something that I want to get in to here, but this also calls to mind Brendan Keough's use of Bourdieu's concept of "fields" and the conflict for autonomy.
 ### Meelberg, V. "Sound Design Thinking" from *Doing Research in Sound Design*
 
 *"Because of the specific characteristics of sound \[...\], aspects such as communication, relationality and interaction become perhaps even more important in sound design that (sic) in other design disciplines that work with materials other than sound. **It could even be said that sound design is a practice in which such aspects are constantly reflected upon**" (6)
