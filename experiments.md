@@ -104,3 +104,20 @@ So what does a game that goes against this flow feel like? For that matter, what
 
 A character wanders around a maze, picking up items, the background noise gets louder and louder. Or perhaps a zelda-like, where the music accompanies you when you move, but not when you stop. Maybe there are constant background sounds (bird-chatter, a water feature, wind rustling) but they are unable to be heard whenever the character is moving. Perhaps the water/bird/wind could draw the player’s attention to another portion of the maze where the gameplay splits into new territories. One path for the active. And one for the still.
 
+### Experiment 03.04 // 26 Jul, 2024
+
+WASD to wander. Hands off the keyboard to rest and reflect.
+
+https://mouseandthebillionaire.com/reflectiveStudies/03/
+
+![Screenshot of Experiment 03.03](media/images/03_04.png)
+*Wandering on the left. Reflection on the right*
+
+In this initial implementation of the audio explored in experiments 03.00-03.03 the user is presented with a randomized looping pattern of airy piano notes against a droning background. They can use WASD to "wander" which randomizes the notes and creates a flurry of radio static and jittering notes. Once they stop a new pattern emerges, and they can choose to sit with it for as long as they desire, or continue wandering in search of something new. It is a fairly simple interaction but I think there are a few things working well here:
+
+- Overall the sounds are pleasant. We could possibly increase the jittering during the wander (and maybe even add more delay for a little bit spicier chaos)
+- The position of the smaller circles is randomized (and often multiple times a note due to the lazy way I'm calling it in the p5 code), but there's something nice about that. By having the position (and amount) of the circles inconsistent there's isn't so much of a "ah, I see what's going on here" thing happening. It creates both a hidden visual and acoustic puzzle that feels good to work out.[^1]
+- The colors of the piano note circles are supposed to be tied to the pitch value, but because they are fading out it isn't really possible to notice. I might try and change these to different complimentary rather than analogous color sets, but, as mentioned above, I'm not convinced that would actually be better.
+- The next (and perhaps final) experiment in this set will be to tie this sound solution to more of a "game." I don't really want to have to make an entirely new one, so I'll either find an existing one, or add this to something really simple (Pong? A Pong and/or Breakout where the game is acoustically "punishing" you for trying to actively play is potentially funny)
+
+[^1]: Calling it a "puzzle" is perhaps a bit generous, but there is something about this disconnect that allows the brain to focus more intently on the visuals/sounds which feels successful.

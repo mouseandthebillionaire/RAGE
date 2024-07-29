@@ -4,26 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: thoughts on what we're even doing here">
-      <change afterPath="$PROJECT_DIR$/03/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_template/style.css" afterDir="false" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: experiment 03.04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/audio.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/audio.maxpat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/dependencies.json" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/dependencies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/drone.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/noteTrigger.rnbopat" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/noteTrigger.rnbopat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/patch.export.json" beforeDir="false" afterPath="$PROJECT_DIR$/03/audio/patch.export.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/static.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/synth.export.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/synth.export.license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/exports/dependencies.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/exports/patch.export.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/exports/patch.export.license" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_template/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/_template/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/audio/media/drone.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/audio/media/static.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +86,7 @@
       <workItem from="1719519377136" duration="9566000" />
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
-      <workItem from="1721336170983" duration="26669000" />
+      <workItem from="1721336170983" duration="29428000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -270,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721938486679</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="makings: experiment 03.04">
+      <option name="closed" value="true" />
+      <created>1721961113432</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1721961113432</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +301,7 @@
     <MESSAGE value="makings: experiment 03.03 - dialing in the final setup. Time to stop tinkering around in Max/MSP (don't want to fall in a hole!) and get this thing in some sort of screen-based interaction.&#10;&#10;Question: is this just solo JS Joust!? Oh no!" />
     <MESSAGE value="readings: thoughts on Flusser's Shape of Things, especially on the essay The Non-Thing 1" />
     <MESSAGE value="makings: thoughts on what we're even doing here" />
-    <option name="LAST_COMMIT_MESSAGE" value="makings: thoughts on what we're even doing here" />
+    <MESSAGE value="makings: experiment 03.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="makings: experiment 03.04" />
   </component>
 </project>
