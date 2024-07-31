@@ -144,6 +144,32 @@ Nice.
 
 *"Sonic thinking stresses that auditory experience is corporeal. Sound are felt before they are interpreted and quantified by listeners. Consequently, in sound design, considered as a form of sonic thinking, it is more important to focus on what a sound does, or can do, than on what sound is.* (14)
 
+### Niedderer, K. "Designing Mindful Interaction: The Category of Performative Object," 2007
+
+Niedderer's definition of "performative object" is really helpful here. This is definitely something that I have been dancing around (even as far back as the inclusion of "design interventions" in curriculum), but having a specific definition for this idea in product design is nice. It's notable that she separates out these performative objects from art objects.
+
+_"For example, the display of a half-full water glass on a shelf would not draw anyone’s attention if it were in a kitchen. But if the same glass is called “An Oak Tree” and/or displayed in the context of an (art) gallery, we allow time to notice the glass and its meaning. Mindfulness therefore can be created through the institutional context of art, which is “a certain set of coordinated social practices.” However, the concern here is with objects that can cause mindfulness in the context of everyday use, and not in the institutional context of art"_ (12)
+
+I suppose it makes sense that objects meant to be used as products should exist in a different category than those for art's sake, but I'm not sure (especially when we think about where interactive artforms like video-games might fit in with that) I need to spend more time mulling that over.
+
+Also helpful is this separation of mindfulness into "mindfulness of mindfulness" and "mindfulness of something else"
+
+_"This shows that mindfulness has two components: one is that of awareness or consciousness per se. The other is that of awareness or attentiveness “of something,” (i.e., the phenomenal content). One is the frame of mind, while the other is its content."_ (8)
+
+That splitting of the "frame" and "content" (or form and function) is discussed at length here, and is especially important when she discusses *how* we can cause these mindful interactions.
+
+_"In this sense, if function implies the preconception of a plan of action and if mindfulness can be caused by a disruption of preconception and the experiences linked to it, then we can conclude that a disruption of function could cause a disruption of this preconception of action and the experi- ences linked to it, and thus cause mindfulness. In other words, I argue that a modification of function in the sense of a disruption- of-function can be used to break through patterns of perception and preconception, and to cause mindfulness"_ (10)
+
+This feels fairly in-line with Khaled's concept of both "disruption over comfort" and "reflection over immersion" and Miller et al's "disruptions."
+
+Finally, I hadn't heard of Brainball (now [Mindball](https://www.mindball.se/)) before, and this feels like a pretty great example of behavior-switching leading to reflection in a game-like context. Though I suppose now the questions is: now that it has become a product on its own and this is the norm, is it sill "subverting expectations?"
+
+### Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
+
+A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
+
+Do I need a [Shure MV88](https://www.shure.com/en-US/products/microphones/mv88?variant=MV88%252FA) microphone? Probably not. But I want one...
+
 
 
 
