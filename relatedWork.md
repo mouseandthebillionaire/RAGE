@@ -79,6 +79,15 @@ It is also worth noting that I think my definition of reflection differs from Gi
 
 While I don’t deny that these activities are “reflective” (in that the player is reflecting on the state of play) I find it slightly removed from reflection in the depper context that I am considering. I want to make some wider gulf between deep reflection and simply “thinking back on past play sessions and what might come next.” Gibbons’ use of reflection reminds me more of Bogost’s discussion of “lean back” media in “How to do Things with Videogames.”
 
+### Goudarzi, V. "Sound Design in the Context of Sonification," 2022
+
+Some light history of sound design and sonification more expressly, and a few quotes that could come in handy...
+
+_"Although sonification started as a purely scientific field, practitioners have started to appreciate humanities and aesthetic approaches in auditory display design in recent years"_(256) references Michael Filimowicz's "Piercing Fritz and Snow: An aesthetic field for sonified data." (2014)
+
+Also referenced: Larry Zbikoski's three cognitive processes that all humans use to make sense of the world: categorization, conceptual models, and cross-domain mapping
+
+[Tweetscapes](https://repository.gatech.edu/server/api/core/bitstreams/b157e9da-b815-4b59-922f-340e59ad5bfa/content)
 ### Jensen, J. "Designing for Profound Experiences," 2014
 
 Again, the use of "profound" is a bit of a red herring here. Profound as in containing meaning and being deeper than the "tangible" and "usage" dimensions that he lists (and I suppose there is something profound in the example of riding a bike and being removed from the task at hand \[a la Csikszentmihalyi]), but not the reflective, profound, transcendence that is possible in great art.

@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Lorelei and the Laser Eyes">
-      <change afterPath="$PROJECT_DIR$/03/snake.js" afterDir="false" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: Don't Snake&#10;&#10;an experiment in creating sound design for a game so that it punishes you for playing it. It would rather you just sit and relax for a moment.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -86,7 +86,7 @@
       <workItem from="1719519377136" duration="9566000" />
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
-      <workItem from="1721336170983" duration="42840000" />
+      <workItem from="1721336170983" duration="44243000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -304,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722534143895</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="makings: Don't Snake&#10;&#10;an experiment in creating sound design for a game so that it punishes you for playing it. It would rather you just sit and relax for a moment.">
+      <option name="closed" value="true" />
+      <created>1722535371139</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1722535371139</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +330,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches" />
     <MESSAGE value="readings: thoughts on Tracy Fullerton's short essay about Slow/Reflective play in Bernie De Koven's Infinite Playground" />
     <MESSAGE value="readings: Gibbons definition of Reflection&#10;&#10;In his chapter on &quot;Reflective Play.&quot;, Gibbons looks at how to create reflection-heavy interactions apart from the reaction/reflection cycle. I argue that the pause-state may be a fine place to allow for these reflections, but perhaps we need to design them differently." />
     <MESSAGE value="fix: formatting of the relatedWork document" />
@@ -347,6 +354,7 @@
     <MESSAGE value="readings: thoughts on Niedderer (!) and Sun (?)" />
     <MESSAGE value="readings: thoughts on Thompson's &quot;Soundscape Approach&quot;" />
     <MESSAGE value="readings: thoughts on Lorelei and the Laser Eyes" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Lorelei and the Laser Eyes" />
+    <MESSAGE value="makings: Don't Snake&#10;&#10;an experiment in creating sound design for a game so that it punishes you for playing it. It would rather you just sit and relax for a moment." />
+    <option name="LAST_COMMIT_MESSAGE" value="makings: Don't Snake&#10;&#10;an experiment in creating sound design for a game so that it punishes you for playing it. It would rather you just sit and relax for a moment." />
   </component>
 </project>
