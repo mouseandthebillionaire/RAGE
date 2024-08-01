@@ -170,6 +170,18 @@ A good description of what these projects are, but not really any significant wr
 
 Do I need a [Shure MV88](https://www.shure.com/en-US/products/microphones/mv88?variant=MV88%252FA) microphone? Probably not. But I want one...
 
+### Thompson, I. "The Soundscape Approach: New Opportunities in Sound Design Practice," 2022
+
+Overall a nice and fascinating look at a more holistic type of soundscape analysis, but probably a little less relevant to the things I'm thinking about. *However* there are a ton of useful tidbits/references in here, including:
+
+- "Soundscaping" as a term for the practice of sound design seems useful.
+- Zoviet France's [A Duck in a Tree](https://zovietfrance.podbean.com) podcast regularly features soundscape composition
+- Locus Sonus' [Locustream](https://locusonus.org/vitae/index.php?page=Locustream.en): "open mikes" around the world that permanently stream local soundscapes
+- [Radio Aporee](https://aporee.org)
+- [Soundcamp](http://soundtent.org/index.html): forum for acoustic environment projects/study
+- Brona Martin's [Soundscape Composition: Enhancing our understanding or changing soundscapes](https://www.cambridge.org/core/journals/organised-sound/article/abs/soundscape-composition-enhancing-our-understanding-of-changing-soundscapes/30F025A6192C5CA6B2EBE2FBABB1E760)
+- [Walk Listen Create](https://walklistencreate.org)
+- [Placecloud](https://placecloud.io/): platform for short location-based podcasts
 
 
 
