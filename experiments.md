@@ -121,3 +121,32 @@ In this initial implementation of the audio explored in experiments 03.00-03.03 
 - The next (and perhaps final) experiment in this set will be to tie this sound solution to more of a "game." I don't really want to have to make an entirely new one, so I'll either find an existing one, or add this to something really simple (Pong? A Pong and/or Breakout where the game is acoustically "punishing" you for trying to actively play is potentially funny)
 
 [^1]: Calling it a "puzzle" is perhaps a bit generous, but there is something about this disconnect that allows the brain to focus more intently on the visuals/sounds which feels successful.
+
+### Experiment 03.05 // Don't Snake! // 29 Jul, 2024 
+
+"The only winning move is not to snake"
+
+https://mouseandthebillionaire.com/reflectiveStudies/03/dontSnake.html
+
+![Screenshot of Someone Snaking. Why? Don't Snake!](media/images/dontSnake.gif)
+
+This works! Obviously really thrown together, but adding that playable layer (literally) on top of the last experiment creates this tension between wanting to act (snake) and not. And by deciding to let the snake wrap around the sides, it becomes possible for the player to really stop playing and pay attention to the sonic patterns created as their little snake slowly and repeatedly traverses the playing field. I like it. Also, I did a fairly bad job coding this and the fruit collision doesn't quite work right, which I think is even funnier. You coax your snake to move towards it, and sometimes it will randomly disappear and end up somewhere else which makes that activity feel even more *fruitless.* [^2]
+
+On a side note, the line "the only winning move is not to snake" is obviously a bit of a dad-joke, but really, I think there's something to that idea.
+
+What’s especially compelling to me is the opportunity to ask what are the essential thingness of each game, i.e what makes Pong Pong? If the statement becomes “the only winning move is not to pong” what are you doing, in effect, to _not_ Pong? So, in that instance it feels that hitting the ball with the paddle is “ponging.” We could argue that moving the paddle up and down is also crucial, but only in that it allows us to square up the ball for a good and proper ponging. So, _then_ not-Ponging (anti-Ponging) is to actively move your paddle so that you never hit the ball. Which works well, I think? Every time the ball goes by your paddle, you get a point! The ball hits your paddle? You have Ponged! Game over! 
+
+Pong feels like a real home-run of an application of this idea, but I think the question opens up some really great possibilities.
+
+- The only winning move is not to Break Out (you can move the paddle back and forth, but don’t release the ball or you lose)
+- The only winning move is not to Tetris (an easy one because to “Tetris” is to clear four rows at once, yes? So a Tetris game where you are encouraged not to make clean patterns?)
+- The only winning move is not to Invade (Space Invaders, but there are no invaders. Just your ship relaxingly moving back and forth)
+- The only winning move is not to Out run (Hahaha, Stupid)
+- The only winning move is not to Hunt the Wumpus
+- The only winning move is not to Frogger
+- The only winning move is not to Punchout
+- The only winning move is not to Joust
+
+So yes, a lot here. Probably crank out a few of these either during the comps-time and/or right after to see how they feel. If anything, it could be a nice respite from other thinking activities.
+
+[^2]: Not sorry

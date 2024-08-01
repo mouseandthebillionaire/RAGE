@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: experiment 03.04">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Lorelei and the Laser Eyes">
+      <change afterPath="$PROJECT_DIR$/03/snake.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/media/drone.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/media/static.wav" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -86,7 +86,7 @@
       <workItem from="1719519377136" duration="9566000" />
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
-      <workItem from="1721336170983" duration="29428000" />
+      <workItem from="1721336170983" duration="42840000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -264,7 +264,47 @@
       <option name="project" value="LOCAL" />
       <updated>1721961113432</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="makings: reflection on experiment 03.04">
+      <option name="closed" value="true" />
+      <created>1722271386820</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1722271386820</updated>
+    </task>
+    <task id="LOCAL-00024" summary="readings: thoughts on Kultima's Game Design Praxiology">
+      <option name="closed" value="true" />
+      <created>1722288760064</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722288760064</updated>
+    </task>
+    <task id="LOCAL-00025" summary="readings: thoughts on Niedderer (!) and Sun (?)">
+      <option name="closed" value="true" />
+      <created>1722456473833</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1722456473833</updated>
+    </task>
+    <task id="LOCAL-00026" summary="readings: thoughts on Thompson's &quot;Soundscape Approach&quot;">
+      <option name="closed" value="true" />
+      <created>1722533450295</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1722533450295</updated>
+    </task>
+    <task id="LOCAL-00027" summary="readings: thoughts on Lorelei and the Laser Eyes">
+      <option name="closed" value="true" />
+      <created>1722534143895</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1722534143895</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +342,11 @@
     <MESSAGE value="readings: thoughts on Flusser's Shape of Things, especially on the essay The Non-Thing 1" />
     <MESSAGE value="makings: thoughts on what we're even doing here" />
     <MESSAGE value="makings: experiment 03.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="makings: experiment 03.04" />
+    <MESSAGE value="makings: reflection on experiment 03.04" />
+    <MESSAGE value="readings: thoughts on Kultima's Game Design Praxiology" />
+    <MESSAGE value="readings: thoughts on Niedderer (!) and Sun (?)" />
+    <MESSAGE value="readings: thoughts on Thompson's &quot;Soundscape Approach&quot;" />
+    <MESSAGE value="readings: thoughts on Lorelei and the Laser Eyes" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Lorelei and the Laser Eyes" />
   </component>
 </project>
