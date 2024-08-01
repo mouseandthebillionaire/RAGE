@@ -134,6 +134,13 @@ _"Throughout my ethnographic period with game developers, it has been clear that
 Really?
 
 [^1]: Not something that I want to get in to here, but this also calls to mind Brendan Keough's use of Bourdieu's concept of "fields" and the conflict for autonomy.
+
+### Lorelei and the Laser Eyes. Simogo, 2024
+
+Started playing this one after reading Simogo's [design goals](https://simogo.com/work/loreleiandthelasereyes/) of the project as "black and white, and should have a slower tempo, be more contemplative, and perhaps be puzzle based" which feels pretty in line with what I am interested in here.
+
+After finishing, I'd say that it works pretty well along those goals? It's definitely more puzzly than contemplative/reflective, but there are mechanical and aesthetic aspects of it that are noteworthy. The main thing there is the ambiguity. In their game description page they describe taking influence from Paul Auster with a desire to focus on "exploring story concepts of media within media, stories within stories, and the feeling of characters as more floating concepts, which would leave the player guessing who was who, or when the game even took place." This uncertainty of both narrative and spatial conditions breaks the flow in ways to heighten the reflective matter. 
+
 ### Meelberg, V. "Sound Design Thinking" from *Doing Research in Sound Design*
 
 *"Because of the specific characteristics of sound \[...\], aspects such as communication, relationality and interaction become perhaps even more important in sound design that (sic) in other design disciplines that work with materials other than sound. **It could even be said that sound design is a practice in which such aspects are constantly reflected upon**" (6)
