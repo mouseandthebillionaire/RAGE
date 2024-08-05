@@ -25,7 +25,26 @@ It is this passing on or beyond that I believe games can do well (as perhaps all
 
 ### Bijsterveld, K. "Modes of Listening: Why, How and to What?" 2019
 
+I like this quote from Sophie Gibling's 1918 essay "Types of Musical Listening" about "the lis- tener “who is no listener at all, who passively sits through a concert, intellectually contributing nothing; waiting, like a cabbage or a stone, for something to happen to him. He hears without listening" (Gibling 386)
 
+Likewise, Barry Truax's three modes from *Acoustic Communication* (2001/1984)
+- background listening (not achieving any practical purpose)
+- listening-in-readiness (recognize a vehivle by its sound)
+- listening-in-search (a ship captain's whistle used for echo-orientation)
+
+Bijsterveld separates out "purposes" and "ways" of listening (why/how) for 9 possible combinations. (67) This is a great framework in which to think about how players are engaging with audio in games. Even before learning what these are, I would assume that the general game audience is engaged with only one or two of these. Let's find out!
+
+Purposes
+- Monitory: checking for malfunctions, as you would while driving a car. Used often within sonification and auditory displays (as with medical devices) Listening to see *weather* something is wrong
+- Diagnostic: Listening to see what exactly is wrong
+- Exploratory: listening for something new
+
+Ways
+- Synthetically: wholistic listening (the whole orchestra)
+- Analytically: for specific sounds (the second oboe)
+- Interactively: the listener decides to replace the second oboe with a didgeridoo halfway through in order to better grasp the dynamics of the piece (71)
+
+Bjisterveld is specifically talking about how scientists, engineers, and physicians listen here, so this may not be as useful as in those cases. The Truax typology listed above may be more helpful. However, she claims that Truax is looking at different *degrees* of attention while this is focusing on different *kinds,* and this feels like a good way to think about it. But what are the different kinds of listening that exist for entertainment? Are they the same as here? Different? Additionally, she claims they are not just in the mind, but linked to bodily actions as well (as in the way a doctor uses a stethoscope), which is great. (72)
 
 ### Bogost, I. "Relaxation" from *How to Do Things with Videogames,*  2011
 
