@@ -23,6 +23,10 @@ This feels more aligned with what I think of as reflection than I have found bef
 
 It is this passing on or beyond that I believe games can do well (as perhaps all great art does?) The subject material and the activity goes beyond narrative topics and the mechanics of play into something deeper. Beyond.
 
+### Bijsterveld, K. "Modes of Listening: Why, How and to What?" 2019
+
+
+
 ### Bogost, I. "Relaxation" from *How to Do Things with Videogames,*  2011
 
 Bogost has some interesting excursions into and around reflection in his essay on “Relaxation” in games. And there are definitely some parallels here, but it strikes me that the notion of “relaxing” and/or “zen” games remains in a different category than “reflective” games. The goal of a relaxing game is obviously to relax, and zen games are (per Bogost) “akin to doodling on a napkin or skimming through a magazine, or knitting in front of the television” (92) These really are the lean-back forms of games that Bogost is arguing towards here, where the mind becomes calmer through the activity. But in true “reflective” media is there this calmness? Are we “calm” when brought face to face with notions that challenge the way we have constructed the world around us?
@@ -33,6 +37,10 @@ Finally, this quote in his conclusion is pertinent
 	“Relaxation and reflection arise from constrained environments in which the senses are de-emphasized and focused rather than escalated and expanded.” (95)
 
 Is this true? Relaxation, maybe? But reflection? Are we reflecting if our senses have become de-emphasized? Focused, feels right, though. We do want our senses focused and honed in order to see things in a new way. Again, more work to be done by thinking about reflective architecture, and how that can be applied to games.
+
+### Bukvic, I. "Introduction to Sonification," 2019
+
+Good definition for sonification as "the acoustic representation of data for relational interpretation by listeners, for the purpose of increasing their knowledge of the source from which the data was acquired." (195) Additionally, a good reminder of the paramters that we mainly think about when designing for sonification: pitch, loudness, timbre, duration, location. (198) Otherwise a good refernece for some basic sonification ideas, techniques, and theories (if those things are needed). 
 ### Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
 
 "'Slow play' \[...] allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtures that internal process through its design. its scope, and its pace."
@@ -180,6 +188,21 @@ This feels fairly in-line with Khaled's concept of both "disruption over comfort
 
 Finally, I hadn't heard of Brainball (now [Mindball](https://www.mindball.se/)) before, and this feels like a pretty great example of behavior-switching leading to reflection in a game-like context. Though I suppose now the questions is: now that it has become a product on its own and this is the norm, is it sill "subverting expectations?"
 
+### Schön, D. *The Reflective Practitioner*, 1982
+
+_"This concept of 'application' leads" to a view of professional knowledge as hierarchy in which 'general principles' occupy the highest level and 'concrete problem solving' the lowest"_ (24)
+
+_"Even the famous 'case method' was originally grounded in the belief that the teaching of scientific principles should precede the development of skills in their application"_ (29)
+
+It's noteworthy that these two statements seem to remain true? Even reflecting on the way that I taught foundational design practice to ATLAS students, it was principles/approaches/ideas first, and the opportunity for application after.
+
+A question (which is not relevant to the project-at-hand, but is worthwhile): Is the Technical Rationality model still relevant/used because there is more computing power to run model simulations and thus is not "increasingly divergent from real-world problems of practice" (44)
+
+_"It is this entire process of reflection-in-action which is central to the 'art' by which practitioners sometimes deal well with situations of uncertainty, instability, uniqueness, and value conflict"_ (50)
+
+Much of the material on 'knowing-in-action' that follows this statement is focusing on how we know things (tacit knowledge) rather than on how we learn and or process. I understand that it is setting up his argument for 'reflecting-in-action' (p. 54), but really I wonder if Schön's whole argument about reflection is not entirely what I mean when I am using 'reflection.' Clearly it is more about learning-by-doing/reflecting / tacit microchanges in action. The examples of the baseball player adapting to the hitters he faces and the jazz musician who slightly changes the way he plays to fit in with his fellow players both point to this. A "feel" for the music/ball. They are reflecting. They are in flow. But they are not participating in the reflective/contemplative mindset that we sometimes feel when confronted with art. 
+
+The focus here overall seems to be about learning (which I have seen in those who frequently reference Schön as well), and that feels different from contemplation, but is it? Is a Buddhist monk "learning" when they gain an insight about the world around them? Is a concert-goer learning when they feel moves by a concerto? Or a museum-goer to a piece of art they are experiencing in a new way? Is it better to ignore how these feel disconnected to me and to follow the way that others have come to use and reference Schön?
 ### Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
 A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
