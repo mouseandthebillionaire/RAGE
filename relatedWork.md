@@ -46,6 +46,42 @@ Ways
 
 Bjisterveld is specifically talking about how scientists, engineers, and physicians listen here, so this may not be as useful as in those cases. The Truax typology listed above may be more helpful. However, she claims that Truax is looking at different *degrees* of attention while this is focusing on different *kinds,* and this feels like a good way to think about it. But what are the different kinds of listening that exist for entertainment? Are they the same as here? Different? Additionally, she claims they are not just in the mind, but linked to bodily actions as well (as in the way a doctor uses a stethoscope), which is great. (72)
 
+### Blesser, B. et al. *Spaces Speak, Are You Listening*, 2007
+
+A really fascinating (and probably overly thorough...) look at the subject, but I think that GD's summary actually says it best 
+
+_"We focus often on the 'what', in game audio, what sounds, notes you build the music out of, and how they are connected with the 'what' of the game, characters, actions, emotions, ambiences. We also think a lot about when, the whole idea of non-linear time in game audio (and ambient music). But often not enough on the 'where'. And there’s an interesting reflection to do on the concept of the game as a space, and the often subconscious way in which elements such as reverberation change the emotional reception of sound/music, like filters on a film. Essentially thinking of the game space as not just a 'box' in which you put your music, but as something which is in dialogue with the music, and how the user’s experience is the result of this interaction between score and space."_ (Dimitrov, personal communication)
+
+This also ties in nicely with Bijsterfeld's "Why, How, and What" of listening (above), and perhaps a good way to take this for future writing. Transferring this to sound *design* (rather than listening) can we start outlining:
+- What sounds are we using
+- How are we using those sounds (and how are we expecting them to be used, i.e informational, thematic, mood)
+- Why are we using them (what information is being carried)
+- Where are these sounds taking place.
+
+_"Although we may not be consciously aware that aural architecture is itself a sensory stimulus, we react to it. We may experience a living room as cold or warm independent of its actual temperature, or a train station as lonely and forbidding independent of its actual appearance. The acoustics of a grand cathedral can create an exalted mood; those of a chapel can enhance the privacy of quiet contemplation; those of an elevator can produce the feeling of encapsulation and, in the extreme, claustrophobia. The acoustics of an open area can produce feelings of either freedom or insecurity."_ (2)
+
+The social aspects of aural architecture is also really interesting, Bare marble announces visitors, while muted carpet and heavy drapery communicates comfort (and perhaps privacy?) "The aural architecture of the lobby thus determines whether entering is a public or private event." (3)
+
+Chapter 2 on auditory spatial awareness is fascinating, but perhaps as a bit less to do with my specific areas of focus (though the idea that you can communicate spatial clues to the listener/player is probably one to explore. I'm sure this is already happening in games, and could easily find some successful \[and unsuccessful\] examples) Also, the found aspects of this awareness (social, navigational, aesthetic, and musical) also feel like they could tie in nicely with Bijlsterfeld's typology. (12) Also feels related to Holm's design values?
+
+The model of auditory awareness used here could also really useful (raw sensation -> perception -> emotionally-engaged listening) at least as a different way to explain the Traux typology. (This is also referred to as sensation(detection), perception (recognition) and affect (meaningfulness) on page 14) Additionally, Blesser et al reference Michael Chion's three kinds of listening as "casual, semantic, reduced" (182)
+
+_"‘The iceman had a couple of very heavy cobs...the coalman had a pair of substantial Percherons that always walked . . . the dry-goods store had a lightweight horses . . . and the Chinese vegetable men had very lazy horses.’ In a town with acoustically porous living spaces, you could hear the fishing boats returning to harbor, the children walking home from school, the rattling of leaves in the wind, and the dog fighting with the cat. You would know that it was time to visit your neighbors when you heard their wagon returning from shopping. Sitting at home, and without moving from your chair, you were intimately connected to the activities on your street."_ (30)
+
+Great example of how to think of spaces in nature, private, and public (27). Additionally the concept of public spaces seeping into private (and vice-versa) is great.
+
+_"Unlike practitioners of vocal religions, Quakers value silent prayer as a way to distinguish that activity from the profanity of ordinary speech. They regulate silence using strong rules that forbid transgressing on the religious commons (Bauman, 1983). Group silence is the ultimate manifestation of social cohesiveness because silence can exist only if all members cease from speaking—total deference to the group’s values. When silence dominates, vocalized prayer takes on special meaning: voices framed by the boundaries of silence rather than lost in an ocean of sound. Silence is the central component in many religions and rituals (Szuchewycz, 1997)."_ (33) -- SILENCE
+
+_"the Protestant Reformation shifted to smaller churches, in part, as the means to elevate the importance of the spoken liturgy, which would have been un-intelligible in the acoustics of a large cathedral."_ (65) -- The qualities of an aural space can be fueled by social values. (which is primarily what chapter 3 is about)
+
+_"During the last century, we witnessed two revolutionary shifts in the way we conceive of musical space. First, the recording technology of the early twentieth century split musical space temporally, spatially, socially, and artistically—partitioning what, when, and by whom music could be heard. In doing so, it added many new participants to the process of creating spatial experiences. The computer technology of the late twentieth century then virtualized the space where the music would be heard, how it would be created, and who would be responsible for its aural architecture. As this pattern of virtualization continues, musical space will merge ever more completely with musical instruments, with both becoming ever more abstract."_ (133)
+
+_"The application of aural architecture to cinema is a good example of aesthetically pleasing spatial rules that never presume a space as a real environment. The sound tracks that create the aural image of a space complement the visual image appearing on screen without requiring consistency. The two spaces, one for each sense modality, are neither externally consistent with each other nor internally consistent within themselves. Visual space is constantly switching perspective and distance. Looking at the world through the eye of the camera, a viewer floats through space, penetrates walls, and instantly appears in a remote environment. Meanwhile, for the purposes of creating a mood or telling a story, an aural space may be a mixture of an intimate conversation in a bedroom, soothing music in a cathedral, and natural sounds from an open space. By itself, either the aural or visual space can abruptly change without apol- ogy or warning. In fact, unrelated aural and visual spaces often coexist simultaneously, as for example, observing an automobile race while listening to an intimate conversation in a bedroom."_ (160) -- Film as an example of successful aural architecture in arts media
+
+"_a new branch of the spatial disciplines family appeared in the context of multimedia computer games with interactive audio. This will likely be a new home for aural architects, and especially for innovators who try to match aural to visual spaces._" (294) 
+
+"_We now understand why musical and religious spaces are the most prominent forms of aural architecture. Such spaces emphasize the affective experience, and listeners may feel that the space has personal significance_" (335)
+
 ### Bogost, I. "Relaxation" from *How to Do Things with Videogames,*  2011
 
 Bogost has some interesting excursions into and around reflection in his essay on “Relaxation” in games. And there are definitely some parallels here, but it strikes me that the notion of “relaxing” and/or “zen” games remains in a different category than “reflective” games. The goal of a relaxing game is obviously to relax, and zen games are (per Bogost) “akin to doodling on a napkin or skimming through a magazine, or knitting in front of the television” (92) These really are the lean-back forms of games that Bogost is arguing towards here, where the mind becomes calmer through the activity. But in true “reflective” media is there this calmness? Are we “calm” when brought face to face with notions that challenge the way we have constructed the world around us?
@@ -207,6 +243,7 @@ This feels fairly in-line with Khaled's concept of both "disruption over comfort
 
 Finally, I hadn't heard of Brainball (now [Mindball](https://www.mindball.se/)) before, and this feels like a pretty great example of behavior-switching leading to reflection in a game-like context. Though I suppose now the questions is: now that it has become a product on its own and this is the norm, is it sill "subverting expectations?"
 
+### Pallasmaa, J.
 ### Schön, D. *The Reflective Practitioner*, 1982
 
 _"This concept of 'application' leads" to a view of professional knowledge as hierarchy in which 'general principles' occupy the highest level and 'concrete problem solving' the lowest"_ (24)

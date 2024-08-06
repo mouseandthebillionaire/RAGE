@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Bukvic's &quot;Introduction to Sonification&quot;" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Bijsterfeld&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +86,7 @@
       <workItem from="1719519377136" duration="9566000" />
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
-      <workItem from="1721336170983" duration="48103000" />
+      <workItem from="1721336170983" duration="49390000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -326,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722880965689</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="readings: thoughts on Bijsterfeld&quot;">
+      <option name="closed" value="true" />
+      <created>1722896188433</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1722896188433</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +354,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: formatting of the relatedWork document" />
     <MESSAGE value="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?" />
     <MESSAGE value="makings: experiment 1 exploring simple interactions and a correlation of success with the reduction of effort" />
     <MESSAGE value="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;" />
@@ -369,6 +378,7 @@
     <MESSAGE value="makings: Don't Snake&#10;&#10;an experiment in creating sound design for a game so that it punishes you for playing it. It would rather you just sit and relax for a moment." />
     <MESSAGE value="readings: thoughts on Goudarzi's Sound Design in the Context of Sonification" />
     <MESSAGE value="readings: thoughts on Bukvic's &quot;Introduction to Sonification&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Bukvic's &quot;Introduction to Sonification&quot;" />
+    <MESSAGE value="readings: thoughts on Bijsterfeld&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Bijsterfeld&quot;" />
   </component>
 </project>
