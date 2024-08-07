@@ -96,6 +96,42 @@ Is this true? Relaxation, maybe? But reflection? Are we reflecting if our senses
 ### Bukvic, I. "Introduction to Sonification," 2019
 
 Good definition for sonification as "the acoustic representation of data for relational interpretation by listeners, for the purpose of increasing their knowledge of the source from which the data was acquired." (195) Additionally, a good reminder of the paramters that we mainly think about when designing for sonification: pitch, loudness, timbre, duration, location. (198) Otherwise a good refernece for some basic sonification ideas, techniques, and theories (if those things are needed). 
+
+### Djebbara, Z. et al. "Contemplative neuroaesthetics and architecture: A sensorimotor exploration," 2023
+
+_"we define mindfulness as a state of non-judgmental awareness and focused attention on the present moment, while contemplation as a state of intense concentration, introspection, and open or directed consideration"_ (98) 
+
+Very useful demarcation of contemplation apart from mindfulness. This definition also feels separate from all of the "reflection" definitions floating around. The phrases 'introspection' and 'open consideration' feel especially helpful (introspection, in particular feels more open-ended, less goal-oriented, than the way reflection is used)
+
+_"the brain and body can in both cases engage in contemplative practice to increase well-being by being involved in a heightened level of awareness and presence. That is, the experience of appreciation associated with contemplative practice is itself an aesthetic experience, particularly if it is externally induced."_ (98)
+
+The concept of externally-induced (EX-I) means of reaching contemplative states is helpful. Likewise, it is interesting to note that architects (as *functional* aesthetic practitioners) value them because of the "performative" success of values. All of this seems to align with at least some of how we can think about video games. Are they also "functionally" aesthetic objects? Obviously they are entertainment properties and have less of a function than a building, but for some reason I feel like there is something here. 
+
+_" contemplative practices have been found to significantly improve cognitive and affective performances, enhance immunological response, foster brain growth and plasticity, provide a better sense of well-being, reduce stress, depression, loneliness, anxiety, increase motivation, and raise pain thresholds (Keng et al., 2011; Sumantry and Stewart, 2021)"_ (98) -- why contemplation matters (outside of religious practice)
+
+Contemplation is defined here as:
+_"Contemplation: an intentionally induced state of awareness characterized by present-centeredness, focused and sustained attention, relaxation, decreased mind-wandering, and absence of judgment (Boccia et al., 2015; Bond et al., 2009; Cahn and Polich 2006; Lutz et al., 2008a, 2008b; Nash and Newberg, 2013; Tang et al., 2015)"_ (99)
+
+_"There are remarkable ex- amples of contemporary art and architecture that seek the contemplative, e.g., the works of the light artist James Turrell, the painter Mark Rothko, and the architect Tadao Ando, by integrating and enforcing an embodied experience of presence."_ (100)
+
+_"architecture can lead to contemplative states by enabling individuals to become sensible of the attunement process. When we are in tune with architecture, we engage our body with the external built environment, effortlessly reaching a non-judgmental flow and resonance that leave very little room for analytical thought (Csikszentmihalyi, 1990; Vara Sa ́nchez, 2022, 2023)"_ (101)
+
+Fun to see Csikszentmihalyi's flow being used in a non-game context. (and obviously great to see how an obviously flow-focused medium like games could also use an argument like the one above)
+
+On page 102 Djebbara et al. argue that we need to "move beyond perception by addressing the underlying processes that enable human experiences," which is in line with the perception -> emotionally-engaged listening typology from Blesser, Bjisterveld, etc. We're getting somewhere here! It does not seem too outrageous to start thinking about a **perception/playing -> deeply-engaged/playing** typology...
+
+![[media/images/ex-I_in-I.png]]
+
+I have been thinking about the left to center techniques through the on-going [experiments](experiments.md), but clearly these ideas of the EX-I (right to centre) are a valuable place to be looking.
+
+_"when the appropriate architectural circumstances are in place, directing attention to sensorimotor processes offers a more familiar or natural (and therefore easier) way to initiate contemplative states than quieting the mind on demand by the IN-I mind training"_ (106)
+
+Another great Juhani Pallasmaa quote!
+
+"_When experiencing a structure, we unconsciously mimic its configuration with bones and muscles; the pleasur- ably animated flow of a piece of music is subconsciously transformed into bodily sensations, the composition of an abstract painting is experienced as tensions to the muscular system. The structures of a building are un- consciously imitated and comprehended through the skeletal system unknowingly, as we perform the task of the column or the vault with our body. (Holl et al., 2006)_" (104)
+
+p. 105 good quotes from people experiencing contemplative states from engaging with architecture (Salk Institute, Therme Vals Bath, Chartres)
+
 ### Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
 
 "'Slow play' \[...] allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtures that internal process through its design. its scope, and its pace."
