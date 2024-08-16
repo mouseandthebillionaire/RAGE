@@ -13,6 +13,31 @@ Not a *ton* here, but I particularly enjoyed the background on some music-games 
 
 Austin's classification of music games as either procedural/conceptual is very interesting, but less pertinent to this current project. There are a couple of additional essays from this collection (*The Cambridge Companion to Video Game Music*) that I may add to the list as they seem more useful, but I will wait until I actually read to make sure they are a good fit. These are Richard Stevens' "The Inherent Conflicts of Musical Interactivity in Video Games," and Elizabeth Medina-Gray's "Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games" And dare I even *suggest* Dana Plank's "Audio and the Experience of Gaming: A Cognitive-Emotional Approach to Video Game Sound"..?
 
+### Benjamin, W. "The Work of Art in the Age of Mechanical Reproduction," 1936[^0]
+
+_"Earlier much futile thought had been devoted to the question of whether photography is an art. The primary question—whether the very invention of photography had not transformed the entire nature of art—was not raised. Soon the film theoreticians asked the same ill-considered question with regard to the film."_ (15)
+
+How telling that the same thing has passed for a) tv, b) comic books, c) video games. In general, this is the main takeaway for me from this essay. Not entirely helpful in the reflective/contemplative games discussion, but still fascinating. (Similarly, Benjamin's explanation of Duhamel's critiques of film on p. 33. -- "a pastime for helots, a diversion for uneducated").
+
+_"The audience’s identification with the actor is really an identification with the camera. Consequently the audience takes the position of the camera; its approach is that of testing."_ (18)
+
+I like this claim, and it makes me wonder if there isn't some thought to be thunk about how this works in an interactive (i.e game) setting. Camera still, obviously, but also other things (freedom, challenge, etc) that complicate this.
+
+Also fairly unrelated, but section XIII in which Benjamin discusses psychology and its impact on the permanence of words spoken between people ("Fifty years ago, a slip of the tongue passed more or less unnoticed") is fascinating, especially when we think about this from the present context of social media / digital traces of ourselves online. 
+
+_"it is difficult to say which is more fascinating, its artistic value or its value for science To demonstrate the identity of the artistic and scientific uses of photography which heretofore usually were separated will be one of the revolutionary functions of the film."_ (29)
+
+Can the same be said of computers and games (or software)?
+
+_"One of the foremost tasks of art has always been the creation of a demand which could be fully satisfied only later"_ (30) 😻
+
+_"Distraction and concentration form polar opposites which may be stated as follows: A man who concentrates before a work of art is absorbed by it. He enters into this work of an the way legend tells of the Chinese painter when he viewed his finished painting. In contrast, the distracted mass absorbs the work of art. This is most obvious with regard to buildings. Architecture has always represented the prototype of a work of art the reception of which is consummated by a collectivity in a state of distraction. The laws of its reception are most instructive"_ (33)
+
+The Penguin edition has "the person who stands in *contemplation* before a work of art" here, which obviously grabs my attention. And it raises a good distinction: concentration v. contemplation. Are the masses concentrating on games? Additionally, the image of the masses absorbing the work into themselves is poetically salient, and feels true with video games. They leave the hand of the creator and become something else, sometimes unintended. The audience isn't informed? Something to dwell on here.
+
+_"The public is an examiner, but an absent-minded one."_ (35)
+
+[^0]: note: all pasted quotes are from [this translation](https://web.mit.edu/allanmc/www/benjamin.pdf) rather than the Penguin great ideas edition (thogh page numbers are for the Penguin version)
 ### Bermudez, J. Introduction to *Transcending Architecture*, 2015
 
 Some really nice thoughts in here. Bermudez's definition of architecture that "transcends" feels particularly helpful: 
@@ -122,15 +147,23 @@ On page 102 Djebbara et al. argue that we need to "move beyond perception by add
 
 ![[media/images/ex-I_in-I.png]]
 
-I have been thinking about the left to center techniques through the on-going [experiments](experiments.md), but clearly these ideas of the EX-I (right to centre) are a valuable place to be looking.
+I have been thinking about the left to center (IN-I)techniques through the on-going [experiments](experiments.md), but clearly these ideas of the EX-I (right to centre) are a valuable place to be looking.
 
 _"when the appropriate architectural circumstances are in place, directing attention to sensorimotor processes offers a more familiar or natural (and therefore easier) way to initiate contemplative states than quieting the mind on demand by the IN-I mind training"_ (106)
 
 Another great Juhani Pallasmaa quote!
 
-"_When experiencing a structure, we unconsciously mimic its configuration with bones and muscles; the pleasur- ably animated flow of a piece of music is subconsciously transformed into bodily sensations, the composition of an abstract painting is experienced as tensions to the muscular system. The structures of a building are un- consciously imitated and comprehended through the skeletal system unknowingly, as we perform the task of the column or the vault with our body. (Holl et al., 2006)_" (104)
+"_When experiencing a structure, we unconsciously mimic its configuration with bones and muscles; the pleasurably animated flow of a piece of music is subconsciously transformed into bodily sensations, the composition of an abstract painting is experienced as tensions to the muscular system. The structures of a building are un- consciously imitated and comprehended through the skeletal system unknowingly, as we perform the task of the column or the vault with our body. (Holl et al., 2006)_" (104)
 
 p. 105 good quotes from people experiencing contemplative states from engaging with architecture (Salk Institute, Therme Vals Bath, Chartres)
+
+### Droumeva, M. "Soundwalking in Games," 2023
+
+_"Soundwalking is a performative method that relies on real-time presence and intentional movement through either physical or virtual space."_ (2.1) -- good definition
+
+After reading Djebbara et al. my thoughts on how soundwalking builds on the concept of "flaneur" has changed. We can see that this is obviously coming from the IN-I understanding, where the individual's actions on the space is responsible for creating reflection/contemplation. "In virtual space, the flâneur might subvert the intended narrative by paying attention to sound thus creating new bio-political objectives rooted in the multimodal geography of gamespace, and not in the win-condition of the game" (2.1) It is the participant who is responsible for making this happen, not the spaces themselves. Teaching a player to breathe/listen/slow-down vs. making that a natural outcome of the space. Can we argue that the Cardiff audio walks are in the EX-I (right to centre) category, while the Neuhaus 'LISTEN' project is IN-I?
+
+Note: I agree with all of Droumeva's thoughts on *Season* (4.0.1) (though it should be mentioned that I read this *before* playing the game). Also, "climate grief game" is a real bummer of a category...
 
 ### Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
 
@@ -259,6 +292,29 @@ Nice.
 
 *"Sonic thinking stresses that auditory experience is corporeal. Sound are felt before they are interpreted and quantified by listeners. Consequently, in sound design, considered as a form of sonic thinking, it is more important to focus on what a sound does, or can do, than on what sound is.* (14)
 
+### Miller, J. et al. "A Design Framework for Reflective Play," 2024
+
+The most obvious thing to come out of this is the five 'approaches' for reflective play:
+
+- Disruptions -  specifically *dissonance* and *discomfort*
+- Slowdowns - I like the use of "speed bumps" here. Reminds me of this essay: https://intothespine.com/2021/03/27/in-praise-of-negative-space-in-video-game-storytelling/
+- Questioning
+	- Demanding self-explanation: absurdism, ambiguous instructions/story
+	- Hypothesis testing: multiple solutions, multiple tools, explorable spaces, stsystem dynamics / emergent behavior, projective stance
+- Revisiting - not sure about the benefit of this one...
+- Enhancers
+
+_"we operationalize refection as any cognitive or behavioral reappraisal which supports developing new insights or effecting changes in values or judgment."_ (2.0.1)
+
+_"The kind of refection elicited can be shallow, in-game learning, or deep re-evaluations of ethical and societal world views;"_ (1.0.5)
+
+We have here a definition of 'reflection' similar to how it's being used by others, where a piece of media creates 'change' in the participant. The introduction alone uses phrases like _challenge our foundational belief, reflective or transformational experiences_, and _forming relationships between ideas_. This is in contrast to Djabbara's definition definition of contemplation as "a state of intense concentration, introspection, and open or directed consideration." Obviously, there is a possibility of change from contemplative experiences, but I think the difference here is it is not the stated goal? Specifically, the goal is not *learning*.
+
+That being said, I think that the approaches might also be useful in some part for creating contemplation as well.
+
+Side note: are we doing spoiler alerts in articles now?
+
+[Sabrina's Culyba's _The Transformational Framework_](https://www.transformationalframework.com/) seems like a good reference
 ### Niedderer, K. "Designing Mindful Interaction: The Category of Performative Object," 2007
 
 Niedderer's definition of "performative object" is really helpful here. This is definitely something that I have been dancing around (even as far back as the inclusion of "design interventions" in curriculum), but having a specific definition for this idea in product design is nice. It's notable that she separates out these performative objects from art objects.
