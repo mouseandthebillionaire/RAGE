@@ -255,6 +255,15 @@ Also referenced: Larry Zbikoski's three cognitive processes that all humans use 
 
 ### Jaaniste, L. "Approaching the Ambient: Creative Practice and the Ambient Mode of Being," 2007
 
+The best thing about this thesis is the structure of breaking down the entirety into the four sections of: 
+
+- by way of concepts
+- by way of example
+- by way of making
+- by way of experience
+
+His fundamental goal of rethinking how 'ambiance' is discussed and designed around is laudable (and fascinating), but generally unhelpful for what I will be working on at this stage. 
+
 ### Jensen, J. "Designing for Profound Experiences," 2014
 
 Again, the use of "profound" is a bit of a red herring here. Profound as in containing meaning and being deeper than the "tangible" and "usage" dimensions that he lists (and I suppose there is something profound in the example of riding a bike and being removed from the task at hand \[a la Csikszentmihalyi]), but not the reflective, profound, transcendence that is possible in great art.
@@ -310,6 +319,14 @@ _"Throughout my ethnographic period with game developers, it has been clear that
 Really?
 
 [^1]: Not something that I want to get in to here, but this also calls to mind Brendan Keough's use of Bourdieu's concept of "fields" and the conflict for autonomy.
+
+### Locher, P. et al. "Aesthetic Interaction: A Framework," 2010
+
+A heavily product design leaning understanding of aesthetics, but some good takeaways, including:
+
+- feedforward vs. feedback (73)
+- Wensveen's three types of interactive system information (inherent, augmented, functional) (73-74)
+- the six roles of a product communicated by its appearance (78)
 
 ### Lorelei and the Laser Eyes. Simogo, 2024
 
@@ -386,6 +403,11 @@ _"It is this entire process of reflection-in-action which is central to the 'art
 Much of the material on 'knowing-in-action' that follows this statement is focusing on how we know things (tacit knowledge) rather than on how we learn and or process. I understand that it is setting up his argument for 'reflecting-in-action' (p. 54), but really I wonder if Schön's whole argument about reflection is not entirely what I mean when I am using 'reflection.' Clearly it is more about learning-by-doing/reflecting / tacit microchanges in action. The examples of the baseball player adapting to the hitters he faces and the jazz musician who slightly changes the way he plays to fit in with his fellow players both point to this. A "feel" for the music/ball. They are reflecting. They are in flow. But they are not participating in the reflective/contemplative mindset that we sometimes feel when confronted with art. 
 
 The focus here overall seems to be about learning (which I have seen in those who frequently reference Schön as well), and that feels different from contemplation, but is it? Is a Buddhist monk "learning" when they gain an insight about the world around them? Is a concert-goer learning when they feel moves by a concerto? Or a museum-goer to a piece of art they are experiencing in a new way? Is it better to ignore how these feel disconnected to me and to follow the way that others have come to use and reference Schön?
+
+### Schoffelen, J. et al. "Making and reflecting via Playful Design Representations," 2013
+
+Initially excited about this from a teaching point-of-view, but I think that their proposals and take-aways miss the mark (especially when you consider the MDM framework as a code-design based solution to this problem that works rather well). Perhaps the age of the essay is playing a part here, but coming from a teaching background, getting students to reflect via design journaling doesn't seem as difficult as it is presented here.
+
 ### Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
 A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
