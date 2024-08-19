@@ -181,6 +181,13 @@ _"This new human being in the process of being born all around us and within us 
 
 So much prescience in Flusser's essays, but this feels exceptionally so. Additionally the following line that "life is not a drama for him, but a performance." Really, this whole paragraph should go in here, but trying to focus in on a smaller portion. But yes, especially in my own work, performance is a key aspect. Creating performative opportunities for unnexpected joy. Experiences that are just as fun to watch as they are to play. A positive spin on the darker aspects that Flusser is highlighting. And there are a number of examples of this within the world of games/play, but the few that come to mind most readily are *JS Joust, DDR, [Disunion](https://vimeo.com/65510054)*. Does organized sport fit in here as well? We could argue that in sport performance is *far* more important than fun.
 
+### Frayling, C. "Research n Art and Design," 1993
+
+Rereading Frayling, that distinction of research *for* art and research *through* art stands out (obviously), and I wonder where my own "research" fits in as I continue this process. Clearly I am researching methods, techniques, ideas, etc that can be used to create specific contemplative/reflective experiences (for), but the comprehensive exam process itself (reading, playing games, writing) is *also* fairly contemplative/reflective. This creates a really fascinating combination/overlap. In fact, are both of these not research *for*? The techniques research fits in with materials research, and while Frayling might categorize the precedent research as research *into*, it feels more like research *for* a specific outcome. Truly whole practice truly is part of the research, as Frayling states: 
+
+_"Research is a practice, writing is a practice, doing science is a practice, doing design is a practice, making art is a practice. The brain controls the hand which informs the brain. To separate art and design from all other practices, and to argue that they alone are in a diflerent world. is not only conceptually strange. it may well be artecidal (to use Stuart Macdonald's word)."_ (4) [^0]
+
+[^0:] how unfortunate is the use of 'artecidal' here? I feel like these statements would have more sway without it.
 ### Gibbons, Liam. “Strategies for the Design of Reflective Shortform Videogames,” 2020
 
 Gibbons strategies for making games reflective are as follows (with accompanying pull-quotes and notes):
