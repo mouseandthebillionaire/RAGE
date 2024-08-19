@@ -165,6 +165,23 @@ After reading Djebbara et al. my thoughts on how soundwalking builds on the conc
 
 Note: I agree with all of Droumeva's thoughts on *Season* (4.0.1) (though it should be mentioned that I read this *before* playing the game). Also, "climate grief game" is a real bummer of a category...
 
+### Eyles, M. et al. "Playful Ambience," 2011
+
+A pretty interesting exploration on what it would mean to have ambient play in the true Brian Eno *Music for Airports* sense. Their understanding of the 'fundamental properties' pf ambience are of note (2):
+
+- different levels of engagement by players
+- different levels of affect
+- persistence of the game when players are not present
+- context of the game (where, when, who)
+
+Reading this, I thought frequently about [Jaaniste's *Approaching the Ambient*](### jaaniste,) and how those two understandings of 'ambience' diverge. Eyles et al. feel more in line with what Eno is actually proposing, i.e a music (or other media) that can fluctuate between background and foreground, and this understanding is more compelling from a game design perspective. Likewise, their understanding of the *effect* of ambient music is useful, where it "creates a mood and may affect the way the listener is perceiving, or thinking about, the location" (3).
+
+The first experiment listed (where a pedometer controls the movement of an in-game character) generated a lot of ideas for me. I like the idea of a player-character that you can only control *how much* they move, and not any other qualities. They could be a terrible person and so then the goal becomes to move as little as possible so they do't succeed in their awful tasks. Or they merely procrastinate and you move as much as possible, hoping that they'll get their required tasks done, but when you log-on to check on them you find that they're still playing Candy Crush. [This is a good idea](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG80M2wxeWRsZ3JjZ2lkdTE0cnBsYXlzdnIzbW5pejU1b2VwbmUybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFYxjzJO3zzNqGAwee/giphy.gif).
+
+Over all, I think that this exploration leads to some great discoveries about creating ambient work, and much of this will most likely feed into my research as it continues. The discussion of  different levels of engagement (11) and perceived challenges (9) are especially fruitful.
+
+_"For games with high levels of ambience the perceived complexity should allow different levels of engagement, including the ability to have a very low level of engagement. One consequence of giving players the possibility of engaging at a low level means that it should be possible to perceive the game as having a low level of complexity and hence easily engage with it."_ (11)
+
 ### Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
 
 "'Slow play' \[...] allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtures that internal process through its design. its scope, and its pace."
@@ -235,6 +252,9 @@ _"Although sonification started as a purely scientific field, practitioners have
 Also referenced: Larry Zbikoski's three cognitive processes that all humans use to make sense of the world: categorization, conceptual models, and cross-domain mapping
 
 [Tweetscapes](https://repository.gatech.edu/server/api/core/bitstreams/b157e9da-b815-4b59-922f-340e59ad5bfa/content)
+
+### Jaaniste, L. "Approaching the Ambient: Creative Practice and the Ambient Mode of Being," 2007
+
 ### Jensen, J. "Designing for Profound Experiences," 2014
 
 Again, the use of "profound" is a bit of a red herring here. Profound as in containing meaning and being deeper than the "tangible" and "usage" dimensions that he lists (and I suppose there is something profound in the example of riding a bike and being removed from the task at hand \[a la Csikszentmihalyi]), but not the reflective, profound, transcendence that is possible in great art.
