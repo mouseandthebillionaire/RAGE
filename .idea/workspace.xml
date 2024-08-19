@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes.">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Frayling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
@@ -38,25 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/m/Documents/_PHD/Research/03",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/m/Documents/_PHD/Research/03&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/03" />
@@ -88,6 +88,7 @@
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
       <workItem from="1721336170983" duration="53428000" />
+      <workItem from="1723838819089" duration="1301000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -353,7 +354,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723064737447</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;">
+      <option name="closed" value="true" />
+      <created>1723838849475</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1723838849475</updated>
+    </task>
+    <task id="LOCAL-00035" summary="readings: thoughts on Frayling">
+      <option name="closed" value="true" />
+      <created>1724077657202</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1724077657202</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,8 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;" />
-    <MESSAGE value="makings: experiment 2&#10;&#10;This experiment swaps the direction from version 1 so that we move from atonal/distorted to tonal/clean. The experiments.md journal discusses this more and considers the results and next steps." />
     <MESSAGE value="readings: thoughts on Julio Bermudez's introduction to Transcending Architecture, particularly the use of &quot;transcending&quot; as a design goal" />
     <MESSAGE value="readings: thoughts on Jensen's Designing for Profound Experiences" />
     <MESSAGE value="readings: thoughts on Austin's Music Games" />
@@ -396,6 +411,8 @@
     <MESSAGE value="readings: thoughts on Bijsterfeld&quot;" />
     <MESSAGE value="readings: thoughts on Blesser et al's Aural Architecture" />
     <MESSAGE value="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes." />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes." />
+    <MESSAGE value="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;" />
+    <MESSAGE value="readings: thoughts on Frayling" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Frayling" />
   </component>
 </project>

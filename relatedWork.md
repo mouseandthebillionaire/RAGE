@@ -187,7 +187,15 @@ Rereading Frayling, that distinction of research *for* art and research *through
 
 _"Research is a practice, writing is a practice, doing science is a practice, doing design is a practice, making art is a practice. The brain controls the hand which informs the brain. To separate art and design from all other practices, and to argue that they alone are in a diflerent world. is not only conceptually strange. it may well be artecidal (to use Stuart Macdonald's word)."_ (4) [^0]
 
-[^0:] how unfortunate is the use of 'artecidal' here? I feel like these statements would have more sway without it.
+[^0]: how unfortunate is the use of 'artecidal' here? I feel like these statements would have more sway without it.
+
+### Galloway, K. "Soundwalking and the Aurality of *StarDew Valley*," 2019
+
+This strikes me as a similar approach (at least partly) to Chang's *Playing Nature,* in that the focus is on how digital media can point back out to real physical natural phenomena. I don't deny the power of sound to help with this, but I wonder if there isn't more here, i.e *how can we experience the 'aurality' of* Stardew Valley *as it's own entity, unrelated to the outside world.* Galloway hints at some of this, particularly when she discusses the gulf between character and player
+
+_" I, the player, could hear this music layered over the ambient soundscape, but I wondered what was audible to Darby and the other non-player characters (NPCs) from their unique listening perspectives."_ (167)
+
+"What does it sound like to *be* in *Stardew Valley*" becomes a different question than "What does it feel like to *play Stardew Valley*?" In general, Galloway's switch to these perspectives for the remainder of the essay is interesting. That separation of avatar and player is a really compelling one, and I wodner what a game would look like where the avatar hears things that the player does not (and vice versa).
 ### Gibbons, Liam. “Strategies for the Design of Reflective Shortform Videogames,” 2020
 
 Gibbons strategies for making games reflective are as follows (with accompanying pull-quotes and notes):
