@@ -133,6 +133,14 @@ Is this true? Relaxation, maybe? But reflection? Are we reflecting if our senses
 
 Good definition for sonification as "the acoustic representation of data for relational interpretation by listeners, for the purpose of increasing their knowledge of the source from which the data was acquired." (195) Additionally, a good reminder of the paramters that we mainly think about when designing for sonification: pitch, loudness, timbre, duration, location. (198) Otherwise a good refernece for some basic sonification ideas, techniques, and theories (if those things are needed). 
 
+### Dalsgaard, P. et al. "Reflective Design Documentation," 2012
+
+First things first: the number of times "wicked/wickedness" is used in the introduction is bananas.
+
+The initial statements about the challenges designers face is great, but the discussion of the overall idea and implementation of the software system seems lacking.
+
+_"A strategy for data capture that focuses on specific and well-defined questions most often seems to prompt relatively restricted discussions of the existing research questions"_ (435)
+
 ### Djebbara, Z. et al. "Contemplative neuroaesthetics and architecture: A sensorimotor exploration," 2023
 
 _"we define mindfulness as a state of non-judgmental awareness and focused attention on the present moment, while contemplation as a state of intense concentration, introspection, and open or directed consideration"_ (98) 
