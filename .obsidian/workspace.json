@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a0b2861a4e016792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "relatedWork.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da22d629a875086d",
+  "active": "a0b2861a4e016792",
   "lastOpenFiles": [
+    "README.md",
+    "relatedWork.md",
     "media/images/ex-I_in-I.png",
     "media/images/Screen Shot 2024-08-07 at 4.35.53 PM.png",
     "experiments.md",
     "media/images/dontSnake.gif",
-    "relatedWork.md",
     "03/arson-pro-medium.otf",
     "03/snake.js",
     "03/game.js",
@@ -169,7 +183,6 @@
     "relatedWork.md.md",
     "relatedWork 1.md",
     "relatedWork/Koike,.md",
-    "README.md",
     "create a link.md",
     "Welcome.md"
   ]

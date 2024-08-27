@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Eyles, M. et al. &quot;Playful Ambience&quot;">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on ABZU">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -88,7 +90,7 @@
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
       <workItem from="1721336170983" duration="53428000" />
-      <workItem from="1723838819089" duration="2727000" />
+      <workItem from="1723838819089" duration="4648000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -386,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724088808641</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="readings: thoughts on a few outliers and missed connections...&#10;&#10;Jaaniste's &quot;Approaching the Ambient&quot;&#10;Locher et al's &quot;Aesthetic Interactions&quot;&#10;Schoffelen et al's &quot;Making and Reflection via Playful Design Representations&quot;">
+      <option name="closed" value="true" />
+      <created>1724090514401</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1724090514401</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -404,8 +414,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Austin's Music Games" />
-    <MESSAGE value="makings: experiment 03.00&#10;&#10;Along with musings about what is happening here and where it can go" />
     <MESSAGE value="fix: image link" />
     <MESSAGE value="makings: Experiment 03.01 - drones, pianos, patterns in stillness and chaos in movement" />
     <MESSAGE value="readings: thoughts on Meelberg and Sound Design Thinking&#10;&#10;(coming next: sounds on thoughts on thoughts on sound on thoughts)" />
@@ -429,6 +437,8 @@
     <MESSAGE value="readings: thoughts on Frayling" />
     <MESSAGE value="readings: thoughts on Galloway's Galloway's Soundwalking and the Aurality of *StarDew Valley*," />
     <MESSAGE value="readings: thoughts on Eyles, M. et al. &quot;Playful Ambience&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Eyles, M. et al. &quot;Playful Ambience&quot;" />
+    <MESSAGE value="readings: thoughts on a few outliers and missed connections...&#10;&#10;Jaaniste's &quot;Approaching the Ambient&quot;&#10;Locher et al's &quot;Aesthetic Interactions&quot;&#10;Schoffelen et al's &quot;Making and Reflection via Playful Design Representations&quot;" />
+    <MESSAGE value="readings: thoughts on ABZU" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on ABZU" />
   </component>
 </project>

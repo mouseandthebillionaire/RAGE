@@ -3,6 +3,17 @@
 
 A collection of quotes, reflections, design ideas, musings, et cetera pertaining to the readings completed in preparation for comprehensive exams. (Starting June 4, 2024)
 
+### "ABZU," n.d.
+
+This feels like what I would classify as a contemplative/reflective experience, but it's fascinating to note that it doesn't look anything like what Rilla proposes for design qualities of reflective game design. Specifically:
+
+- The simple puzzles have single answers -- though perhaps the narrative raises questions (Answers OVER Questions)
+- It seems to focus on more of a stealth method of infusing values (Stealth OVER Clarity)
+- The whole thing is a comfortable experience (Comfort OVER Disruption)
+- It is very immersive (Immersion OVER Reflection)
+
+Flow and Flower do the same thing, yes? So again what we are talking about here isn't a "reflective" game at all. It's a potential contemplative/meditative experience, but maybe not one that leads to any real-world knowledge gained. There is still value to this, obviously, but how do you talk about it?
+
 ### Austin, M. "Music Games," 2021
 
 Not a *ton* here, but I particularly enjoyed the background on some music-games that I was not aware of or had forgotten about, including:

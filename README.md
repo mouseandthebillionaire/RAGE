@@ -2,7 +2,5 @@
 
 Sandbox/Playground for PhD research
 
-<ol type="a">
-  <li> Thoughts and notes on related material</li>
-  <li> A series of small experiments for reflection in games, primarily focusing on experimental interactions in p5.js and sound design in RNBO.</li>
-</ol>
+- [Related Work](relatedWork.md) (thoughts and notes on related material)
+- [Experiments](experiments.php) (a series of small experiments for reflection/contemplation in games, primarily focusing on experimental interactions in p5.js and sound design in RNBO)
