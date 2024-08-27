@@ -184,6 +184,21 @@ After reading Djebbara et al. my thoughts on how soundwalking builds on the conc
 
 Note: I agree with all of Droumeva's thoughts on *Season* (4.0.1) (though it should be mentioned that I read this *before* playing the game). Also, "climate grief game" is a real bummer of a category...
 
+### Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry," 2023
+
+In general, a shifting of the ideas of Schön's 'reflective practice' towards Dewey's "artistic practice," specifically by claiming that Son leans on Dewey's idea's but misses some key/useful elements.
+
+_"it has been claimed that Schön overlooks Dewey’s special characterization of experience3 and downplays his emphasis on the embodied, social nature of action."_ (2)
+
+Eklund et al's main problem seems to be that Schön's idea of 'conversation' communicates (pardon my use here) too strongly a thoughtful back and forth between artist/designer and practice/material, when in reality it tends to be more innate. _"Despite the apparent neatness of the above, we note a tension between the supposed immediacy of the artistry described and inherent mediation of conversational metaphor."_ (4) 
+
+More arguments from them (all p. 5):
+- "For Dewey, rather than a purely mental phenomena, thought was to be understood as being of the body, which, in turn, was to be understood as being of the environment"
+- "Thus, thought properly integrated within action is a matter of undergoing the immediate unfolding of situational-ideational qualities not representing—it is in essence ‘pre-reflective’"
+- "The difference in terms of practice is enormous as artists are said to ‘think directly’ in terms of relations of qualities (i.e., they do not take the detour via words or numbers)."
+
+But overall I find this argument fairly pedantic? We understand the idea of a conversation with materials not as an actual conversation, right? A conversation that can happen at speeds to feel/look like instinct. I don't think we need another framework to think about how that appears simply based on language and mental-model differences. But fun to look at the practice through a slightly different lens.
+
 ### Eyles, M. et al. "Playful Ambience," 2011
 
 A pretty interesting exploration on what it would mean to have ambient play in the true Brian Eno *Music for Airports* sense. Their understanding of the 'fundamental properties' pf ambience are of note (2):

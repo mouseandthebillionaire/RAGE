@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Mini Metro">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: (a few) Dalsgaard et al's Reflective Design Documentation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,7 @@
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
       <workItem from="1721336170983" duration="53428000" />
-      <workItem from="1723838819089" duration="6677000" />
+      <workItem from="1723838819089" duration="9084000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -410,7 +411,47 @@
       <option name="project" value="LOCAL" />
       <updated>1724781585857</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
+      <option name="closed" value="true" />
+      <created>1724783494644</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1724783494644</updated>
+    </task>
+    <task id="LOCAL-00042" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
+      <option name="closed" value="true" />
+      <created>1724783496223</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1724783496223</updated>
+    </task>
+    <task id="LOCAL-00043" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
+      <option name="closed" value="true" />
+      <created>1724783502959</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1724783502959</updated>
+    </task>
+    <task id="LOCAL-00044" summary="readings: (a few) Dalsgaard et al's Reflective Design Documentation">
+      <option name="closed" value="true" />
+      <created>1724786256890</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1724786256890</updated>
+    </task>
+    <task id="LOCAL-00045" summary="readings: (a few) Dalsgaard et al's Reflective Design Documentation">
+      <option name="closed" value="true" />
+      <created>1724786263678</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1724786263678</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,8 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: Experiment 03.01 - drones, pianos, patterns in stillness and chaos in movement" />
-    <MESSAGE value="readings: thoughts on Meelberg and Sound Design Thinking&#10;&#10;(coming next: sounds on thoughts on thoughts on sound on thoughts)" />
     <MESSAGE value="makings: experiment 03.02&#10;&#10;ground control to major tom" />
     <MESSAGE value="makings: experiment 03.03 - dialing in the final setup. Time to stop tinkering around in Max/MSP (don't want to fall in a hole!) and get this thing in some sort of screen-based interaction.&#10;&#10;Question: is this just solo JS Joust!? Oh no!" />
     <MESSAGE value="readings: thoughts on Flusser's Shape of Things, especially on the essay The Non-Thing 1" />
@@ -453,6 +492,8 @@
     <MESSAGE value="readings: thoughts on a few outliers and missed connections...&#10;&#10;Jaaniste's &quot;Approaching the Ambient&quot;&#10;Locher et al's &quot;Aesthetic Interactions&quot;&#10;Schoffelen et al's &quot;Making and Reflection via Playful Design Representations&quot;" />
     <MESSAGE value="readings: thoughts on ABZU" />
     <MESSAGE value="readings: thoughts on Mini Metro" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Mini Metro" />
+    <MESSAGE value="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives" />
+    <MESSAGE value="readings: (a few) Dalsgaard et al's Reflective Design Documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: (a few) Dalsgaard et al's Reflective Design Documentation" />
   </component>
 </project>
