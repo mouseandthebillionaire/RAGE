@@ -378,6 +378,13 @@ That being said, I think that the approaches might also be useful in some part f
 Side note: are we doing spoiler alerts in articles now?
 
 [Sabrina's Culyba's _The Transformational Framework_](https://www.transformationalframework.com/) seems like a good reference
+
+### Disasterpeace. “Mini Metro,” n.d.
+
+The menu soundtrack alone makes me want to to give up. This is exactly what I have been talking about! I’m glad to be playing this after seeing the talk about it because I already am making deeper connections to what is happening here.
+
+In general the sounds are really pleasing. It does such a good job of communicating what happens to you in a very musical way. I don’t think that it’s easy to discern exactly what it is trying to communicate (expect the “there’s a new station” sound which is perfect), but you get that the sounds are tied to something, and I think that’s enough
+
 ### Niedderer, K. "Designing Mindful Interaction: The Category of Performative Object," 2007
 
 Niedderer's definition of "performative object" is really helpful here. This is definitely something that I have been dancing around (even as far back as the inclusion of "design interventions" in curriculum), but having a specific definition for this idea in product design is nice. It's notable that she separates out these performative objects from art objects.
