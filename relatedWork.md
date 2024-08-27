@@ -264,6 +264,17 @@ Also referenced: Larry Zbikoski's three cognitive processes that all humans use 
 
 [Tweetscapes](https://repository.gatech.edu/server/api/core/bitstreams/b157e9da-b815-4b59-922f-340e59ad5bfa/content)
 
+### Hambleton, E. “Gray Areas: Analyzing Navigable Narratives in the Not-So-Uncanny Valley Between Soundwalks, Video Games, and Literary Computer Game,” 2020): 20–43.
+
+"Navigable narratives" is a good alternative name for walking simulators, but I wonder if other narrative types are not also navigable. Can you not navigate the narrative in a text adventure? Though I suppose her definition naturally excludes them. You invent the genre name, you get to decide what fits in it (*The Witness* has puzzles so can't be one. Okay?) This is a bit besides the point, though.
+
+More importantly, the crossover with soundwalks is great. A few notes:
+- Hambleton's statement that most navigable narratives imitate reality (on p. 23) makes me immediately wonder how we can create ones that don't. And why more people haven't?
+- The idea that most composers of soundscapes focus on certain key sounds (p. 24) and the discussion of earcons (26) lays a pretty good foundation of thought on why game sound in general might feel a little thin.
+- Likewise, thinking of loops and stinger as "essentially a video game-based way of working Schaferian analysis" is a great description. (33) It really helps to differentiate *that* kind of sonic understanding/creation with what Cardiff does (and with what I would like to do). Schaffer's main goal is to help listener's identify the songs (stingers) they are hearing (highlight the sonic landscape) while Cardiff is doing something different. I'm not sure if that differense lies with the "narrator-guide" technique or the weaving of "imaginative stories, philosophy, and poetry into the larger narrative," but it is a start of a delineation. (37-38)
+- Astrid Ensslin's notion of different 'literary computer games' doesn't necessarily fit in with this current line of inquiry, but those additional genre separation's are great -- ludic hypermedia,” “interactive fiction/drama,” “poetry games,” “literary auteur games,” and “quasi-literary games. (34)
+- "Soundwalks are fixed in real time while navigable narratives are not" (40) but does this have to be the case? Also, can we not argue that it is possible to pause a soundwalk (I did) just like you can a video game?
+
 ### Jaaniste, L. "Approaching the Ambient: Creative Practice and the Ambient Mode of Being," 2007
 
 The best thing about this thesis is the structure of breaking down the entirety into the four sections of: 

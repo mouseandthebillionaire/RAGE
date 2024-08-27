@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on ABZU" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Mini Metro">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +88,7 @@
       <workItem from="1721326118499" duration="33000" />
       <workItem from="1721336019953" duration="144000" />
       <workItem from="1721336170983" duration="53428000" />
-      <workItem from="1723838819089" duration="5284000" />
+      <workItem from="1723838819089" duration="6677000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -399,7 +402,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724780059551</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="readings: thoughts on Mini Metro">
+      <option name="closed" value="true" />
+      <created>1724781585857</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1724781585857</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: image link" />
     <MESSAGE value="makings: Experiment 03.01 - drones, pianos, patterns in stillness and chaos in movement" />
     <MESSAGE value="readings: thoughts on Meelberg and Sound Design Thinking&#10;&#10;(coming next: sounds on thoughts on thoughts on sound on thoughts)" />
     <MESSAGE value="makings: experiment 03.02&#10;&#10;ground control to major tom" />
@@ -442,6 +452,7 @@
     <MESSAGE value="readings: thoughts on Eyles, M. et al. &quot;Playful Ambience&quot;" />
     <MESSAGE value="readings: thoughts on a few outliers and missed connections...&#10;&#10;Jaaniste's &quot;Approaching the Ambient&quot;&#10;Locher et al's &quot;Aesthetic Interactions&quot;&#10;Schoffelen et al's &quot;Making and Reflection via Playful Design Representations&quot;" />
     <MESSAGE value="readings: thoughts on ABZU" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on ABZU" />
+    <MESSAGE value="readings: thoughts on Mini Metro" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Mini Metro" />
   </component>
 </project>
