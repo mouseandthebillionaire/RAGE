@@ -487,6 +487,13 @@ The focus here overall seems to be about learning (which I have seen in those wh
 
 Initially excited about this from a teaching point-of-view, but I think that their proposals and take-aways miss the mark (especially when you consider the MDM framework as a code-design based solution to this problem that works rather well). Perhaps the age of the essay is playing a part here, but coming from a teaching background, getting students to reflect via design journaling doesn't seem as difficult as it is presented here.
 
+### Stockburger, A. "Listen to the Bulk of the Iceberg: On the Impact of Sound in Digital Games," 2007
+
+Much shorter than expected! But a couple of good (if slightly hyperbolic\[?]) quotes:
+
+_"it is truly sound that holds the key to fully accessing 3D representational spaces simply because the human perception system presupposes this"_ (111)
+
+_"\[T]he ‘pong’ sound of the collision detection seems like a reward for the right answer in a responsible game, and its steady recurrence makes audible the functioning of this ball game and thus couples man and game to the beat of a shared internal clock."_ (112) -- Claus Pias
 ### Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
 A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
