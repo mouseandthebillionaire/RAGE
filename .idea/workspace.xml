@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry,&quot;">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +89,7 @@
       <workItem from="1721336019953" duration="144000" />
       <workItem from="1721336170983" duration="53428000" />
       <workItem from="1723838819089" duration="13050000" />
+      <workItem from="1725375881939" duration="1266000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -457,7 +459,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724789247264</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*">
+      <option name="closed" value="true" />
+      <created>1725375927288</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1725375927288</updated>
+    </task>
+    <task id="LOCAL-00048" summary="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg">
+      <option name="closed" value="true" />
+      <created>1725376540710</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1725376540710</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,8 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: experiment 03.03 - dialing in the final setup. Time to stop tinkering around in Max/MSP (don't want to fall in a hole!) and get this thing in some sort of screen-based interaction.&#10;&#10;Question: is this just solo JS Joust!? Oh no!" />
-    <MESSAGE value="readings: thoughts on Flusser's Shape of Things, especially on the essay The Non-Thing 1" />
     <MESSAGE value="makings: thoughts on what we're even doing here" />
     <MESSAGE value="makings: experiment 03.04" />
     <MESSAGE value="makings: reflection on experiment 03.04" />
@@ -500,6 +516,8 @@
     <MESSAGE value="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives" />
     <MESSAGE value="readings: (a few) Dalsgaard et al's Reflective Design Documentation" />
     <MESSAGE value="readings: thoughts on Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry,&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry,&quot;" />
+    <MESSAGE value="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*" />
+    <MESSAGE value="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg" />
   </component>
 </project>

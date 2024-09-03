@@ -466,7 +466,26 @@ Misc:
 - David Kanaga's [writing about the compositional methods in Proteus](http://wombflashforest.blogspot.com/)
 
 Note: Reading this *before* playing *Proteus* was an interesting experience. I think it was actually helpful to have done so, but I made sure that I didn't repeat this when playing *Panoramical*. 
-### Pallasmaa, J.
+### Pallasmaa, J. "Light, Silence, and Spirituality in Architecture and Art," 2015
+
+(from *Transcending Architecture*)
+
+The language that Pallasmaa uses to describe deep experiences with "secular" objects is the real key to start explaining the type of interactions I am looking to explore. 
+
+_"The spirituality invoked by a secular artistic work is a personal and individual existential experience which obtains its aura and impact through the inherent nature of human experience itself without any explicit religious symbolization, connotation, or designation. Such an experience may arise, for example, from an exceptional atmospheric character of place or space, expressiveness of form, immensity of scale, intense materiality or color, or a transcendent illumination."_ (20)
+
+I would imagine that there is plenty of writing in this vein about the natural world as well, but it is especially helpful here when talking about designed objects, and, most-importantly, **non-art objects.** 
+
+Pallasmaa's use of the "notion of the sublime" is also compelling. (21) He traces it as an essential part of 19th century Romantic art that was reintroduced by the Abstract Expressionists and Minimalists. Enough pedigree for me! Is that a possible label: "sublime games"..? Don't love it. Especially with the obvious LBC band connections... But still. Something there.
+
+_"The marble courtyard of Louis Kahn’s Salk Institute in La Jolla, California, seen against the horizon line of the Pacific Ocean, turns the sky into the celestial ceiling of this ascetic but metaphysical outdoor space; this authoritative space confronts the individual with the universe and silences her/him to cosmic reflection."_ (22) -- the "reflection" that I mean!
+
+"_Works of art open up channels of feeling, understanding, and empathy that would not be available for us without the authoritative and magical presence of the artistic imagery. These works present us with phenomena of beauty, spirituality, and transcendence that we could not otherwise confront, identify, and grasp. Artistic experience is an act of collaboration, compassion, and sharing that opens us toward the world."_ (23)
+
+_"Whenever we are struck by a profound piece of art, architecture, painting, or music, the work silences us and we find ourselves listening to our own existence."_ (29) -- BOOM!
+
+_"In the middle of today’s digital, virtual, and instantaneous utopia, we desire to reencounter the fundamental causalities and limits of life."_ (32)
+
 ### Schön, D. *The Reflective Practitioner*, 1982
 
 _"This concept of 'application' leads" to a view of professional knowledge as hierarchy in which 'general principles' occupy the highest level and 'concrete problem solving' the lowest"_ (24)
