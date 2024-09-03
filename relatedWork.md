@@ -439,6 +439,33 @@ This feels fairly in-line with Khaled's concept of both "disruption over comfort
 
 Finally, I hadn't heard of Brainball (now [Mindball](https://www.mindball.se/)) before, and this feels like a pretty great example of behavior-switching leading to reflection in a game-like context. Though I suppose now the questions is: now that it has become a product on its own and this is the norm, is it sill "subverting expectations?"
 
+### O'Hara, W. "Mapping Sound: Play, Performance, and Analysis in *Proteus*," 2020
+
+O'Hara's analysis of *Proteus* in conversation with mid-twentieth-century musical modernism is pretty much a slam dunk. The idea of thinking through scores graphically (especially in context of video game music) fits really well here. It definitely gets into the weeds a little bit in analyzing the actual musical content, but I appreciated the higher-level suggestions, especially when thinking about it from my own compositional practices. 
+
+Some quotes and ideas that stood out:
+
+_"The player’s dual orientation makes analysis challenging; as the decisions and desires of the performing self intertwine with, reinforce, and contradict the decisions and desires of the observing self, it becomes difficult to mark off where one ends and the other begins."_ (39) -- This echos Galloway's problem with avatar vs. player. 
+
+_"Audio in Proteus walks a line between two categories of game sound described by Karen Collins: interactive sound, which responds directly to the player’s input (e.g., the sound of Mario’s jump in Super Mario Bros.); and adaptive sound, which reflects changing states of the game that are outside the player’s direct control (e.g., changing soundscapes or soundtrack cues to reflect the passage of day into night in The Legend of Zelda series). Elements of the game’s environment, such as trees, water, gravestones, and birds, produce sounds in characteristic but unpredictable ways. The island and its environmental features act as a kind of indeterminate notation, depicting general shapes and contours. The nature of the objects sometimes gives a clue as to the sounds that will be produced—the mimetic noises made by moving animals, or the deep tones of the dark, imposing gravestones—but the relationship between image and sound is just as often hidden (as is the case with the slow synthesizer melodies that seem to accompany trees)."_ (44)
+
+In general, I really appreciated the adaptability and depth of possibilities that the compositional structure afforded, but I wished that the sounds themselves worked more in harmony with each other. I found that *Panoramical* did a much better job of this, and I assume that it's a matter of improving the craft as you work from project to project (though I could be wrong, and the sounds chosen here are more purposeful than I imagine). In a footnote, O'Hara references Ian Bogost's statement that *Proteus* works as a "makeshift ambient sound generator" which feels accurate 
+
+_"Videogames are musical interfaces."_ (45) -- Full stop. Good.
+
+_"In music theoretical terms, the collapse of the performer/listener dichotomy is traumatic: it means the dissolution of the Cartesian subject/object divide that underlies much of Western musical thought."_ (48)
+
+ I don't know if I agree with this. There is something a bit more nuanced, I believe. Instead of thinking about it as a breakdown between performer/listener, I would more often think of it in terms of a composer/performer relationship. Just as a performer can still "feel" the music a composer has written out for them, making slight variations in performative space, so the player can make these micro adjustments to explore the musical space laid out in these digital compositions.  
+ 
+![[proteusWalkingScore.png]]
+
+I'm in love with Kanaga's walking score for Proteus, both as a way to think of the game compositionally, and also obviously with how it relates to the experiences being created/curated by Cardiff/Miller. It feels like a crack of light begins to emerge that shows how to deal with these relationships.
+
+Misc:
+- Collins, K: [An Introduction to Procedural Music in video Games](- [https://doi.org/10.1080/07494460802663983](https://doi.org/10.1080/07494460802663983))
+- David Kanaga's [writing about the compositional methods in Proteus](http://wombflashforest.blogspot.com/)
+
+Note: Reading this *before* playing *Proteus* was an interesting experience. I think it was actually helpful to have done so, but I made sure that I didn't repeat this when playing *Panoramical*. 
 ### Pallasmaa, J.
 ### Schön, D. *The Reflective Practitioner*, 1982
 
