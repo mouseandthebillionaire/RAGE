@@ -287,6 +287,18 @@ Also referenced: Larry Zbikoski's three cognitive processes that all humans use 
 
 [Tweetscapes](https://repository.gatech.edu/server/api/core/bitstreams/b157e9da-b815-4b59-922f-340e59ad5bfa/content)
 
+### Hallnäs, L et al. "Expressions: Towards a Design Practice of Slow Technology," 2001
+
+Hallnäs et al "describe Slow Technology \[as] technology aimed at promoting moments of reflection and mental rest" (abstract) which again, feels like it is in line with what I think about when I describe reflection: "mental rest" over "insight." I enjoy all of the examples in this paper; how they are built experiments from the team and what the implications of those objects might be for slow technology and reflection.
+
+This week I tried out "slow games" as a way to think/speak about the experiments that I am engaging with, but it is too confusing/close to the idea of cozy games to work well, I think.
+
+_"We have taken the exploration of temporal structures and different time-spans as a starting point for an investigation of the aesthetics of computational material"_ (2.1)
+
+This is also a great way of framing the exploration; thinking of the aesthetical properties of an experience. Perhaps this is a better way of talking about the overall structure of the exploration? Pushing on reflective/contemplative/slow "*aesthetics*" over "experiences."
+
+_"Aesthetics: When we want to find out more about the intrinsic expressions of computational technology as material for design, we sometimes have to disregard functionality"_ (6.4)
+
 ### Hambleton, E. “Gray Areas: Analyzing Navigable Narratives in the Not-So-Uncanny Valley Between Soundwalks, Video Games, and Literary Computer Game,” 2020): 20–43.
 
 "Navigable narratives" is a good alternative name for walking simulators, but I wonder if other narrative types are not also navigable. Can you not navigate the narrative in a text adventure? Though I suppose her definition naturally excludes them. You invent the genre name, you get to decide what fits in it (*The Witness* has puzzles so can't be one. Okay?) This is a bit besides the point, though.

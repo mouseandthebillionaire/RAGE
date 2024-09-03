@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
-    </list>
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +86,7 @@
       <workItem from="1721336019953" duration="144000" />
       <workItem from="1721336170983" duration="53428000" />
       <workItem from="1723838819089" duration="13050000" />
-      <workItem from="1725375881939" duration="1266000" />
+      <workItem from="1725375881939" duration="1909000" />
     </task>
     <task id="LOCAL-00001" summary="makings: _template and initial experiment&#10;&#10;First experiment is just testing that I can hook RNBO up to p5 using some tutorial that I found but don't remember what it is anymore. I will find later for posterity. &#10;&#10;_template file here is a bare bones version of the RNBO p5 hookup that I can use as a starting point for all future sketches">
       <option name="closed" value="true" />
@@ -475,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725376540710</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;">
+      <option name="closed" value="true" />
+      <created>1725382241017</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1725382241017</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: thoughts on what we're even doing here" />
     <MESSAGE value="makings: experiment 03.04" />
     <MESSAGE value="makings: reflection on experiment 03.04" />
     <MESSAGE value="readings: thoughts on Kultima's Game Design Praxiology" />
@@ -518,6 +522,7 @@
     <MESSAGE value="readings: thoughts on Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry,&quot;" />
     <MESSAGE value="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*" />
     <MESSAGE value="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg" />
+    <MESSAGE value="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
   </component>
 </project>
