@@ -299,6 +299,27 @@ This is also a great way of framing the exploration; thinking of the aesthetical
 
 _"Aesthetics: When we want to find out more about the intrinsic expressions of computational technology as material for design, we sometimes have to disregard functionality"_ (6.4)
 
+### Hallnäs and Redström. “Slow Technology - Designing For Reflection,” 2001
+
+A companion paper to the Expressions paper above, this gives further examples (some external) of what "slow technology" may look like. Their reference of other phrases is useful ("calm technology" and "ambient media") and I have looked at papers touching on these throughout the comps time. Their idea of slow technology is dealing primarily with ubiquitous computing which is extremely fascinating, but pertains less to traditional video game play. However, there is clearly a space for this when thinking about future experiments, with Kara Stone's [Ritual of the Moon](**[https://karastone.itch.io/ritual-of-the-moon](https://karastone.itch.io/ritual-of-the-moon)**) being an obvious touchpoint.
+
+This whole paper is *full* of great quotes specifically thinking about how slowness can bring about reflection. (and their use of reflection is in line with how I would like to think about it, though it is worth noting that they do not define how they are suing reflection)
+
+_"What are the characteristics of in- formation and computing technology that initiate changes towards a more reflective environment? One partial answer to this question is that such technology is slow in nature.
+Imagine an electronic doorbell that plays short fragments of a very long melody each time we press the doorbell button. To fully grasp the doorbell through its behaviour, we have to stop and reflect for a moment each time it rings and only over time can we grasp the whole melody. It is technology that claims time."_ (2) #slowness
+
+_"We can compare the two doorbells with, say, the distinction between fast-food such as ready- made hamburgers and a gourmet meal. In both cases it is food to eat, but there is a fundamental difference in appearance. While the readymade hamburger is all about fast, efficient uniformity – the mechanisation of eating – gourmet cuisine is slow food, in terms of both preparation and eating, which invites us to reflect on the art of cooking as well as the art of eating."_ (2)
+
+_"All design with deep roots in art is concerned with amplifying the presence of things to make them into something more than efficient tools for specific, well-defined tasks "_ (2)
+
+_"Given these objectives design will have to be evaluated by investigating the design, perhaps in a way similar to the methods developed in art critique: cultivating evaluation as the art of explanation and understanding."_ (7)
+
+_"focus on slowness of appearance (materialisation, manifestation) and presence – the slow materialisation and design presence of form (F)
+. focus on aesthetics of material and use simple basic tools of modern technology – the clear and simple design presence of material (M)."_ (8)
+
+Misc:
+- Soniture (4) is a great word - "With soniture, we mean the more or less movable things in a room that give the room its sounds"
+
 ### Hambleton, E. “Gray Areas: Analyzing Navigable Narratives in the Not-So-Uncanny Valley Between Soundwalks, Video Games, and Literary Computer Game,” 2020): 20–43.
 
 "Navigable narratives" is a good alternative name for walking simulators, but I wonder if other narrative types are not also navigable. Can you not navigate the narrative in a text adventure? Though I suppose her definition naturally excludes them. You invent the genre name, you get to decide what fits in it (*The Witness* has puzzles so can't be one. Okay?) This is a bit besides the point, though.
