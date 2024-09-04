@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on PHallnäs, L et al. &quot;Expressions: Towards a Design Practice of Slow Technology&quot;">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
@@ -90,14 +90,7 @@
       <workItem from="1721336170983" duration="53428000" />
       <workItem from="1723838819089" duration="13050000" />
       <workItem from="1725375881939" duration="3773000" />
-    </task>
-    <task id="LOCAL-00002" summary="readings: thoughts on Tracy Fullerton's short essay about Slow/Reflective play in Bernie De Koven's Infinite Playground">
-      <option name="closed" value="true" />
-      <created>1718123139900</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1718123139900</updated>
+      <workItem from="1725461737673" duration="3037000" />
     </task>
     <task id="LOCAL-00003" summary="readings: Gibbons definition of Reflection&#10;&#10;In his chapter on &quot;Reflective Play.&quot;, Gibbons looks at how to create reflection-heavy interactions apart from the reaction/reflection cycle. I argue that the pause-state may be a fine place to allow for these reflections, but perhaps we need to design them differently.">
       <option name="closed" value="true" />
@@ -483,7 +476,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725385016884</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo">
+      <option name="closed" value="true" />
+      <created>1725461819669</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1725461819669</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -501,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: reflection on experiment 03.04" />
     <MESSAGE value="readings: thoughts on Kultima's Game Design Praxiology" />
     <MESSAGE value="readings: thoughts on Niedderer (!) and Sun (?)" />
     <MESSAGE value="readings: thoughts on Thompson's &quot;Soundscape Approach&quot;" />
@@ -526,6 +526,7 @@
     <MESSAGE value="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg" />
     <MESSAGE value="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
     <MESSAGE value="readings: thoughts on PHallnäs, L et al. &quot;Expressions: Towards a Design Practice of Slow Technology&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on PHallnäs, L et al. &quot;Expressions: Towards a Design Practice of Slow Technology&quot;" />
+    <MESSAGE value="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo" />
   </component>
 </project>

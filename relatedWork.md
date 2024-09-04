@@ -539,6 +539,35 @@ The focus here overall seems to be about learning (which I have seen in those wh
 
 Initially excited about this from a teaching point-of-view, but I think that their proposals and take-aways miss the mark (especially when you consider the MDM framework as a code-design based solution to this problem that works rather well). Perhaps the age of the essay is playing a part here, but coming from a teaching background, getting students to reflect via design journaling doesn't seem as difficult as it is presented here.
 
+### Sengers, P. et al. "Reflective Design," 2005
+
+Is this the paper that moves the definition/focus of "reflection" from an artistic reflection to a more practical one? I know it is heavily cited (789). The use of reflection in the abstract is telling:
+
+- "reflection on unconscious values"
+- "reflective design combines analysis of the ways in which technologies reflect and perpetuate unconscious cultural assumptions"
+- "devices that reflect alternative possibilities"
+
+From here they go on to specify a systematic approach to "critical reflection" which is definitely more in line with Dewey's notion of reflection:
+
+_"Our perspective on reflection is grounded in critical theory, a Western tradition of critical reflection embodied in various intellectual strands including Marxism, feminism, racial and ethnic studies, media studies and psychoanalysis. (The potential of Eastern reflective traditions such as Buddhism for HCI is beyond the scope of this work..)"_ (2)
+
+_"We define 'reflection' as referring to critical reflection, or bringing unconscious aspects of experience to conscious awareness, thereby making them available for conscious choice. This critical reflection is crucial to both individual freedom and our quality of life in society as a whole, since without it, we unthinkingly adopt attitudes, practices, values, and identities we might not consciously espouse. Additionally, reflection is not a purely cognitive activity, but is folded into all our ways of seeing and experiencing the world."_ (2)
+
+In contrast, their description of **critical design** is probably more in line with the design goals that I have in mind:
+
+_"A critical designer designs objects not to do what users want and value, but to introduce both designers and users to new ways of looking at the world and the role that designed objects can play for them in it."_ (3)
+
+However, their Principles of Reflective Design still seem to hold true for my pursuit: (7)
+
+- Designers should use reflection to uncover and alter the limitations of design practice.
+- Designers should use reflection to re-understand their own role in the technology design process.
+- Designers should support users in reflecting on their lives.
+- Technology should support skepticism about and reinterpretation of its own working.
+- Reflection is not a separate activity from action but is folded into it as an integral part of experience
+- Dialogic engagement between designers and users through technology can enhance reflection.
+
+Similarly, their strategies for reflective design are good, but overall I find them too presecriptive.
+
 ### Stockburger, A. "Listen to the Bulk of the Iceberg: On the Impact of Sound in Digital Games," 2007
 
 Much shorter than expected! But a couple of good (if slightly hyperbolic\[?]) quotes:
