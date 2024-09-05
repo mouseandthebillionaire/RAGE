@@ -575,6 +575,19 @@ Much shorter than expected! But a couple of good (if slightly hyperbolic\[?]) qu
 _"it is truly sound that holds the key to fully accessing 3D representational spaces simply because the human perception system presupposes this"_ (111)
 
 _"\[T]he ‘pong’ sound of the collision detection seems like a reward for the right answer in a responsible game, and its steady recurrence makes audible the functioning of this ball game and thus couples man and game to the beat of a shared internal clock."_ (112) -- Claus Pias
+
+## Stone, K. "Ritual of the Moon," 2019
+
+Day 1:
+
+I'm liking these even more the second time through. There are so many compelling ideas that I would love to incoorporate into future work, namely: 
+
+- A game that only asks 5 minutes a day from you, over time - could you do the same thing but with no daily commitment? I wonder how much the routine of the thing makes the experience.
+- The general slowness
+- The textures and visual design are pretty great. I don't think I had paid that much attention to the depth of imagery last time, and I really love how all of the textures work in conflict
+- The music is quite good. I can definitely see myself doing something in this vein, though I would like to see more variety
+- The typography feels so labor-intensive. It kind of stresses me out
+
 ### Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
 A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
