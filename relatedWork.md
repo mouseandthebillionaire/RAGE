@@ -539,7 +539,7 @@ The focus here overall seems to be about learning (which I have seen in those wh
 
 Initially excited about this from a teaching point-of-view, but I think that their proposals and take-aways miss the mark (especially when you consider the MDM framework as a code-design based solution to this problem that works rather well). Perhaps the age of the essay is playing a part here, but coming from a teaching background, getting students to reflect via design journaling doesn't seem as difficult as it is presented here.
 
-### Sengers, P. et al. "Reflective Design," 2005
+## Sengers, P. et al. "Reflective Design," 2005
 
 Is this the paper that moves the definition/focus of "reflection" from an artistic reflection to a more practical one? I know it is heavily cited (789). The use of reflection in the abstract is telling:
 
@@ -568,7 +568,21 @@ However, their Principles of Reflective Design still seem to hold true for my pu
 
 Similarly, their strategies for reflective design are good, but overall I find them too presecriptive.
 
-### Stockburger, A. "Listen to the Bulk of the Iceberg: On the Impact of Sound in Digital Games," 2007
+## Shklovsky, V. "Art as Technique," 1917
+
+_"'Art is thinking in images.' These maxims have led to far-fetched interpretations of individual works of art. Attempts have been made to evaluate even music, architecture, and lyric poetry as imagistic thought."_ (1) 
+
+_"Thus a work may be (1) intended as prosaic and accepted as poetic, or (2) intended as poetic and accepted as prosaic. This suggests that the artistry attributed to a given work results from the way we perceive it."_ (1)
+
+_"Habitualization devours work, clothes, furniture, one's wife, and the fear of war. "If the whole complex lives of many people go on unconsciously, then such lives are as if they had never been." And art exists that one may recover the sensation of life; it exists to make one feel things, to make the stone stony. The purpose of art is to impart the sensation of things as they are perceived and not as they are known. The technique of art is to make objects "unfamiliar," to make forms difficult, to increase the difficulty and length of perception because the process of perception is an aesthetic end in itself and must be prolonged"_ (2) #gestalt
+
+This goes along with the idea of difficulty/conflict/gestalt when thinking of reflective/contemplative design.
+
+Shklovsky's use of Tolstoy's writing from a horse's perspective reminds me of Chekhov's *Grisha*: "Nurse and mamma are comprehensible: they dress Grisha, feed him, and put him to bed, but what papa exists for is unknown."
+
+_"A work is created "artistically" so that its perception is impeded and the greatest possible effect is produced through the slowness of the perception"_ (6)
+
+## Stockburger, A. "Listen to the Bulk of the Iceberg: On the Impact of Sound in Digital Games," 2007
 
 Much shorter than expected! But a couple of good (if slightly hyperbolic\[?]) quotes:
 
@@ -588,13 +602,13 @@ Day 1: I'm liking these even more the second time through. There are so many com
 
 Day 2: On the second day I feel like I've already hit a routine. Click this, move here, click that, move the comet. It *is* my second time through, but I wonder if more variety would have been better? To that point, Kara Stone's [pre-release blog post](https://karastone.itch.io/ritual-of-the-moon/devlog/77091/pre-release-feelings-emptiness) is noteworthy. Additionally, I listened to the [soundtrack](https://open.spotify.com/album/1O8yDthfsXGjzmYyW9XzU9?si=Bhdx5ofdQdaNZxRgNcKgUA) last night and was surprised to find that it didn't work as well in that format as it does in-game. Lastly, I wonder why she made the decision that the stars need to be drawn in an unbroken line to move the interaction forward. Is there something deeper there or just a functional decision?
 
-### Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
+## Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
 A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
 
 Do I need a [Shure MV88](https://www.shure.com/en-US/products/microphones/mv88?variant=MV88%252FA) microphone? Probably not. But I want one...
 
-### Thompson, I. "The Soundscape Approach: New Opportunities in Sound Design Practice," 2022
+## Thompson, I. "The Soundscape Approach: New Opportunities in Sound Design Practice," 2022
 
 Overall a nice and fascinating look at a more holistic type of soundscape analysis, but probably a little less relevant to the things I'm thinking about. *However* there are a ton of useful tidbits/references in here, including:
 
