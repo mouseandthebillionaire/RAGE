@@ -184,7 +184,7 @@ After reading Djebbara et al. my thoughts on how soundwalking builds on the conc
 
 Note: I agree with all of Droumeva's thoughts on *Season* (4.0.1) (though it should be mentioned that I read this *before* playing the game). Also, "climate grief game" is a real bummer of a category...
 
-### Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry," 2023
+## Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry," 2023
 
 In general, a shifting of the ideas of Schön's 'reflective practice' towards Dewey's "artistic practice," specifically by claiming that Son leans on Dewey's idea's but misses some key/useful elements.
 
@@ -538,6 +538,10 @@ The focus here overall seems to be about learning (which I have seen in those wh
 ### Schoffelen, J. et al. "Making and reflecting via Playful Design Representations," 2013
 
 Initially excited about this from a teaching point-of-view, but I think that their proposals and take-aways miss the mark (especially when you consider the MDM framework as a code-design based solution to this problem that works rather well). Perhaps the age of the essay is playing a part here, but coming from a teaching background, getting students to reflect via design journaling doesn't seem as difficult as it is presented here.
+
+## Medina-Gray, E. "Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games," 2021
+
+_"An even broader consideration of gameplay soundscapes would also include sounds produced within a player’s physical environment,"_ (177) immediately becomes an object of more interest than what the chapter proposes...
 
 ## Sengers, P. et al. "Reflective Design," 2005
 
