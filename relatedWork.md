@@ -578,15 +578,15 @@ _"\[T]he ‘pong’ sound of the collision detection seems like a reward for the
 
 ## Stone, K. "Ritual of the Moon," 2019
 
-Day 1:
-
-I'm liking these even more the second time through. There are so many compelling ideas that I would love to incoorporate into future work, namely: 
+Day 1: I'm liking these even more the second time through. There are so many compelling ideas that I would love to incorporate into future work, namely: 
 
 - A game that only asks 5 minutes a day from you, over time - could you do the same thing but with no daily commitment? I wonder how much the routine of the thing makes the experience.
-- The general slowness
+- The general slowness feels nice
 - The textures and visual design are pretty great. I don't think I had paid that much attention to the depth of imagery last time, and I really love how all of the textures work in conflict
 - The music is quite good. I can definitely see myself doing something in this vein, though I would like to see more variety
 - The typography feels so labor-intensive. It kind of stresses me out
+
+Day 2: On the second day I feel like I've already hit a routine. Click this, move here, click that, move the comet. It *is* my second time through, but I wonder if more variety would have been better? To that point, Kara Stone's [pre-release blog post](https://karastone.itch.io/ritual-of-the-moon/devlog/77091/pre-release-feelings-emptiness) is noteworthy. Additionally, I listened to the [soundtrack](https://open.spotify.com/album/1O8yDthfsXGjzmYyW9XzU9?si=Bhdx5ofdQdaNZxRgNcKgUA) last night and was surprised to find that it didn't work as well in that format as it does in-game. Lastly, I wonder why she made the decision that the stars need to be drawn in an unbroken line to move the interaction forward. Is there something deeper there or just a functional decision?
 
 ### Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
