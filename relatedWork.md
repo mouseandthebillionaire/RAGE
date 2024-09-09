@@ -606,6 +606,8 @@ Day 1: I'm liking these even more the second time through. There are so many com
 
 Day 2: On the second day I feel like I've already hit a routine. Click this, move here, click that, move the comet. It *is* my second time through, but I wonder if more variety would have been better? To that point, Kara Stone's [pre-release blog post](https://karastone.itch.io/ritual-of-the-moon/devlog/77091/pre-release-feelings-emptiness) is noteworthy. Additionally, I listened to the [soundtrack](https://open.spotify.com/album/1O8yDthfsXGjzmYyW9XzU9?si=Bhdx5ofdQdaNZxRgNcKgUA) last night and was surprised to find that it didn't work as well in that format as it does in-game. Lastly, I wonder why she made the decision that the stars need to be drawn in an unbroken line to move the interaction forward. Is there something deeper there or just a functional decision?
 
+Day 4: I accidentally skipped a day! I actually feel a little guilty. "Doing nothing is a good as doing it myself" helps to bring the negative vibes. I wonder what a version of this that encourages people to interact with the thing on a daily basis but isn't rooted in such a positive/negative outcome might look like. How could you use a carrot rather than a stick? What kind of external reminder system could you set up? (i.e outside of the game-world)
+
 ## Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
 A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
