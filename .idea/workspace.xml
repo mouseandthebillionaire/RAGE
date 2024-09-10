@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on day 5 of Ritual of the Moon">
-      <change afterPath="$PROJECT_DIR$/04/00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/DepartureMono-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04/textLoader.js" afterDir="false" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: initial setup for experiment 04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/.drone.wav.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/.static.wav.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/media/.drone.wav.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/audio/media/.static.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04/01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04/02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,15 +94,7 @@
       <workItem from="1723838819089" duration="13050000" />
       <workItem from="1725375881939" duration="3773000" />
       <workItem from="1725461737673" duration="11288000" />
-      <workItem from="1725636255359" duration="20090000" />
-    </task>
-    <task id="LOCAL-00010" summary="readings: thoughts on Jensen's Designing for Profound Experiences">
-      <option name="closed" value="true" />
-      <created>1719870458690</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1719870458690</updated>
+      <workItem from="1725636255359" duration="27532000" />
     </task>
     <task id="LOCAL-00011" summary="readings: thoughts on Austin's Music Games">
       <option name="closed" value="true" />
@@ -495,7 +480,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725972108749</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="makings: initial setup for experiment 04">
+      <option name="closed" value="true" />
+      <created>1725992189194</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1725992189194</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -513,7 +506,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Blesser et al's Aural Architecture" />
     <MESSAGE value="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes." />
     <MESSAGE value="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;" />
     <MESSAGE value="readings: thoughts on Frayling" />
@@ -538,6 +530,7 @@
     <MESSAGE value="readings: thoughts on Medina-Gray's &quot;Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games&quot;" />
     <MESSAGE value="readings: thoughts on day 4 of Ritual of the Moon" />
     <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on day 5 of Ritual of the Moon" />
+    <MESSAGE value="makings: initial setup for experiment 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="makings: initial setup for experiment 04" />
   </component>
 </project>

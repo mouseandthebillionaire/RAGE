@@ -46,17 +46,9 @@ function setup(){
     textFont(font_1);
     textSize(32);
     textAlign(CENTER, CENTER);
-    textLine = 0;
-    currTextFile = 0;
-    interacting = true;
 
     // Timer
-    currTime = 0;
     delayTime = 20;
-
-    startButton = createButton('Start')
-    startButton.position(w/2, h/2)
-    startButton.mousePressed(StartSketch);
 
     //audioContext = new (window.AudioContext || window.webkitAudioContext)();
     //rnboSetup(audioContext);
@@ -101,7 +93,7 @@ async function rnboSetup(context){
 
 function keyPressed(){
     // Build in a delay
-    if(currTime > delayTime) {
+    if(currTime > delayTime && interacting) {
         textLine += 1;
         currTime = 0;
     }
@@ -115,7 +107,12 @@ function applyParameters() {
 
 function StartSketch(){
     sketchStarted = true;
-    startButton.style('opacity', '0')
+
+    // Params
+    currTime = 0;
+    textLine = 0;
+    currTextFile = 0;
+    interacting = true;
 
     // Start the Audio
     //if(getAudioContext().state !== 'running'){
@@ -130,6 +127,7 @@ function draw(){
 
     if(sketchStarted == true){
         if(interacting) {
+            textAlign(CENTER,CENTER);
             if (textLine < textFile[currTextFile].length) {
                 // By external text file
                 for (let i = 0; i < textLine + 1; i++) {
@@ -137,7 +135,8 @@ function draw(){
                     text(textFile[currTextFile][i], w / 2, yPos);
                 }
             } else {
-                interacting == false;
+                currTime = 0;
+                interacting = false;
             }
         } else {
             textAlign(LEFT);
@@ -145,8 +144,22 @@ function draw(){
                 let yPos = (h / 2 + (30 * i)) - (20 * textFile[currTextFile+1].length);
                 text(textFile[currTextFile+1][i], w / 2, yPos);
             }
+            if(keyIsPressed && currTime > delayTime){
+                interacting = true;
+                currTextFile += 2;
+                textLine = 0;
+                currTime = 0;
+            }
+        }
+    } else {
+        // START SKETCH TEXT
+        text("PRESS ANY KEY", w/2, h/2);
+
+        if(keyIsPressed && sketchStarted != true){
+            StartSketch();
         }
     }
+
     currTime += 1;
 
 
