@@ -608,6 +608,8 @@ Day 2: On the second day I feel like I've already hit a routine. Click this, mov
 
 Day 4: I accidentally skipped a day! I actually feel a little guilty. "Doing nothing is a good as doing it myself" helps to bring the negative vibes. I wonder what a version of this that encourages people to interact with the thing on a daily basis but isn't rooted in such a positive/negative outcome might look like. How could you use a carrot rather than a stick? What kind of external reminder system could you set up? (i.e outside of the game-world)
 
+Day 5: The monotony of this is starting to really set in. What felt like routine on day 2 now feels a bit boring, with me trying to do the tasks as quickly as possible. Perhaps if the tracing portion had some variety?
+
 ## Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 
 A good description of what these projects are, but not really any significant writing on how this changes what we can think about in regards to "generative" approaches to research-creation. A bit misleading.
