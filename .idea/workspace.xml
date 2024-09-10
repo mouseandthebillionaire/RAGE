@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on day 5 of Ritual of the Moon">
+      <change afterPath="$PROJECT_DIR$/04/00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/DepartureMono-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/textLoader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/audio/.drone.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/audio/.static.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/audio/media/.drone.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03/audio/media/.static.wav.icloud" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,32 +48,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/m/Documents/_PHD/Research/03&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/m/Documents/_PHD/Research",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04" />
       <recent name="$PROJECT_DIR$/03" />
       <recent name="$PROJECT_DIR$/_template" />
       <recent name="$PROJECT_DIR$/02/audio/media" />
       <recent name="$PROJECT_DIR$/02/audio" />
-      <recent name="$PROJECT_DIR$/01" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -90,63 +100,8 @@
       <workItem from="1721336170983" duration="53428000" />
       <workItem from="1723838819089" duration="13050000" />
       <workItem from="1725375881939" duration="3773000" />
-      <workItem from="1725461737673" duration="3037000" />
-    </task>
-    <task id="LOCAL-00003" summary="readings: Gibbons definition of Reflection&#10;&#10;In his chapter on &quot;Reflective Play.&quot;, Gibbons looks at how to create reflection-heavy interactions apart from the reaction/reflection cycle. I argue that the pause-state may be a fine place to allow for these reflections, but perhaps we need to design them differently.">
-      <option name="closed" value="true" />
-      <created>1718634899671</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1718634899671</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fix: formatting of the relatedWork document">
-      <option name="closed" value="true" />
-      <created>1718646470533</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1718646470533</updated>
-    </task>
-    <task id="LOCAL-00005" summary="readings: thoughts on Bogost's &quot;Relaxation&quot; essay. Are relaxation and reflection the same thing? Is reflection a &quot;lean-back&quot; experience?">
-      <option name="closed" value="true" />
-      <created>1718815304538</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1718815304538</updated>
-    </task>
-    <task id="LOCAL-00006" summary="makings: experiment 1 exploring simple interactions and a correlation of success with the reduction of effort">
-      <option name="closed" value="true" />
-      <created>1718823479159</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1718823479159</updated>
-    </task>
-    <task id="LOCAL-00007" summary="readings: comments on Lindsay Jones' “Architectural Catalysts to Contemplation&quot;">
-      <option name="closed" value="true" />
-      <created>1719348844901</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1719348844901</updated>
-    </task>
-    <task id="LOCAL-00008" summary="makings: experiment 2&#10;&#10;This experiment swaps the direction from version 1 so that we move from atonal/distorted to tonal/clean. The experiments.md journal discusses this more and considers the results and next steps.">
-      <option name="closed" value="true" />
-      <created>1719518881136</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1719518881136</updated>
-    </task>
-    <task id="LOCAL-00009" summary="readings: thoughts on Julio Bermudez's introduction to Transcending Architecture, particularly the use of &quot;transcending&quot; as a design goal">
-      <option name="closed" value="true" />
-      <created>1719861424635</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1719861424635</updated>
+      <workItem from="1725461737673" duration="11288000" />
+      <workItem from="1725636255359" duration="20090000" />
     </task>
     <task id="LOCAL-00010" summary="readings: thoughts on Jensen's Designing for Profound Experiences">
       <option name="closed" value="true" />
@@ -484,7 +439,63 @@
       <option name="project" value="LOCAL" />
       <updated>1725461819669</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="readings: thoughts on Sengers at al's Reflective Design">
+      <option name="closed" value="true" />
+      <created>1725471015613</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1725471015613</updated>
+    </task>
+    <task id="LOCAL-00053" summary="readings: thoughts on Ritual of the Moon&#10;&#10;Beginning an experiment where I will journal/reflect about the game every day of its 28 days">
+      <option name="closed" value="true" />
+      <created>1725563116806</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1725563116806</updated>
+    </task>
+    <task id="LOCAL-00054" summary="readings: thoughts on day 2 of Kara Stone's Ritual of the Moon">
+      <option name="closed" value="true" />
+      <created>1725636309523</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1725636309524</updated>
+    </task>
+    <task id="LOCAL-00055" summary="readings: thoughts on Shklovsky's 'Art as Technique'">
+      <option name="closed" value="true" />
+      <created>1725648407237</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1725648407237</updated>
+    </task>
+    <task id="LOCAL-00056" summary="readings: thoughts on Medina-Gray's &quot;Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games&quot;">
+      <option name="closed" value="true" />
+      <created>1725649164758</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1725649164758</updated>
+    </task>
+    <task id="LOCAL-00057" summary="readings: thoughts on day 4 of Ritual of the Moon">
+      <option name="closed" value="true" />
+      <created>1725914839742</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1725914839743</updated>
+    </task>
+    <task id="LOCAL-00058" summary="readings: thoughts on day 5 of Ritual of the Moon">
+      <option name="closed" value="true" />
+      <created>1725972108749</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1725972108749</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -502,14 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Kultima's Game Design Praxiology" />
-    <MESSAGE value="readings: thoughts on Niedderer (!) and Sun (?)" />
-    <MESSAGE value="readings: thoughts on Thompson's &quot;Soundscape Approach&quot;" />
-    <MESSAGE value="readings: thoughts on Lorelei and the Laser Eyes" />
-    <MESSAGE value="makings: Don't Snake&#10;&#10;an experiment in creating sound design for a game so that it punishes you for playing it. It would rather you just sit and relax for a moment." />
-    <MESSAGE value="readings: thoughts on Goudarzi's Sound Design in the Context of Sonification" />
-    <MESSAGE value="readings: thoughts on Bukvic's &quot;Introduction to Sonification&quot;" />
-    <MESSAGE value="readings: thoughts on Bijsterfeld&quot;" />
     <MESSAGE value="readings: thoughts on Blesser et al's Aural Architecture" />
     <MESSAGE value="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes." />
     <MESSAGE value="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;" />
@@ -527,6 +530,14 @@
     <MESSAGE value="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
     <MESSAGE value="readings: thoughts on PHallnäs, L et al. &quot;Expressions: Towards a Design Practice of Slow Technology&quot;" />
     <MESSAGE value="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo" />
+    <MESSAGE value="readings: thoughts on Sengers at al's Reflective Design" />
+    <MESSAGE value="readings: thoughts on Ritual of the Moon&#10;&#10;Beginning an experiment where I will journal/reflect about the game every day of its 28 days" />
+    <MESSAGE value="makings: proof of concept of the text-based Flusser-Immaterialism-style interaction" />
+    <MESSAGE value="readings: thoughts on day 2 of Kara Stone's Ritual of the Moon" />
+    <MESSAGE value="readings: thoughts on Shklovsky's 'Art as Technique'" />
+    <MESSAGE value="readings: thoughts on Medina-Gray's &quot;Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games&quot;" />
+    <MESSAGE value="readings: thoughts on day 4 of Ritual of the Moon" />
+    <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on day 5 of Ritual of the Moon" />
   </component>
 </project>
