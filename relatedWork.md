@@ -519,7 +519,7 @@ _"Whenever we are struck by a profound piece of art, architecture, painting, or 
 
 _"In the middle of today’s digital, virtual, and instantaneous utopia, we desire to reencounter the fundamental causalities and limits of life."_ (32)
 
-### Schön, D. *The Reflective Practitioner*, 1982
+## Schön, D. *The Reflective Practitioner*, 1982
 
 _"This concept of 'application' leads" to a view of professional knowledge as hierarchy in which 'general principles' occupy the highest level and 'concrete problem solving' the lowest"_ (24)
 
@@ -535,7 +535,7 @@ Much of the material on 'knowing-in-action' that follows this statement is focus
 
 The focus here overall seems to be about learning (which I have seen in those who frequently reference Schön as well), and that feels different from contemplation, but is it? Is a Buddhist monk "learning" when they gain an insight about the world around them? Is a concert-goer learning when they feel moves by a concerto? Or a museum-goer to a piece of art they are experiencing in a new way? Is it better to ignore how these feel disconnected to me and to follow the way that others have come to use and reference Schön?
 
-### Schoffelen, J. et al. "Making and reflecting via Playful Design Representations," 2013
+## Schoffelen, J. et al. "Making and reflecting via Playful Design Representations," 2013
 
 Initially excited about this from a teaching point-of-view, but I think that their proposals and take-aways miss the mark (especially when you consider the MDM framework as a code-design based solution to this problem that works rather well). Perhaps the age of the essay is playing a part here, but coming from a teaching background, getting students to reflect via design journaling doesn't seem as difficult as it is presented here.
 
@@ -609,6 +609,8 @@ Day 2: On the second day I feel like I've already hit a routine. Click this, mov
 Day 4: I accidentally skipped a day! I actually feel a little guilty. "Doing nothing is a good as doing it myself" helps to bring the negative vibes. I wonder what a version of this that encourages people to interact with the thing on a daily basis but isn't rooted in such a positive/negative outcome might look like. How could you use a carrot rather than a stick? What kind of external reminder system could you set up? (i.e outside of the game-world)
 
 Day 5: The monotony of this is starting to really set in. What felt like routine on day 2 now feels a bit boring, with me trying to do the tasks as quickly as possible. Perhaps if the tracing portion had some variety?
+
+Day 6: "I shouldn't have told Malinda about my powers" sounds like a line from an other-dimensional Cathy comic. Not sure if it's worth reflecting on this experience *every* day. Might be better to jot things down on days/times where I have something of note to add.
 
 ## Sun, P. et al, “Research-Creation as a Generative Approach to Sound Design,” 2021
 

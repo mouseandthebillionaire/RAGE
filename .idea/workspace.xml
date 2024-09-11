@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: initial setup for experiment 04">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04/01.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04/02.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,15 +91,7 @@
       <workItem from="1723838819089" duration="13050000" />
       <workItem from="1725375881939" duration="3773000" />
       <workItem from="1725461737673" duration="11288000" />
-      <workItem from="1725636255359" duration="27532000" />
-    </task>
-    <task id="LOCAL-00011" summary="readings: thoughts on Austin's Music Games">
-      <option name="closed" value="true" />
-      <created>1720025031668</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1720025031668</updated>
+      <workItem from="1725636255359" duration="29539000" />
     </task>
     <task id="LOCAL-00012" summary="makings: experiment 03.00&#10;&#10;Along with musings about what is happening here and where it can go">
       <option name="closed" value="true" />
@@ -488,7 +477,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725992189194</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay...">
+      <option name="closed" value="true" />
+      <created>1726004038271</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1726004038271</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -506,7 +503,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes." />
     <MESSAGE value="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;" />
     <MESSAGE value="readings: thoughts on Frayling" />
     <MESSAGE value="readings: thoughts on Galloway's Galloway's Soundwalking and the Aurality of *StarDew Valley*," />
@@ -531,6 +527,7 @@
     <MESSAGE value="readings: thoughts on day 4 of Ritual of the Moon" />
     <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
     <MESSAGE value="makings: initial setup for experiment 04" />
-    <option name="LAST_COMMIT_MESSAGE" value="makings: initial setup for experiment 04" />
+    <MESSAGE value="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay..." />
+    <option name="LAST_COMMIT_MESSAGE" value="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay..." />
   </component>
 </project>
