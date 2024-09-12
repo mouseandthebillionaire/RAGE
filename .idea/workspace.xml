@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay...">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: thoughts on Day 6 of Ritual of the Moon">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/relatedWork.md" beforeDir="false" afterPath="$PROJECT_DIR$/relatedWork.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/audio/.chime.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/audio/media/.chime.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/audio/.chime.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/audio/media/.chime.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_template/audio/media/.chime.wav.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,25 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/m/Documents/_PHD/Research",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/m/Documents/_PHD/Research&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/04" />
@@ -91,15 +98,10 @@
       <workItem from="1723838819089" duration="13050000" />
       <workItem from="1725375881939" duration="3773000" />
       <workItem from="1725461737673" duration="11288000" />
-      <workItem from="1725636255359" duration="29539000" />
-    </task>
-    <task id="LOCAL-00012" summary="makings: experiment 03.00&#10;&#10;Along with musings about what is happening here and where it can go">
-      <option name="closed" value="true" />
-      <created>1721336285904</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1721336285904</updated>
+      <workItem from="1725636255359" duration="31519000" />
+      <workItem from="1726158011043" duration="928000" />
+      <workItem from="1726158961229" duration="32000" />
+      <workItem from="1726159000789" duration="11000" />
     </task>
     <task id="LOCAL-00013" summary="makings: experiment 03.00&#10;&#10;Along with musings about what is happening here and where it can go">
       <option name="closed" value="true" />
@@ -485,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726004038271</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="readings: thoughts on Day 6 of Ritual of the Moon">
+      <option name="closed" value="true" />
+      <created>1726084116827</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1726084116827</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -503,7 +513,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;" />
     <MESSAGE value="readings: thoughts on Frayling" />
     <MESSAGE value="readings: thoughts on Galloway's Galloway's Soundwalking and the Aurality of *StarDew Valley*," />
     <MESSAGE value="readings: thoughts on Eyles, M. et al. &quot;Playful Ambience&quot;" />
@@ -528,6 +537,7 @@
     <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
     <MESSAGE value="makings: initial setup for experiment 04" />
     <MESSAGE value="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay..." />
-    <option name="LAST_COMMIT_MESSAGE" value="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay..." />
+    <MESSAGE value="readings: thoughts on Day 6 of Ritual of the Moon" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: thoughts on Day 6 of Ritual of the Moon" />
   </component>
 </project>

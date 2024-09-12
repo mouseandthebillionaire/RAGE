@@ -2,7 +2,7 @@
 
 A series of small experiments for reflection in games, primarily focusing on experimental interactions in p5.js and sound design in RNBO.
 
-### Experiment 1 // 19 Jun, 2024
+## Experiment 1 // 19 Jun, 2024
 
 It's a black circle. Touch it.
 
@@ -14,7 +14,7 @@ One interesting thing about this is that the act of holding the mouse over the c
 
 Sonically, the sounds become lower and slower as the mouseover interaction progresses, which feels right. Additionally, there is a distortion *added*, and while this may initially feel like a weird decision, I think it works in a [Low "Hey What"](https://lowtheband.bandcamp.com/album/hey-what) kind of way (which, I feel is very soothing/reflective, but maybe not to all)
 
-### Experiment 2 // 27 Jun, 2024
+## Experiment 2 // 27 Jun, 2024
 
 A white circle grows in...
 
@@ -33,7 +33,7 @@ Some ideas arise for a third iteration or for implementation in new prototypes:
 - For this version both the chimes and the chords are tuning as the interaction progresses, but it sound effective to have them retune at different speeds or have the chimes start in the root tone, causing them to move in out of phase/tune as the circle fills the screen.
 - Side note: the number of times that I am typing too fast and swap the "ion" to "ino" in words (i.e distortion to distortino) is getting silly. The best way to acknowledge this fault in my typing skills is probably to have a project called something like EXPERIMENTINO)
 
-### Thoughts on Future Possible Experiments // 17 Jul, 2024
+## Thoughts on Future Possible Experiments // 17 Jul, 2024
 
 - A version based on movement vs. no-movement where when you move there is chaos and when you don't it's in stasis. This "movement" could be with the mouse, arrow keys, an actual character in 2D/3D space? Chaos could be explosions of colors and shapes with stasis being simple repeated shapes (a la Bloom)
 - Sonically, the chaos could be a constant cycling of possible note patterns in RNBO with stasis being a set pattern for some number of instruments. Or as you move it randomly plays pitches, but when you stop it settles on a specific pitch for each instrument. Or as you move it randomizes between voices, creating cacophony, but when you stop it chooses one. Or some combination of all of this.
@@ -43,7 +43,7 @@ Some ideas arise for a third iteration or for implementation in new prototypes:
 - A version where whoever is playing has to listen to a conversation my kids have with each other (which, for example, might contain them saying the word "fun" over and over and over and over as they read the Star Wars encyclopedia together, which is what they are doing as I am writing this)
 - A version where the player's amount of "focus" changes the vocalized output of an NPC. 
 
-### Experiment 03.00 // 18 Jul, 2024
+## Experiment 03.00 // 18 Jul, 2024
 
 For these next series of experiments, I would like to document a few possible version of the audio within Max/RNBO before integrating with p5. There are a lot of ideas here, and I think will be able to iterate faster if I don't have to worry about the p5 (or even visual) side of things.
 
@@ -64,7 +64,7 @@ Even within this fairly simple system there are some really lovely patterns that
 - If we do that, then maybe the starting time of each note could be randomized as well (start *after* a quarter-note, half-note, etc) Though right now there are some unexpected patterns happening and hopefully this wouldn't kill those serendipities. 
 - It might also be good to have a sound effect that triggers during the 'movement.' Something to signify "chaos is happening! You're changing things!" Radio static? Jumping around between various sound effects? Both!? I really like the idea of the sound effect business. That might be job 1.
 
-### Experiment 03.01 // 19 Jul, 2024
+## Experiment 03.01 // 19 Jul, 2024
 
 [Experiment 03.01 on Soundcloud](https://soundcloud.com/thebillionaire/ex0301)
 
@@ -76,7 +76,7 @@ Along with this, the next version will try to randomize the starting time of eac
 
 Final note: It is a nice to change to make these without any visuals in mind. I had originally thought about a simple shape that you maneuver around the screen with the WASD keys, but leaving this open creates the opportunity for something to come about more organically. As I interact with them I hope that some obvious (or at least likely) visual representations will come to mind. 
 
-### Experiment 03.02 // 19 Jul, 2024
+## Experiment 03.02 // 19 Jul, 2024
 
 [Experiment 03.02 on Soundcloud](https://soundcloud.com/thebillionaire/ex0302)
 
@@ -84,7 +84,7 @@ Went ahead and did one with only adding the static sfx loop so as not to get too
 
 Playing out the sound after ending the movement phase sounds nice, but I think it's confusing. User-testing with N shows that she plays it as an instrument (scratch, downward scale, scritch, scratch, downward scale), rather than allowing for the new pattern to emerge, which goes against the goal here...
 
-### Experiment 03.03 // 23 Jul, 2024
+## Experiment 03.03 // 23 Jul, 2024
 
 [Experiment 03.03 on Soundcloud](https://soundcloud.com/thebillionaire/ex0303)
 
@@ -96,7 +96,7 @@ I don't know! Let's find out!
 
 First idea is expanding Eno bloom-like circles, but perhaps some more explicit "game-like" interaction after that.
 
-### A Few Scattered Thoughts // 25 Jul, 2024
+## A Few Scattered Thoughts // 25 Jul, 2024
 
 Most games mirror the underlying urge of life to be active. They don’t want us to stand still, and so to do so is an act of resistance. 
 
@@ -104,7 +104,7 @@ So what does a game that goes against this flow feel like? For that matter, what
 
 A character wanders around a maze, picking up items, the background noise gets louder and louder. Or perhaps a zelda-like, where the music accompanies you when you move, but not when you stop. Maybe there are constant background sounds (bird-chatter, a water feature, wind rustling) but they are unable to be heard whenever the character is moving. Perhaps the water/bird/wind could draw the player’s attention to another portion of the maze where the gameplay splits into new territories. One path for the active. And one for the still.
 
-### Experiment 03.04 // 26 Jul, 2024
+## Experiment 03.04 // 26 Jul, 2024
 
 WASD to wander. Hands off the keyboard to rest and reflect.
 
@@ -122,7 +122,7 @@ In this initial implementation of the audio explored in experiments 03.00-03.03 
 
 [^1]: Calling it a "puzzle" is perhaps a bit generous, but there is something about this disconnect that allows the brain to focus more intently on the visuals/sounds which feels successful.
 
-### Experiment 03.05 // Don't Snake! // 29 Jul, 2024 
+## Experiment 03.05 // Don't Snake! // 29 Jul, 2024 
 
 "The only winning move is not to snake"
 
@@ -150,3 +150,21 @@ Pong feels like a real home-run of an application of this idea, but I think the 
 So yes, a lot here. Probably crank out a few of these either during the comps-time and/or right after to see how they feel. If anything, it could be a nice respite from other thinking activities.
 
 [^2]: Not sorry
+
+## Experiment 04.01 // Interactive Text Meditation // 12 Sept, 2024
+
+After reading [this version](https://monoskop.org/images/4/40/Flusser_Vilem_Immaterialism_2015.pdf) of Vilém 
+Flusser's _Immaterialism_ it occurred to me that this would be a good outlet for an interactive project. Patterned 
+text objects, appearing as the user clicks the screen, accompanied by music, and progressing from more experimental 
+sections, to sections taken from the original text.
+
+Initially I thought that one of the stoic texts could be good here, but after reflecting on the use of monospaced 
+font (and on the nature of textual representation on screens vs print) I thought that Walter Benjamin's essay "The 
+Work of Art in the Age of Mechanical Reproduction" might be a fun alternative. So I knowcked together a quick 
+version to see how it might feel.
+
+https://mouseandthebillionaire.com/reflectiveStudies/04/
+
+And it feels good! I'm excited to see (hear) what this will be like with sound, but the current implementation is 
+pretty much set up to add any texts that we want (as long as the interaction continues to be 'click and text is added 
+below the current text,' which obviously it might be more interesting to expand on at some point).
