@@ -165,7 +165,7 @@ version to see how it might feel.
 
 https://mouseandthebillionaire.com/reflectiveStudies/04/
 
-[!Interactive Text of The Work of Art in the Age of Mechanical Reproduction](media/images/04_01.png)
+![Interactive Text of The Work of Art in the Age of Mechanical Reproduction](media/images/04_01.png)
 
 And it feels good! I'm excited to see (hear) what this will be like with sound, but the current implementation is 
 pretty much set up to add any texts that we want (as long as the interaction continues to be 'click and text is added 
