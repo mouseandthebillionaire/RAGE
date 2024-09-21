@@ -160,11 +160,36 @@ sections, to sections taken from the original text.
 
 Initially I thought that one of the stoic texts could be good here, but after reflecting on the use of monospaced 
 font (and on the nature of textual representation on screens vs print) I thought that Walter Benjamin's essay "The 
-Work of Art in the Age of Mechanical Reproduction" might be a fun alternative. So I knowcked together a quick 
+Work of Art in the Age of Mechanical Reproduction" might be a fun alternative. So I knocked together a quick 
 version to see how it might feel.
 
 https://mouseandthebillionaire.com/reflectiveStudies/04/
 
+[!Interactive Text of The Work of Art in the Age of Mechanical Reproduction](media/images/04_01.png)
+
 And it feels good! I'm excited to see (hear) what this will be like with sound, but the current implementation is 
 pretty much set up to add any texts that we want (as long as the interaction continues to be 'click and text is added 
 below the current text,' which obviously it might be more interesting to expand on at some point).
+
+## Experiment 04.02 // Adding Audio // 21 Sept, 2024
+
+https://mouseandthebillionaire.com/reflectiveStudies/04/02.html
+
+Added some audio to the WoAitAoMR[^3] interactive text thing. Generally I think it's okay? I'm getting a bit tired 
+of the singular droning note thing, so I've added some harmonics that swell in and out.[^4] The RNBO patch is built 
+pretty robustly here so it'll be really easy to swap these sounds in and out for future versions and/or 
+completely new implementations.
+
+The most immediate thought is that there needs to be some changes as it moves forward through the interactions. 
+Initially I had thought that changing the chime patterns would be enough, but I'm not convinced. Might be nice to 
+add some set overtone color for each interaction, and build the composition around that. There could still be 
+variety in the drone harmonics? I wonder if it would be possible to set an overall 'color' function within the RNBO 
+patch that applies to all of the embedded groove~ objects' rates...? 
+
+Hmmm. Seems I have given myself a new todo. 
+
+[Let's find out!](https://youtu.be/e1g_wNPmOsg?si=WNxdr0BstbDcZWyc&t=11)
+
+[^3]: _Solid_ acronym
+[^4]: Though while I'm writing this, I'm listening to [Phil Niblock's Baobab](https://open.spotify.
+com/album/3yh6Ca0t9b1czoBcjHyu3G?si=-Pi93nisQCmNtEr6WQSrfQ) which makes what I've made feel like Ric Ocasek wrote it... 

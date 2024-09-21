@@ -1,34 +1,6 @@
 [
   {
-    "id": "c0",
-    "file": "media/0.wav"
-  },
-  {
-    "id": "c1",
-    "file": "media/1.wav"
-  },
-  {
-    "id":  "c2",
-    "file": "media/2.wav"
-  },
-  {
-    "id": "c3",
-    "file": "media/3.wav"
-  },
-  {
-    "id": "c4",
-    "file": "media/4.wav"
-  },
-  {
-    "id":  "c5",
-    "file": "media/5.wav"
-  },
-  {
-    "id": "drone",
-    "file": "media/drone.wav"
-  },
-  {
-    "id": "radio",
-    "file": "media/static.wav"
+    "id": "d0",
+    "file": "../../../../Documents/Max 8/UserFiles/drone_0.wav"
   }
 ]

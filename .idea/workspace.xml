@@ -4,11 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="fix: experiments link from the main readme">
-      <change afterPath="$PROJECT_DIR$/04/audio.js" afterDir="false" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="experiments: adding RNBO project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/04/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio.js" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/audio.maxpat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/dependencies.json" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/dependencies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/0.wav" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/media/0.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/media/1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/2.wav" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/media/2.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/3.wav" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/media/3.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/4.wav" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/media/4.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/5.wav" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/media/5.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/drone.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/media/static.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/patch.export.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/patch.export.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/reflection.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/reflection.maxpat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/staggered/0.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/staggered/1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/staggered/2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/staggered/3.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/staggered/4.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/staggered/5.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/static.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/stillness.export.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/stillness.export.license" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/04/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments/01 Project/01.als" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,15 +120,9 @@
       <workItem from="1726158011043" duration="928000" />
       <workItem from="1726158961229" duration="32000" />
       <workItem from="1726159000789" duration="11000" />
-      <workItem from="1726159568760" duration="3018000" />
-    </task>
-    <task id="LOCAL-00015" summary="fix: image link">
-      <option name="closed" value="true" />
-      <created>1721336586786</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1721336586786</updated>
+      <workItem from="1726159568760" duration="6768000" />
+      <workItem from="1726428712868" duration="726000" />
+      <workItem from="1726936092263" duration="8698000" />
     </task>
     <task id="LOCAL-00016" summary="makings: Experiment 03.01 - drones, pianos, patterns in stillness and chaos in movement">
       <option name="closed" value="true" />
@@ -491,7 +508,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726160138730</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="experiments: adding RNBO project">
+      <option name="closed" value="true" />
+      <created>1726241141350</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1726241141350</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +534,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Eyles, M. et al. &quot;Playful Ambience&quot;" />
     <MESSAGE value="readings: thoughts on a few outliers and missed connections...&#10;&#10;Jaaniste's &quot;Approaching the Ambient&quot;&#10;Locher et al's &quot;Aesthetic Interactions&quot;&#10;Schoffelen et al's &quot;Making and Reflection via Playful Design Representations&quot;" />
     <MESSAGE value="readings: thoughts on ABZU" />
     <MESSAGE value="readings: thoughts on Mini Metro" />
@@ -534,6 +558,7 @@
     <MESSAGE value="readings: thoughts on Day 6 of Ritual of the Moon" />
     <MESSAGE value="makings: initial thoughts on the clickable text meditation prototype" />
     <MESSAGE value="fix: experiments link from the main readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: experiments link from the main readme" />
+    <MESSAGE value="experiments: adding RNBO project" />
+    <option name="LAST_COMMIT_MESSAGE" value="experiments: adding RNBO project" />
   </component>
 </project>

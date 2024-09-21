@@ -50,6 +50,7 @@ function keyPressed(){
     // Build in a delay
     if(currTime > delayTime && interacting) {
         textLine += 1;
+        Chime();
         currTime = 0;
     }
     loadText(0);
@@ -96,6 +97,9 @@ function draw(){
                 let yPos = (h / 2 + (30 * i)) - (20 * textFile[currTextFile+1].length);
                 text(textFile[currTextFile+1][i], w / 2, yPos);
             }
+            // Play the Piano Line
+            PianoLine();
+
             if(keyIsPressed && currTime > delayTime){
                 interacting = true;
                 currTextFile += 2;

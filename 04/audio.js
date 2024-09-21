@@ -2,7 +2,9 @@ let device;
 let audioContext;
 
 // RNBO Control
-let paramInteraction;
+let chime, piano;
+let chimeValue = 0;
+
 // messages FROM RNBO
 let n = [];
 
@@ -18,7 +20,7 @@ async function rnboSetup(context){
     const { createDevice } = RNBO;
     await context.resume();
     print("yes");
-    const rawPatcher = await fetch('audio/stillness.export.json');
+    const rawPatcher = await fetch('audio/reflection.export.json');
     const patcher = await rawPatcher.json();
 
     device = await createDevice ({context, patcher});
@@ -39,7 +41,8 @@ async function rnboSetup(context){
         await device.loadDataBufferDependencies(dependencies);
 
     // Parameters
-    paramInteraction = device.parametersById.get('interaction');
+    chime = device.parametersById.get('chime');
+    piano = device.parametersById.get('pianoTrigger');
 
     // Messages
     for(let i=0; i<6; i++)
@@ -55,4 +58,16 @@ function AudioStart(){
     if(getAudioContext().state !== 'running'){
         audioContext.resume();
     }
+}
+
+function Chime(){
+    if(chime) {
+        chime.value = chimeValue;
+        chimeValue = (chimeValue + 1) % 9;
+    }
+}
+
+function PianoLine(){
+    if(piano) piano.value = 1;
+    print("piano?");
 }
