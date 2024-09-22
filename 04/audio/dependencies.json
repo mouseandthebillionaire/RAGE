@@ -1,6 +1,74 @@
 [
   {
+    "id": "c5",
+    "file": "5.wav"
+  },
+  {
+    "id": "c0",
+    "file": "0.wav"
+  },
+  {
+    "id": "c6",
+    "file": "6.wav"
+  },
+  {
+    "id": "c1",
+    "file": "1.wav"
+  },
+  {
+    "id": "drone",
+    "file": "drone_root.wav"
+  },
+  {
+    "id": "d6",
+    "file": "drone_6.wav"
+  },
+  {
+    "id": "d5",
+    "file": "drone_5.wav"
+  },
+  {
+    "id": "d4",
+    "file": "drone_4.wav"
+  },
+  {
+    "id": "d3",
+    "file": "drone_3.wav"
+  },
+  {
+    "id": "d2",
+    "file": "drone_2.wav"
+  },
+  {
+    "id": "d1",
+    "file": "drone_1.wav"
+  },
+  {
     "id": "d0",
-    "file": "../../../../Documents/Max 8/UserFiles/drone_0.wav"
+    "file": "drone_0.wav"
+  },
+  {
+    "id": "c7",
+    "file": "7.wav"
+  },
+  {
+    "id": "c2",
+    "file": "2.wav"
+  },
+  {
+    "id": "c8",
+    "file": "8.wav"
+  },
+  {
+    "id": "c3",
+    "file": "3.wav"
+  },
+  {
+    "id": "c4",
+    "file": "4.wav"
+  },
+  {
+    "id": "p0",
+    "file": "pianoLine_0.wav"
   }
 ]

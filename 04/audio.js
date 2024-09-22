@@ -2,8 +2,9 @@ let device;
 let audioContext;
 
 // RNBO Control
-let chime, piano;
+let chime, piano, color;
 let chimeValue = 0;
+let colorValue = 0;
 
 // messages FROM RNBO
 let n = [];
@@ -43,6 +44,7 @@ async function rnboSetup(context){
     // Parameters
     chime = device.parametersById.get('chime');
     piano = device.parametersById.get('pianoTrigger');
+    color = device.parametersById.get('color');
 
     // Messages
     for(let i=0; i<6; i++)
@@ -70,4 +72,9 @@ function Chime(){
 function PianoLine(){
     if(piano) piano.value = 1;
     print("piano?");
+}
+
+function ColorShift(){
+    colorValue = (colorValue + 1) % 5;
+    color.value = colorValue;
 }

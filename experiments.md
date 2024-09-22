@@ -192,4 +192,17 @@ Hmmm. Seems I have given myself a new todo.
 
 [^3]: _Solid_ acronym
 [^4]: Though while I'm writing this, I'm listening to [Phil Niblock's Baobab](https://open.spotify.
-com/album/3yh6Ca0t9b1czoBcjHyu3G?si=-Pi93nisQCmNtEr6WQSrfQ) which makes what I've made feel like Ric Ocasek wrote it... 
+com/album/3yh6Ca0t9b1czoBcjHyu3G?si=-Pi93nisQCmNtEr6WQSrfQ) which makes what I've made feel like Ric Ocasek wrote it...
+
+## Experiment 04.03 // Color Shift // 21 Sept, 2024
+
+https://mouseandthebillionaire.com/reflectiveStudies/04/03.html
+
+Quick experiment using a pitch shift to shift the harmonic color of the entire audio proves that..
+
+    - it is possible
+    - it doesn't sound that great
+
+Even though it's a lot more work and will lead to a slightly more bloated file size, it seems that composing the 
+sections in Ableton and then exporting for RNBO is the way to go. I will leave the color(pitch) parameter in there to 
+keep experimenting with, but not rely on it.

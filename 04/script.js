@@ -10,7 +10,7 @@ let interacting;
 let sketchStarted=false;
 
 // Timer
-let delayTime;
+let delayTime, excerptDelayTime;
 let currTime;
 
 function windowResized() {
@@ -100,9 +100,14 @@ function draw(){
             // Play the Piano Line
             PianoLine();
 
-            if(keyIsPressed && currTime > delayTime){
+            // Build in a longer Delay
+            excerptDelayTime = 200;
+            print(currTime +":"+ excerptDelayTime);
+
+            if(keyIsPressed && currTime > excerptDelayTime){
                 interacting = true;
                 currTextFile += 2;
+                ColorShift();
                 textLine = 0;
                 currTime = 0;
             }
