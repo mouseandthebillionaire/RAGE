@@ -201,7 +201,7 @@
 						}
 ,
 						"classnamespace" : "rnbo",
-						"rect" : [ 453.0, 157.0, 1182.0, 1016.0 ],
+						"rect" : [ 453.0, 132.0, 1182.0, 1016.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -704,7 +704,7 @@
 										}
 ,
 										"classnamespace" : "rnbo",
-										"rect" : [ 31.0, 374.0, 902.0, 994.0 ],
+										"rect" : [ 186.0, 153.0, 902.0, 994.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -2379,7 +2379,7 @@
 														}
 ,
 														"classnamespace" : "rnbo",
-														"rect" : [ 44.0, 87.0, 518.0, 739.0 ],
+														"rect" : [ 1017.0, 178.0, 518.0, 739.0 ],
 														"bglocked" : 0,
 														"openinpresentation" : 0,
 														"default_fontsize" : 12.0,
@@ -9235,9 +9235,9 @@
 													"numinlets" : 2,
 													"numoutlets" : 2,
 													"outlettype" : [ "signal", "" ],
-													"patching_rect" : [ 419.333344340324402, 244.000004291534424, 64.0, 23.0 ],
+													"patching_rect" : [ 419.333344340324402, 244.000004291534424, 71.0, 23.0 ],
 													"rnbo_classname" : "line~",
-													"rnbo_serial" : 1,
+													"rnbo_serial" : 5,
 													"rnbo_uniqueid" : "line~_obj-160",
 													"rnboinfo" : 													{
 														"needsInstanceInfo" : 1,
@@ -9377,7 +9377,7 @@
 														"changesPatcherIO" : 0
 													}
 ,
-													"text" : "line~ 1. 50"
+													"text" : "line~ 1. 500"
 												}
 
 											}
@@ -9634,9 +9634,9 @@
 													"numinlets" : 2,
 													"numoutlets" : 2,
 													"outlettype" : [ "signal", "" ],
-													"patching_rect" : [ 519.333347320556641, 304.000006079673767, 78.0, 23.0 ],
+													"patching_rect" : [ 519.333347320556641, 304.000006079673767, 85.0, 23.0 ],
 													"rnbo_classname" : "line~",
-													"rnbo_serial" : 3,
+													"rnbo_serial" : 4,
 													"rnbo_uniqueid" : "line~_obj-80",
 													"rnboinfo" : 													{
 														"needsInstanceInfo" : 1,
@@ -9776,7 +9776,7 @@
 														"changesPatcherIO" : 0
 													}
 ,
-													"text" : "line~ 100. 50"
+													"text" : "line~ 100. 500"
 												}
 
 											}
@@ -11579,7 +11579,7 @@
 										}
 ,
 										"classnamespace" : "rnbo",
-										"rect" : [ 822.0, 172.0, 1724.0, 863.0 ],
+										"rect" : [ 482.0, 172.0, 1724.0, 863.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
@@ -29176,7 +29176,7 @@
 										}
 ,
 										"classnamespace" : "rnbo",
-										"rect" : [ 1621.0, 194.0, 968.0, 717.0 ],
+										"rect" : [ 1238.0, 194.0, 968.0, 717.0 ],
 										"bglocked" : 0,
 										"openinpresentation" : 0,
 										"default_fontsize" : 12.0,
