@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: 04.03 experiments with pitch shifts for harmonic color">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="fix: a simple fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04/audio/reflection.export.json" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/reflection.export.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04/audio/reflection.maxpat" beforeDir="false" afterPath="$PROJECT_DIR$/04/audio/reflection.maxpat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,15 +98,7 @@
       <workItem from="1726159000789" duration="11000" />
       <workItem from="1726159568760" duration="6768000" />
       <workItem from="1726428712868" duration="726000" />
-      <workItem from="1726936092263" duration="12431000" />
-    </task>
-    <task id="LOCAL-00019" summary="makings: experiment 03.03 - dialing in the final setup. Time to stop tinkering around in Max/MSP (don't want to fall in a hole!) and get this thing in some sort of screen-based interaction.&#10;&#10;Question: is this just solo JS Joust!? Oh no!">
-      <option name="closed" value="true" />
-      <created>1721763934685</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1721763934685</updated>
+      <workItem from="1726936092263" duration="14912000" />
     </task>
     <task id="LOCAL-00020" summary="readings: thoughts on Flusser's Shape of Things, especially on the essay The Non-Thing 1">
       <option name="closed" value="true" />
@@ -491,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726963836556</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="fix: a simple fix">
+      <option name="closed" value="true" />
+      <created>1726964592885</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1726964592885</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives" />
     <MESSAGE value="readings: (a few) Dalsgaard et al's Reflective Design Documentation" />
     <MESSAGE value="readings: thoughts on Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry,&quot;" />
     <MESSAGE value="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*" />
@@ -534,6 +534,7 @@
     <MESSAGE value="experiments: experiment 04 / audio version" />
     <MESSAGE value="fix: fixas gotta be fixin" />
     <MESSAGE value="makings: 04.03 experiments with pitch shifts for harmonic color" />
-    <option name="LAST_COMMIT_MESSAGE" value="makings: 04.03 experiments with pitch shifts for harmonic color" />
+    <MESSAGE value="fix: a simple fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: a simple fix" />
   </component>
 </project>

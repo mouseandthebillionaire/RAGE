@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relatedWork.md",
+                "file": "writing/question_02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relatedWork.md",
+                "file": "writing/question_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relatedWork.md",
+                "file": "writing/question_02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relatedWork.md"
+                "file": "writing/question_02.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "a0b2861a4e016792",
   "lastOpenFiles": [
+    "writing/question_01.md",
+    "writing/question_02.md",
+    "experiments.md",
+    "relatedWork.md",
     "untitled folder",
     "_template/audio/media/chime.wav",
     "01/audio/chime.wav",
@@ -158,15 +162,12 @@
     "03/audio/drone.wav",
     "03/audio/media/static.wav",
     "03/audio/static.wav",
-    "04/02.txt.sb-e367478c-LZmjSR",
     "().md",
-    "relatedWork.md",
     "media/images/proteusWalkingScore.png",
     "Screen Shot 2024-09-03 at 10.58.59 AM.png",
     "README.md",
     "media/images/ex-I_in-I.png",
     "media/images/Screen Shot 2024-08-07 at 4.35.53 PM.png",
-    "experiments.md",
     "media/images/dontSnake.gif",
     "media/images/03_04.png",
     "media/images/03.00.png",
