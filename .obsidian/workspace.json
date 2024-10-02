@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "relatedWork.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a609907ea85289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "writing/question_02.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b2861a4e016792",
+  "active": "d8a609907ea85289",
   "lastOpenFiles": [
-    "writing/question_01.md",
-    "writing/question_02.md",
-    "experiments.md",
     "relatedWork.md",
+    "writing/question_02.md",
+    "writing/question_01.md",
+    "experiments.md",
     "untitled folder",
     "_template/audio/media/chime.wav",
     "01/audio/chime.wav",

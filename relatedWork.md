@@ -48,7 +48,7 @@ The Penguin edition has "the person who stands in *contemplation* before a work 
 
 _"The public is an examiner, but an absent-minded one."_ (35)
 
-[^0]: note: all pasted quotes are from [this translation](https://web.mit.edu/allanmc/www/benjamin.pdf) rather than the Penguin great ideas edition (thogh page numbers are for the Penguin version)
+[^0]: note: all pasted quotes are from [this translation](https://web.mit.edu/allanmc/www/benjamin.pdf) rather than the Penguin great ideas edition (though page numbers are for the Penguin version)
 ### Bermudez, J. Introduction to *Transcending Architecture*, 2015
 
 Some really nice thoughts in here. Bermudez's definition of architecture that "transcends" feels particularly helpful: 
