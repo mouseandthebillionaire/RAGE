@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Initial structure and notes for comps question 02">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/writing/question_02.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/question_02.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,15 +98,7 @@
       <workItem from="1726159568760" duration="6768000" />
       <workItem from="1726428712868" duration="726000" />
       <workItem from="1726936092263" duration="14912000" />
-      <workItem from="1727790351704" duration="2604000" />
-    </task>
-    <task id="LOCAL-00021" summary="makings: thoughts on what we're even doing here">
-      <option name="closed" value="true" />
-      <created>1721938486679</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1721938486679</updated>
+      <workItem from="1727790351704" duration="5766000" />
     </task>
     <task id="LOCAL-00022" summary="makings: experiment 03.04">
       <option name="closed" value="true" />
@@ -493,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727796221986</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)">
+      <option name="closed" value="true" />
+      <created>1727880733827</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1727880733827</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry,&quot;" />
     <MESSAGE value="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*" />
     <MESSAGE value="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg" />
     <MESSAGE value="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
@@ -536,6 +534,7 @@
     <MESSAGE value="makings: 04.03 experiments with pitch shifts for harmonic color" />
     <MESSAGE value="fix: a simple fix" />
     <MESSAGE value="writing: Initial structure and notes for comps question 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Initial structure and notes for comps question 02" />
+    <MESSAGE value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
   </component>
 </project>
