@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Day 3 - first overall pass" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Day 3 - second overall pass">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,15 +97,7 @@
       <workItem from="1726159568760" duration="6768000" />
       <workItem from="1726428712868" duration="726000" />
       <workItem from="1726936092263" duration="14912000" />
-      <workItem from="1727790351704" duration="8088000" />
-    </task>
-    <task id="LOCAL-00024" summary="readings: thoughts on Kultima's Game Design Praxiology">
-      <option name="closed" value="true" />
-      <created>1722288760064</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1722288760064</updated>
+      <workItem from="1727790351704" duration="10189000" />
     </task>
     <task id="LOCAL-00025" summary="readings: thoughts on Niedderer (!) and Sun (?)">
       <option name="closed" value="true" />
@@ -489,7 +483,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727969707356</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="writing: Day 3 - second overall pass">
+      <option name="closed" value="true" />
+      <created>1727973709740</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1727973709740</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +509,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
     <MESSAGE value="readings: thoughts on PHallnäs, L et al. &quot;Expressions: Towards a Design Practice of Slow Technology&quot;" />
     <MESSAGE value="readings: thoughts on Hallnäs and Redström's &quot;Slow Technology&quot;&#10;&#10;there's a lot of good stuff in here!&#10;also, experimented with using tags in Obsidian to see how it transfers to the GitHub repo" />
     <MESSAGE value="readings: thoughts on Sengers at al's Reflective Design" />
@@ -532,6 +533,7 @@
     <MESSAGE value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
     <MESSAGE value="writing: Day 2" />
     <MESSAGE value="writing: Day 3 - first overall pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Day 3 - first overall pass" />
+    <MESSAGE value="writing: Day 3 - second overall pass" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Day 3 - second overall pass" />
   </component>
 </project>
