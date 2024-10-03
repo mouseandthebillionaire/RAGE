@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Day 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/writing/question_02.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/question_02.md" afterDir="false" />
     </list>
@@ -98,15 +98,7 @@
       <workItem from="1726159568760" duration="6768000" />
       <workItem from="1726428712868" duration="726000" />
       <workItem from="1726936092263" duration="14912000" />
-      <workItem from="1727790351704" duration="5766000" />
-    </task>
-    <task id="LOCAL-00022" summary="makings: experiment 03.04">
-      <option name="closed" value="true" />
-      <created>1721961113432</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1721961113432</updated>
+      <workItem from="1727790351704" duration="7402000" />
     </task>
     <task id="LOCAL-00023" summary="makings: reflection on experiment 03.04">
       <option name="closed" value="true" />
@@ -492,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727880733827</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="writing: Day 2">
+      <option name="closed" value="true" />
+      <created>1727958043308</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1727958043308</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*" />
     <MESSAGE value="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg" />
     <MESSAGE value="readings: thoughts on Pallasmaa's &quot;Light, Silence, and Spirituality in Architecture and Art&quot;" />
     <MESSAGE value="readings: thoughts on PHallnäs, L et al. &quot;Expressions: Towards a Design Practice of Slow Technology&quot;" />
@@ -535,6 +534,7 @@
     <MESSAGE value="fix: a simple fix" />
     <MESSAGE value="writing: Initial structure and notes for comps question 02" />
     <MESSAGE value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
+    <MESSAGE value="writing: Day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Day 2" />
   </component>
 </project>
