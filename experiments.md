@@ -206,3 +206,5 @@ Quick experiment using a pitch shift to shift the harmonic color of the entire a
 Even though it's a lot more work and will lead to a slightly more bloated file size, it seems that composing the 
 sections in Ableton and then exporting for RNBO is the way to go. I will leave the color(pitch) parameter in there to 
 keep experimenting with, but not rely on it.
+
+## Thoughts
