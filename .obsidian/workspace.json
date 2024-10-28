@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/question_01.md",
+                "file": "experiments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "question_01"
+              "title": "experiments"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiments.md",
+                "file": "relatedWork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "experiments"
+              "title": "relatedWork"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1dd180373e847a0",
+  "active": "d8a609907ea85289",
   "lastOpenFiles": [
-    "writing/question_03.key",
+    "writing/question_01.md",
     "relatedWork.md",
     "experiments.md",
+    "writing/question_03.key",
     "writing/question_02.md",
-    "writing/question_01.md",
     "untitled folder",
     "_template/audio/media/chime.wav",
     "01/audio/chime.wav",
@@ -193,7 +192,6 @@
     "03/audio/media/drone.wav",
     "03/audio/drone.wav",
     "03/audio/media/static.wav",
-    "03/audio/static.wav",
     "().md",
     "media/images/proteusWalkingScore.png",
     "Screen Shot 2024-09-03 at 10.58.59 AM.png",

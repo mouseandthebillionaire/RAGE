@@ -3,7 +3,7 @@
 
 A collection of quotes, reflections, design ideas, musings, et cetera pertaining to the readings completed in preparation for comprehensive exams. (Starting June 4, 2024)
 
-### "ABZU," n.d.
+## "ABZU," n.d.
 
 This feels like what I would classify as a contemplative/reflective experience, but it's fascinating to note that it doesn't look anything like what Rilla proposes for design qualities of reflective game design. Specifically:
 
@@ -14,7 +14,7 @@ This feels like what I would classify as a contemplative/reflective experience, 
 
 Flow and Flower do the same thing, yes? So again what we are talking about here isn't a "reflective" game at all. It's a potential contemplative/meditative experience, but maybe not one that leads to any real-world knowledge gained. There is still value to this, obviously, but how do you talk about it?
 
-### Austin, M. "Music Games," 2021
+## Austin, M. "Music Games," 2021
 
 Not a *ton* here, but I particularly enjoyed the background on some music-games that I was not aware of or had forgotten about, including:
 - [Quest for Fame (1995)](https://www.youtube.com/watch?v=Uka9EQLqlDc)
@@ -24,7 +24,7 @@ Not a *ton* here, but I particularly enjoyed the background on some music-games 
 
 Austin's classification of music games as either procedural/conceptual is very interesting, but less pertinent to this current project. There are a couple of additional essays from this collection (*The Cambridge Companion to Video Game Music*) that I may add to the list as they seem more useful, but I will wait until I actually read to make sure they are a good fit. These are Richard Stevens' "The Inherent Conflicts of Musical Interactivity in Video Games," and Elizabeth Medina-Gray's "Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games" And dare I even *suggest* Dana Plank's "Audio and the Experience of Gaming: A Cognitive-Emotional Approach to Video Game Sound"..?
 
-### Benjamin, W. "The Work of Art in the Age of Mechanical Reproduction," 1936[^0]
+## Benjamin, W. "The Work of Art in the Age of Mechanical Reproduction," 1936[^0]
 
 _"Earlier much futile thought had been devoted to the question of whether photography is an art. The primary question—whether the very invention of photography had not transformed the entire nature of art—was not raised. Soon the film theoreticians asked the same ill-considered question with regard to the film."_ (15)
 
@@ -49,7 +49,7 @@ The Penguin edition has "the person who stands in *contemplation* before a work 
 _"The public is an examiner, but an absent-minded one."_ (35)
 
 [^0]: note: all pasted quotes are from [this translation](https://web.mit.edu/allanmc/www/benjamin.pdf) rather than the Penguin great ideas edition (though page numbers are for the Penguin version)
-### Bermudez, J. Introduction to *Transcending Architecture*, 2015
+## Bermudez, J. Introduction to *Transcending Architecture*, 2015
 
 Some really nice thoughts in here. Bermudez's definition of architecture that "transcends" feels particularly helpful: 
 	"They are talking of an architecture that has removed the 'opacity' hiding life’s meanings so that we can catch a momentous and revelatory (even if unsettling) glimpse"
@@ -59,7 +59,7 @@ This feels more aligned with what I think of as reflection than I have found bef
 
 It is this passing on or beyond that I believe games can do well (as perhaps all great art does?) The subject material and the activity goes beyond narrative topics and the mechanics of play into something deeper. Beyond.
 
-### Bijsterveld, K. "Modes of Listening: Why, How and to What?" 2019
+## Bijsterveld, K. "Modes of Listening: Why, How and to What?" 2019
 
 I like this quote from Sophie Gibling's 1918 essay "Types of Musical Listening" about "the lis- tener “who is no listener at all, who passively sits through a concert, intellectually contributing nothing; waiting, like a cabbage or a stone, for something to happen to him. He hears without listening" (Gibling 386)
 
@@ -82,7 +82,7 @@ Ways
 
 Bjisterveld is specifically talking about how scientists, engineers, and physicians listen here, so this may not be as useful as in those cases. The Truax typology listed above may be more helpful. However, she claims that Truax is looking at different *degrees* of attention while this is focusing on different *kinds,* and this feels like a good way to think about it. But what are the different kinds of listening that exist for entertainment? Are they the same as here? Different? Additionally, she claims they are not just in the mind, but linked to bodily actions as well (as in the way a doctor uses a stethoscope), which is great. (72)
 
-### Blesser, B. et al. *Spaces Speak, Are You Listening*, 2007
+## Blesser, B. et al. *Spaces Speak, Are You Listening*, 2007
 
 A really fascinating (and probably overly thorough...) look at the subject, but I think that GD's summary actually says it best 
 
@@ -118,7 +118,7 @@ _"The application of aural architecture to cinema is a good example of aesthetic
 
 "_We now understand why musical and religious spaces are the most prominent forms of aural architecture. Such spaces emphasize the affective experience, and listeners may feel that the space has personal significance_" (335)
 
-### Bogost, I. "Relaxation" from *How to Do Things with Videogames,*  2011
+## Bogost, I. "Relaxation" from *How to Do Things with Videogames,*  2011
 
 Bogost has some interesting excursions into and around reflection in his essay on “Relaxation” in games. And there are definitely some parallels here, but it strikes me that the notion of “relaxing” and/or “zen” games remains in a different category than “reflective” games. The goal of a relaxing game is obviously to relax, and zen games are (per Bogost) “akin to doodling on a napkin or skimming through a magazine, or knitting in front of the television” (92) These really are the lean-back forms of games that Bogost is arguing towards here, where the mind becomes calmer through the activity. But in true “reflective” media is there this calmness? Are we “calm” when brought face to face with notions that challenge the way we have constructed the world around us?
 
@@ -129,11 +129,11 @@ Finally, this quote in his conclusion is pertinent
 
 Is this true? Relaxation, maybe? But reflection? Are we reflecting if our senses have become de-emphasized? Focused, feels right, though. We do want our senses focused and honed in order to see things in a new way. Again, more work to be done by thinking about reflective architecture, and how that can be applied to games.
 
-### Bukvic, I. "Introduction to Sonification," 2019
+## Bukvic, I. "Introduction to Sonification," 2019
 
 Good definition for sonification as "the acoustic representation of data for relational interpretation by listeners, for the purpose of increasing their knowledge of the source from which the data was acquired." (195) Additionally, a good reminder of the paramters that we mainly think about when designing for sonification: pitch, loudness, timbre, duration, location. (198) Otherwise a good refernece for some basic sonification ideas, techniques, and theories (if those things are needed). 
 
-### Dalsgaard, P. et al. "Reflective Design Documentation," 2012
+## Dalsgaard, P. et al. "Reflective Design Documentation," 2012
 
 First things first: the number of times "wicked/wickedness" is used in the introduction is bananas.
 
@@ -141,7 +141,7 @@ The initial statements about the challenges designers face is great, but the dis
 
 _"A strategy for data capture that focuses on specific and well-defined questions most often seems to prompt relatively restricted discussions of the existing research questions"_ (435)
 
-### Djebbara, Z. et al. "Contemplative neuroaesthetics and architecture: A sensorimotor exploration," 2023
+## Djebbara, Z. et al. "Contemplative neuroaesthetics and architecture: A sensorimotor exploration," 2023
 
 _"we define mindfulness as a state of non-judgmental awareness and focused attention on the present moment, while contemplation as a state of intense concentration, introspection, and open or directed consideration"_ (98) 
 
@@ -176,7 +176,7 @@ Another great Juhani Pallasmaa quote!
 
 p. 105 good quotes from people experiencing contemplative states from engaging with architecture (Salk Institute, Therme Vals Bath, Chartres)
 
-### Droumeva, M. "Soundwalking in Games," 2023
+## Droumeva, M. "Soundwalking in Games," 2023
 
 _"Soundwalking is a performative method that relies on real-time presence and intentional movement through either physical or virtual space."_ (2.1) -- good definition
 
@@ -199,7 +199,7 @@ More arguments from them (all p. 5):
 
 But overall I find this argument fairly pedantic? We understand the idea of a conversation with materials not as an actual conversation, right? A conversation that can happen at speeds to feel/look like instinct. I don't think we need another framework to think about how that appears simply based on language and mental-model differences. But fun to look at the practice through a slightly different lens.
 
-### Eyles, M. et al. "Playful Ambience," 2011
+## Eyles, M. et al. "Playful Ambience," 2011
 
 A pretty interesting exploration on what it would mean to have ambient play in the true Brian Eno *Music for Airports* sense. Their understanding of the 'fundamental properties' pf ambience are of note (2):
 
@@ -216,7 +216,7 @@ Over all, I think that this exploration leads to some great discoveries about cr
 
 _"For games with high levels of ambience the perceived complexity should allow different levels of engagement, including the ability to have a very low level of engagement. One consequence of giving players the possibility of engaging at a low level means that it should be possible to perceive the game as having a low level of complexity and hence easily engage with it."_ (11)
 
-### Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
+## Fullerton, T. "Slow Play" from *The Infinite Playground*, De Koven, B. 2020
 
 "'Slow play' \[...] allows for, and even depends on, an internal and emotional process on the part of the player. This is play that nurtures that internal process through its design. its scope, and its pace."
 
@@ -226,13 +226,13 @@ It’s interesting to think about the place that time has in the success of poss
 
 This, then, opens up some interesting possibilities: an arcade game experience could be reflective if its content/nature/gameplay/(something else?) contained deep and thoughtful ideas. The player may feel like they are doing something frantic and mindless, but the moment thet stop, could reflection happen? Prior personal work like [_Busy Work_](http://www.mouseandthebillionaire.com/busyWork/) and [_Buy! Sell!_](http://www.mouseandthebillionaire.com/buySell) have perhaps tested this theory to varying degrees of success… It could be worthwhile to spend some time spent thinking about what this material "something" is that makes a piece of media appropriate for reflection.
 
-### Flusser, V. *The Shape of Things*, 1999
+## Flusser, V. *The Shape of Things*, 1999
 
 _"This new human being in the process of being born all around us and within us is in fact without hands. He does not handle things anymore, so in his case one cannot speak of actions anymore. Nor of practice, nor of work for that matter. The only things left of his hands are the tips of his fingers, which he uses to tap on keys so as to play with symbols. The new human being is not a man of action anymore but a player: homo ludens as opposed to homo faber."_ (91)
 
 So much prescience in Flusser's essays, but this feels exceptionally so. Additionally the following line that "life is not a drama for him, but a performance." Really, this whole paragraph should go in here, but trying to focus in on a smaller portion. But yes, especially in my own work, performance is a key aspect. Creating performative opportunities for unnexpected joy. Experiences that are just as fun to watch as they are to play. A positive spin on the darker aspects that Flusser is highlighting. And there are a number of examples of this within the world of games/play, but the few that come to mind most readily are *JS Joust, DDR, [Disunion](https://vimeo.com/65510054)*. Does organized sport fit in here as well? We could argue that in sport performance is *far* more important than fun.
 
-### Frayling, C. "Research n Art and Design," 1993
+## Frayling, C. "Research n Art and Design," 1993
 
 Rereading Frayling, that distinction of research *for* art and research *through* art stands out (obviously), and I wonder where my own "research" fits in as I continue this process. Clearly I am researching methods, techniques, ideas, etc that can be used to create specific contemplative/reflective experiences (for), but the comprehensive exam process itself (reading, playing games, writing) is *also* fairly contemplative/reflective. This creates a really fascinating combination/overlap. In fact, are both of these not research *for*? The techniques research fits in with materials research, and while Frayling might categorize the precedent research as research *into*, it feels more like research *for* a specific outcome. Truly whole practice truly is part of the research, as Frayling states: 
 
@@ -240,14 +240,14 @@ _"Research is a practice, writing is a practice, doing science is a practice, do
 
 [^0]: how unfortunate is the use of 'artecidal' here? I feel like these statements would have more sway without it.
 
-### Galloway, K. "Soundwalking and the Aurality of *StarDew Valley*," 2019
+## Galloway, K. "Soundwalking and the Aurality of *StarDew Valley*," 2019
 
 This strikes me as a similar approach (at least partly) to Chang's *Playing Nature,* in that the focus is on how digital media can point back out to real physical natural phenomena. I don't deny the power of sound to help with this, but I wonder if there isn't more here, i.e *how can we experience the 'aurality' of* Stardew Valley *as it's own entity, unrelated to the outside world.* Galloway hints at some of this, particularly when she discusses the gulf between character and player
 
 _" I, the player, could hear this music layered over the ambient soundscape, but I wondered what was audible to Darby and the other non-player characters (NPCs) from their unique listening perspectives."_ (167)
 
 "What does it sound like to *be* in *Stardew Valley*" becomes a different question than "What does it feel like to *play Stardew Valley*?" In general, Galloway's switch to these perspectives for the remainder of the essay is interesting. That separation of avatar and player is a really compelling one, and I wodner what a game would look like where the avatar hears things that the player does not (and vice versa).
-### Gibbons, Liam. “Strategies for the Design of Reflective Shortform Videogames,” 2020
+## Gibbons, Liam. “Strategies for the Design of Reflective Shortform Videogames,” 2020
 
 Gibbons strategies for making games reflective are as follows (with accompanying pull-quotes and notes):
 
@@ -277,7 +277,7 @@ It is also worth noting that I think my definition of reflection differs from Gi
 
 While I don’t deny that these activities are “reflective” (in that the player is reflecting on the state of play) I find it slightly removed from reflection in the depper context that I am considering. I want to make some wider gulf between deep reflection and simply “thinking back on past play sessions and what might come next.” Gibbons’ use of reflection reminds me more of Bogost’s discussion of “lean back” media in “How to do Things with Videogames.”
 
-### Goudarzi, V. "Sound Design in the Context of Sonification," 2022
+## Goudarzi, V. "Sound Design in the Context of Sonification," 2022
 
 Some light history of sound design and sonification more expressly, and a few quotes that could come in handy...
 
@@ -287,7 +287,7 @@ Also referenced: Larry Zbikoski's three cognitive processes that all humans use 
 
 [Tweetscapes](https://repository.gatech.edu/server/api/core/bitstreams/b157e9da-b815-4b59-922f-340e59ad5bfa/content)
 
-### Hallnäs, L et al. "Expressions: Towards a Design Practice of Slow Technology," 2001
+## Hallnäs, L et al. "Expressions: Towards a Design Practice of Slow Technology," 2001
 
 Hallnäs et al "describe Slow Technology \[as] technology aimed at promoting moments of reflection and mental rest" (abstract) which again, feels like it is in line with what I think about when I describe reflection: "mental rest" over "insight." I enjoy all of the examples in this paper; how they are built experiments from the team and what the implications of those objects might be for slow technology and reflection.
 
@@ -299,7 +299,7 @@ This is also a great way of framing the exploration; thinking of the aesthetical
 
 _"Aesthetics: When we want to find out more about the intrinsic expressions of computational technology as material for design, we sometimes have to disregard functionality"_ (6.4)
 
-### Hallnäs and Redström. “Slow Technology - Designing For Reflection,” 2001
+## Hallnäs and Redström. “Slow Technology - Designing For Reflection,” 2001
 
 A companion paper to the Expressions paper above, this gives further examples (some external) of what "slow technology" may look like. Their reference of other phrases is useful ("calm technology" and "ambient media") and I have looked at papers touching on these throughout the comps time. Their idea of slow technology is dealing primarily with ubiquitous computing which is extremely fascinating, but pertains less to traditional video game play. However, there is clearly a space for this when thinking about future experiments, with Kara Stone's [Ritual of the Moon](**[https://karastone.itch.io/ritual-of-the-moon](https://karastone.itch.io/ritual-of-the-moon)**) being an obvious touchpoint.
 
@@ -320,7 +320,7 @@ _"focus on slowness of appearance (materialisation, manifestation) and presence 
 Misc:
 - Soniture (4) is a great word - "With soniture, we mean the more or less movable things in a room that give the room its sounds"
 
-### Hambleton, E. “Gray Areas: Analyzing Navigable Narratives in the Not-So-Uncanny Valley Between Soundwalks, Video Games, and Literary Computer Game,” 2020): 20–43.
+## Hambleton, E. “Gray Areas: Analyzing Navigable Narratives in the Not-So-Uncanny Valley Between Soundwalks, Video Games, and Literary Computer Game,” 2020): 20–43.
 
 "Navigable narratives" is a good alternative name for walking simulators, but I wonder if other narrative types are not also navigable. Can you not navigate the narrative in a text adventure? Though I suppose her definition naturally excludes them. You invent the genre name, you get to decide what fits in it (*The Witness* has puzzles so can't be one. Okay?) This is a bit besides the point, though.
 
@@ -331,7 +331,7 @@ More importantly, the crossover with soundwalks is great. A few notes:
 - Astrid Ensslin's notion of different 'literary computer games' doesn't necessarily fit in with this current line of inquiry, but those additional genre separation's are great -- ludic hypermedia,” “interactive fiction/drama,” “poetry games,” “literary auteur games,” and “quasi-literary games. (34)
 - "Soundwalks are fixed in real time while navigable narratives are not" (40) but does this have to be the case? Also, can we not argue that it is possible to pause a soundwalk (I did) just like you can a video game?
 
-### Jaaniste, L. "Approaching the Ambient: Creative Practice and the Ambient Mode of Being," 2007
+## Jaaniste, L. "Approaching the Ambient: Creative Practice and the Ambient Mode of Being," 2007
 
 The best thing about this thesis is the structure of breaking down the entirety into the four sections of: 
 
@@ -342,7 +342,7 @@ The best thing about this thesis is the structure of breaking down the entirety 
 
 His fundamental goal of rethinking how 'ambiance' is discussed and designed around is laudable (and fascinating), but generally unhelpful for what I will be working on at this stage. 
 
-### Jensen, J. "Designing for Profound Experiences," 2014
+## Jensen, J. "Designing for Profound Experiences," 2014
 
 Again, the use of "profound" is a bit of a red herring here. Profound as in containing meaning and being deeper than the "tangible" and "usage" dimensions that he lists (and I suppose there is something profound in the example of riding a bike and being removed from the task at hand \[a la Csikszentmihalyi]), but not the reflective, profound, transcendence that is possible in great art.
 
@@ -356,7 +356,7 @@ That being said, this is some definite value in Jensen's list of characteristics
 - translate into design with usable, lightweight representations.
 
 In particular, the first three seem useful as lenses for designing reflective game experiences. He only has a very short paragraph on the "deemphasize the focus on temporal parameters" idea \[ _most methods used in service design and experience design (e.g., conceptual models, service blueprinting, experience models, or taxonomies) tend to focus on flow and timed sequences; a profound dimension has less focus on temporal parameters._] but there is something there that feels right and appears to line up with Khaled's idea of "disruption over comfort" and "reflection over immersion."
-### Jones, L. “Architectural Catalysts to Contemplation" from *Transcending Architecture*
+## Jones, L. “Architectural Catalysts to Contemplation" from *Transcending Architecture*
 
 Jones' essay turns out to be less applicable than I had originally hoped, but there are still a few interesting things here. While she is focusing (as is the entire collection of which it is a part) on the specifically *religious* side of contemplation, the categorization of modes of sacred spaces into *theatric, sanctuary, and contemplative* is a useful way to think about making these spaces. 
 
@@ -364,7 +364,7 @@ Of sanctuary space she says "the demarcation of a “threshold,” that is, a bo
 
 After reading this article, I would like to do a cursory reading of the collection's third section (RESPONSE FROM ARCHITECTURAL PRACTICE) as it appears to have more practical/application-based content. 
 
-### Koike, R. *The Practice of Not Thinking: A Guide to Mindful Living*
+## Koike, R. *The Practice of Not Thinking: A Guide to Mindful Living*
 
 The “Three Kleshas (literally poisons) or disturbing emotions” are desire, anger, and uncertainty (6)
 
@@ -382,7 +382,7 @@ A follow-up question then becomes: *is there a way to create a non-puzzle puzzle
 
 This feels like a good place for a classic puzzly experience and also a key quote to be presented to the player before a sonically reflective interaction.
 
-### Kultima, A. *Game Design Praxiology*, 2018
+## Kultima, A. *Game Design Praxiology*, 2018
 
 Very visually well-designed dissertation and something to model my own future writing after. There is less of the academic glut here than in other things I have been reading, but I'm still curious if there are ways to push this out even further. On the other hand, where is the line that would be going too far? Great use of personal images, narrative, and writing to tie all of this together.
 
@@ -398,7 +398,7 @@ Really?
 
 [^1]: Not something that I want to get in to here, but this also calls to mind Brendan Keough's use of Bourdieu's concept of "fields" and the conflict for autonomy.
 
-### Locher, P. et al. "Aesthetic Interaction: A Framework," 2010
+## Locher, P. et al. "Aesthetic Interaction: A Framework," 2010
 
 A heavily product design leaning understanding of aesthetics, but some good takeaways, including:
 
@@ -406,13 +406,13 @@ A heavily product design leaning understanding of aesthetics, but some good take
 - Wensveen's three types of interactive system information (inherent, augmented, functional) (73-74)
 - the six roles of a product communicated by its appearance (78)
 
-### Lorelei and the Laser Eyes. Simogo, 2024
+## Lorelei and the Laser Eyes. Simogo, 2024
 
 Started playing this one after reading Simogo's [design goals](https://simogo.com/work/loreleiandthelasereyes/) of the project as "black and white, and should have a slower tempo, be more contemplative, and perhaps be puzzle based" which feels pretty in line with what I am interested in here.
 
 After finishing, I'd say that it works pretty well along those goals? It's definitely more puzzly than contemplative/reflective, but there are mechanical and aesthetic aspects of it that are noteworthy. The main thing there is the ambiguity. In their game description page they describe taking influence from Paul Auster with a desire to focus on "exploring story concepts of media within media, stories within stories, and the feeling of characters as more floating concepts, which would leave the player guessing who was who, or when the game even took place." This uncertainty of both narrative and spatial conditions breaks the flow in ways to heighten the reflective matter. 
 
-### Meelberg, V. "Sound Design Thinking" from *Doing Research in Sound Design*
+## Meelberg, V. "Sound Design Thinking" from *Doing Research in Sound Design*
 
 *"Because of the specific characteristics of sound \[...\], aspects such as communication, relationality and interaction become perhaps even more important in sound design that (sic) in other design disciplines that work with materials other than sound. **It could even be said that sound design is a practice in which such aspects are constantly reflected upon**" (6)
 
@@ -422,7 +422,7 @@ Nice.
 
 *"Sonic thinking stresses that auditory experience is corporeal. Sound are felt before they are interpreted and quantified by listeners. Consequently, in sound design, considered as a form of sonic thinking, it is more important to focus on what a sound does, or can do, than on what sound is.* (14)
 
-### Miller, J. et al. "A Design Framework for Reflective Play," 2024
+## Miller, J. et al. "A Design Framework for Reflective Play," 2024
 
 The most obvious thing to come out of this is the five 'approaches' for reflective play:
 
@@ -446,13 +446,13 @@ Side note: are we doing spoiler alerts in articles now?
 
 [Sabrina's Culyba's _The Transformational Framework_](https://www.transformationalframework.com/) seems like a good reference
 
-### Disasterpeace. “Mini Metro,” n.d.
+## Disasterpeace. “Mini Metro,” n.d.
 
 The menu soundtrack alone makes me want to to give up. This is exactly what I have been talking about! I’m glad to be playing this after seeing the talk about it because I already am making deeper connections to what is happening here.
 
 In general the sounds are really pleasing. It does such a good job of communicating what happens to you in a very musical way. I don’t think that it’s easy to discern exactly what it is trying to communicate (expect the “there’s a new station” sound which is perfect), but you get that the sounds are tied to something, and I think that’s enough
 
-### Niedderer, K. "Designing Mindful Interaction: The Category of Performative Object," 2007
+## Niedderer, K. "Designing Mindful Interaction: The Category of Performative Object," 2007
 
 Niedderer's definition of "performative object" is really helpful here. This is definitely something that I have been dancing around (even as far back as the inclusion of "design interventions" in curriculum), but having a specific definition for this idea in product design is nice. It's notable that she separates out these performative objects from art objects.
 
@@ -472,7 +472,7 @@ This feels fairly in-line with Khaled's concept of both "disruption over comfort
 
 Finally, I hadn't heard of Brainball (now [Mindball](https://www.mindball.se/)) before, and this feels like a pretty great example of behavior-switching leading to reflection in a game-like context. Though I suppose now the questions is: now that it has become a product on its own and this is the norm, is it sill "subverting expectations?"
 
-### O'Hara, W. "Mapping Sound: Play, Performance, and Analysis in *Proteus*," 2020
+## O'Hara, W. "Mapping Sound: Play, Performance, and Analysis in *Proteus*," 2020
 
 O'Hara's analysis of *Proteus* in conversation with mid-twentieth-century musical modernism is pretty much a slam dunk. The idea of thinking through scores graphically (especially in context of video game music) fits really well here. It definitely gets into the weeds a little bit in analyzing the actual musical content, but I appreciated the higher-level suggestions, especially when thinking about it from my own compositional practices. 
 
@@ -499,7 +499,7 @@ Misc:
 - David Kanaga's [writing about the compositional methods in Proteus](http://wombflashforest.blogspot.com/)
 
 Note: Reading this *before* playing *Proteus* was an interesting experience. I think it was actually helpful to have done so, but I made sure that I didn't repeat this when playing *Panoramical*. 
-### Pallasmaa, J. "Light, Silence, and Spirituality in Architecture and Art," 2015
+## Pallasmaa, J. "Light, Silence, and Spirituality in Architecture and Art," 2015
 
 (from *Transcending Architecture*)
 
