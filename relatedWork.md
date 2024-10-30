@@ -519,6 +519,15 @@ _"Whenever we are struck by a profound piece of art, architecture, painting, or 
 
 _"In the middle of today’s digital, virtual, and instantaneous utopia, we desire to reencounter the fundamental causalities and limits of life."_ (32)
 
+
+## Russell, B. *The History of Western Philosophy*, 1945
+
+_"We are strangers in this world, and the body is the tomb of the soul \[...] In this life there are three types of men, just as there are three sorts of people who come to the Olympic games. The lowest class is made up of those who come to buy and sell, the next above them are those who compete. Best of all, however, are those who come simply to look on. The greatest purification of all is, therefore, disinterested science, and it is the man who devotes himself to that, the true philosopher, who has most effectually released himself from the ‘wheel of birth.”_ - Pythagoras (via Burnet) (53)
+
+Aristotle
+- contemplation as opposed to (and preferable to) action.  (169-170) 
+- contemplation == reason (181)
+
 ## Schön, D. *The Reflective Practitioner*, 1982
 
 _"This concept of 'application' leads" to a view of professional knowledge as hierarchy in which 'general principles' occupy the highest level and 'concrete problem solving' the lowest"_ (24)
