@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Day 3 - google docs pass" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'">
+      <change afterPath="$PROJECT_DIR$/05/audio/audio.maxpat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/chime.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/dependencies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/drone_0.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/media/chime.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/media/drone_0.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/patch.export.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/patch.export.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/synth.export.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/audio/synth.export.license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +39,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -35,32 +52,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/m/Documents/_PHD/Research&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/m/_Projects/_reflectiveStudies/05",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05" />
       <recent name="$PROJECT_DIR$/04" />
       <recent name="$PROJECT_DIR$/03" />
       <recent name="$PROJECT_DIR$/_template" />
       <recent name="$PROJECT_DIR$/02/audio/media" />
-      <recent name="$PROJECT_DIR$/02/audio" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -96,22 +113,9 @@
       <workItem from="1726428712868" duration="726000" />
       <workItem from="1726936092263" duration="14912000" />
       <workItem from="1727790351704" duration="13693000" />
-    </task>
-    <task id="LOCAL-00027" summary="readings: thoughts on Lorelei and the Laser Eyes">
-      <option name="closed" value="true" />
-      <created>1722534143895</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1722534143895</updated>
-    </task>
-    <task id="LOCAL-00028" summary="makings: Don't Snake&#10;&#10;an experiment in creating sound design for a game so that it punishes you for playing it. It would rather you just sit and relax for a moment.">
-      <option name="closed" value="true" />
-      <created>1722535371139</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1722535371139</updated>
+      <workItem from="1730125891355" duration="1515000" />
+      <workItem from="1730318033331" duration="710000" />
+      <workItem from="1731520931813" duration="12859000" />
     </task>
     <task id="LOCAL-00029" summary="readings: thoughts on Goudarzi's Sound Design in the Context of Sonification">
       <option name="closed" value="true" />
@@ -489,7 +493,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727992703847</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="writing: Question 3 - structure refinement and precedent imagery&#10;&#10;Do I want to include gifs, or do we get it from just the stills?">
+      <option name="closed" value="true" />
+      <created>1730126059566</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1730126059567</updated>
+    </task>
+    <task id="LOCAL-00077" summary="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'">
+      <option name="closed" value="true" />
+      <created>1730318129082</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1730318129082</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,8 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Sengers at al's Reflective Design" />
-    <MESSAGE value="readings: thoughts on Ritual of the Moon&#10;&#10;Beginning an experiment where I will journal/reflect about the game every day of its 28 days" />
     <MESSAGE value="makings: proof of concept of the text-based Flusser-Immaterialism-style interaction" />
     <MESSAGE value="readings: thoughts on day 2 of Kara Stone's Ritual of the Moon" />
     <MESSAGE value="readings: thoughts on Shklovsky's 'Art as Technique'" />
@@ -532,6 +550,8 @@
     <MESSAGE value="writing: Day 3 - second overall pass" />
     <MESSAGE value="writing: Day 3 - after grammarly pass" />
     <MESSAGE value="writing: Day 3 - google docs pass" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Day 3 - google docs pass" />
+    <MESSAGE value="writing: Question 3 - structure refinement and precedent imagery&#10;&#10;Do I want to include gifs, or do we get it from just the stills?" />
+    <MESSAGE value="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'" />
+    <option name="LAST_COMMIT_MESSAGE" value="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'" />
   </component>
 </project>

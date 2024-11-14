@@ -100,12 +100,11 @@ function draw(){
         if(d < r){
             r += .1;
         } else {
-            if(r > 25) {
+            if(r > ) {
                 r -= 1;
             }
         }
         applyParameters();
     }
-
-
 }
+

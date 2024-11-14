@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiments.md",
+                "file": "relatedWork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "experiments"
+              "title": "relatedWork"
             }
           },
           {
@@ -178,9 +178,9 @@
   },
   "active": "d8a609907ea85289",
   "lastOpenFiles": [
+    "experiments.md",
     "writing/question_01.md",
     "relatedWork.md",
-    "experiments.md",
     "writing/question_03.key",
     "writing/question_02.md",
     "untitled folder",

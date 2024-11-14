@@ -1,0 +1,22 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: black;
+}
+canvas {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/* CSS for Calibration Points */
+.Calibration {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    border-radius: 50%;
+    opacity: 0.2;
+    cursor: pointer;
+}
