@@ -191,8 +191,7 @@ Hmmm. Seems I have given myself a new todo.
 [Let's find out!](https://youtu.be/e1g_wNPmOsg?si=WNxdr0BstbDcZWyc&t=11)
 
 [^3]: _Solid_ acronym
-[^4]: Though while I'm writing this, I'm listening to [Phil Niblock's Baobab](https://open.spotify.
-com/album/3yh6Ca0t9b1czoBcjHyu3G?si=-Pi93nisQCmNtEr6WQSrfQ) which makes what I've made feel like Ric Ocasek wrote it...
+[^4]: Though while I'm writing this, I'm listening to [Phil Niblock's Baobab](https://open.spotify.com/album/3yh6Ca0t9b1czoBcjHyu3G?si=-Pi93nisQCmNtEr6WQSrfQ) which makes what I've made feel like Ric Ocasek wrote it...
 
 ## Experiment 04.03 // Color Shift // 21 Sept, 2024
 
@@ -207,4 +206,13 @@ Even though it's a lot more work and will lead to a slightly more bloated file s
 sections in Ableton and then exporting for RNBO is the way to go. I will leave the color(pitch) parameter in there to 
 keep experimenting with, but not rely on it.
 
-## Thoughts
+## Experiment 05.01 // Look at Me When I'm Speaking to You // 13 Nov, 2024
+
+https://mouseandthebillionaire.com/reflectiveStudies/05/01.html
+
+An idea struck me as I was looking back at the first two experiments to prepare for the comps presentation about all of this. Following the circle with the cursor is fine and all, but wouldn't it be more interesting (and perhaps more appropriate) if the participant had to follow the circle with their eyes?[^5] The piece progresses only by actively *attending* to the object on screen.
+
+Whipped up a quick experiment using [Brown's WebGazer.js library](https://webgazer.cs.brown.edu/). Tried to calibrate it using their methods, but the fidelity isn't super great. Definitely can *not* track the circle as it is coded up here. BUT, I am getting some wider movements (looking to the left of the screen, looking to the right of the screen) and so it might be worth making a super simple experiment that asks the user/player to look left and right at some sort of intervals? Could even tie text to that maybe?[^6] (Though perhaps that has the opportunity to be too loaded)
+
+[^5]: It is becoming increasingly annoying to figure out what to call whoever is experiencing these things. Player? User? Nothing feels particularly appropriate.
+[^6]: A version in which you are tracking left to right head movements to make sure that the player is reading text is pretty funny.

@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'">
-      <change afterPath="$PROJECT_DIR$/05/audio/audio.maxpat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/chime.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/dependencies.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/drone_0.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/media/chime.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/media/drone_0.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/patch.export.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/patch.export.license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/synth.export.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/audio/synth.export.license" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/style.css" afterDir="false" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: paying attention... with your eyes!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiments.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiments.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,15 +103,7 @@
       <workItem from="1727790351704" duration="13693000" />
       <workItem from="1730125891355" duration="1515000" />
       <workItem from="1730318033331" duration="710000" />
-      <workItem from="1731520931813" duration="12859000" />
-    </task>
-    <task id="LOCAL-00029" summary="readings: thoughts on Goudarzi's Sound Design in the Context of Sonification">
-      <option name="closed" value="true" />
-      <created>1722547705308</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1722547705308</updated>
+      <workItem from="1731520931813" duration="16287000" />
     </task>
     <task id="LOCAL-00030" summary="readings: thoughts on Bukvic's &quot;Introduction to Sonification&quot;">
       <option name="closed" value="true" />
@@ -509,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730318129082</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="makings: paying attention... with your eyes!">
+      <option name="closed" value="true" />
+      <created>1731589154774</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1731589154775</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: proof of concept of the text-based Flusser-Immaterialism-style interaction" />
     <MESSAGE value="readings: thoughts on day 2 of Kara Stone's Ritual of the Moon" />
     <MESSAGE value="readings: thoughts on Shklovsky's 'Art as Technique'" />
     <MESSAGE value="readings: thoughts on Medina-Gray's &quot;Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games&quot;" />
@@ -552,6 +539,7 @@
     <MESSAGE value="writing: Day 3 - google docs pass" />
     <MESSAGE value="writing: Question 3 - structure refinement and precedent imagery&#10;&#10;Do I want to include gifs, or do we get it from just the stills?" />
     <MESSAGE value="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'" />
-    <option name="LAST_COMMIT_MESSAGE" value="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'" />
+    <MESSAGE value="makings: paying attention... with your eyes!" />
+    <option name="LAST_COMMIT_MESSAGE" value="makings: paying attention... with your eyes!" />
   </component>
 </project>
