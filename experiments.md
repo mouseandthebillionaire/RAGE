@@ -216,3 +216,5 @@ Whipped up a quick experiment using [Brown's WebGazer.js library](https://webgaz
 
 [^5]: It is becoming increasingly annoying to figure out what to call whoever is experiencing these things. Player? User? Nothing feels particularly appropriate.
 [^6]: A version in which you are tracking left to right head movements to make sure that the player is reading text is pretty funny.
+
+
