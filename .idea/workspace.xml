@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="makings: documentation entry on the initial attempt at the eye-tracking experiment&#10;&#10;Also renamed the file for experiment 5 in anticipation that there will be subsequent versions of this.">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: PDF of final presentation doc for Question 3">
+      <change afterPath="$PROJECT_DIR$/05/02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/script_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/01/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -39,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
     "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
@@ -100,15 +106,7 @@
       <workItem from="1727790351704" duration="13693000" />
       <workItem from="1730125891355" duration="1515000" />
       <workItem from="1730318033331" duration="710000" />
-      <workItem from="1731520931813" duration="17110000" />
-    </task>
-    <task id="LOCAL-00031" summary="readings: thoughts on Bijsterfeld&quot;">
-      <option name="closed" value="true" />
-      <created>1722896188433</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1722896188433</updated>
+      <workItem from="1731520931813" duration="26468000" />
     </task>
     <task id="LOCAL-00032" summary="readings: thoughts on Blesser et al's Aural Architecture">
       <option name="closed" value="true" />
@@ -494,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731683753137</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="writing: PDF of final presentation doc for Question 3">
+      <option name="closed" value="true" />
+      <created>1731685001068</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1731685001068</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,7 +518,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Shklovsky's 'Art as Technique'" />
     <MESSAGE value="readings: thoughts on Medina-Gray's &quot;Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games&quot;" />
     <MESSAGE value="readings: thoughts on day 4 of Ritual of the Moon" />
     <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
@@ -537,6 +542,7 @@
     <MESSAGE value="readings: references for Bertrand Russell's thoughts on pre-Platonic ideas of 'contemplation'" />
     <MESSAGE value="makings: paying attention... with your eyes!" />
     <MESSAGE value="makings: documentation entry on the initial attempt at the eye-tracking experiment&#10;&#10;Also renamed the file for experiment 5 in anticipation that there will be subsequent versions of this." />
-    <option name="LAST_COMMIT_MESSAGE" value="makings: documentation entry on the initial attempt at the eye-tracking experiment&#10;&#10;Also renamed the file for experiment 5 in anticipation that there will be subsequent versions of this." />
+    <MESSAGE value="writing: PDF of final presentation doc for Question 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: PDF of final presentation doc for Question 3" />
   </component>
 </project>

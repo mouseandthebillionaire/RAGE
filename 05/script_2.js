@@ -6,7 +6,7 @@ let device;
 let sketchStarted = false;
 let audioContext;
 
-// RNBO Control (unchanged)
+// RNBO Control
 let paramDrive, paramPlaySpeed, paramLoop, paramDelay;
 
 // Enhanced Calibration Variables
@@ -23,8 +23,29 @@ const POINTS_PER_CALIBRATION = 9;
 const SAMPLES_PER_POINT = 30;
 const CALIBRATION_POINT_LOOK_TIME = 1000; // Time to look at each point in ms
 let currentSamples = [];
+let startButton, recalibrateButton;
 
-function setup() {
+// Add this at the start of your script.js
+function waitForWebGazer() {
+    return new Promise((resolve, reject) => {
+        const checkWebGazer = () => {
+            if (typeof webgazer !== 'undefined') {
+                resolve();
+            } else {
+                setTimeout(checkWebGazer, 100);
+            }
+        };
+        checkWebGazer();
+    });
+}
+
+// Then modify your setup function:
+async function setup() {
+    console.log("Waiting for WebGazer to load...");
+    await waitForWebGazer();
+    console.log("WebGazer loaded successfully");
+
+    console.log("Setting up application...");
     w = window.innerWidth;
     h = window.innerHeight;
     canvas = createCanvas(w, h);
@@ -33,6 +54,7 @@ function setup() {
     noStroke();
 
     // Initialize WebGazer with higher precision settings
+    console.log("Initializing WebGazer...");
     webgazer.setRegression('ridge')
         .setTracker('TFFacemesh')
         .setGazeListener((data, elapsedTime) => {
@@ -43,9 +65,18 @@ function setup() {
                     collectCalibrationSample();
                 }
             }
-        }).begin();
+        }).begin()
+        .then(() => {
+            console.log("WebGazer initialized successfully");
+            // Start calibration after WebGazer is ready
+            setTimeout(startCalibration, 2500); // Give WebGazer time to fully initialize
+        })
+        .catch(error => {
+            console.error("Error initializing WebGazer:", error);
+        });
 
     // Create 9-point calibration grid
+    console.log("Creating calibration grid...");
     const margin = Math.min(w, h) * 0.2;
     const stepX = (w - 2 * margin) / 2;
     const stepY = (h - 2 * margin) / 2;
@@ -58,15 +89,19 @@ function setup() {
             ));
         }
     }
+    console.log(`Created ${calibrationPoints.length} calibration points`);
 
     // Create UI buttons
     createCalibrationUI();
 
+    // Audio setup
+    console.log("Setting up audio context...");
     audioContext = new (window.AudioContext || window.webkitAudioContext)();
     rnboSetup(audioContext);
 }
 
 function createCalibrationUI() {
+    console.log("Creating UI elements...");
     startButton = createButton('Start Experience');
     startButton.position(w/2 - 60, h/2);
     startButton.mousePressed(resumeAudio);
@@ -78,16 +113,54 @@ function createCalibrationUI() {
     recalibrateButton.hide();
 }
 
+async function rnboSetup(context) {
+    console.log("Setting up RNBO...");
+    const outputNode = context.createGain();
+    outputNode.connect(context.destination);
+
+    const { createDevice } = RNBO;
+    await context.resume();
+    const rawPatcher = await fetch('audio/patch.export.json');
+    const patcher = await rawPatcher.json();
+
+    device = await createDevice({ context, patcher });
+    device.node.connect(outputNode);
+
+    // Load dependencies if available
+    let dependencies = [];
+    try {
+        const dependenciesResponse = await fetch("audio/dependencies.json");
+        dependencies = await dependenciesResponse.json();
+        dependencies = dependencies.map(d => d.file ? Object.assign({}, d, { file: "audio/" + d.file }) : d);
+    } catch (e) {
+        console.log("No dependencies found or error loading dependencies:", e);
+    }
+
+    if (dependencies.length) {
+        await device.loadDataBufferDependencies(dependencies);
+    }
+
+    // Set parameters
+    paramDrive = device.parametersById.get('drive');
+    paramPlaySpeed = device.parametersById.get('playSpeed');
+    paramLoop = device.parametersById.get('chimeLoop');
+    paramDelay = device.parametersById.get('delayFB');
+    console.log("RNBO setup complete");
+}
+
 function startCalibration() {
+    console.log("Starting calibration...");
     calibrated = false;
     currentCalibrationIndex = 0;
     calibrationData = [];
     calibrationAccuracy = [];
     currentSamples = [];
+    sketchStarted = false;
     showNextCalibrationPoint();
 }
 
 function showNextCalibrationPoint() {
+    console.log(`Showing calibration point ${currentCalibrationIndex + 1}/${calibrationPoints.length}`);
     if (currentCalibrationIndex >= calibrationPoints.length) {
         finishCalibration();
         return;
@@ -103,6 +176,7 @@ function collectCalibrationSample() {
         millis() - pointTimer < CALIBRATION_POINT_LOOK_TIME) {
         currentSamples.push(createVector(gazeX, gazeY));
     } else if (currentSamples.length >= SAMPLES_PER_POINT) {
+        console.log(`Collected ${currentSamples.length} samples for point ${currentCalibrationIndex + 1}`);
         // Calculate average gaze position for this point
         let avgX = 0, avgY = 0;
         currentSamples.forEach(sample => {
@@ -124,6 +198,7 @@ function collectCalibrationSample() {
             createVector(avgX, avgY)
         );
         calibrationAccuracy.push(accuracy);
+        console.log(`Point accuracy: ${accuracy.toFixed(2)}`);
 
         // Move to next point
         showingPoint = false;
@@ -139,19 +214,46 @@ function calculatePointAccuracy(expected, actual) {
 }
 
 function finishCalibration() {
+    console.log("Finishing calibration...");
     const averageAccuracy = calibrationAccuracy.reduce((a, b) => a + b) / calibrationAccuracy.length;
+    console.log(`Average calibration accuracy: ${averageAccuracy.toFixed(2)}`);
 
     if (averageAccuracy > 0.6) { // Threshold for acceptable calibration
+        console.log("Calibration successful");
         calibrated = true;
         startButton.show();
         recalibrateButton.show();
     } else {
+        console.log("Calibration failed - restarting");
         // Poor calibration, restart
         setTimeout(() => {
             alert("Calibration accuracy too low. Please try again.");
             startCalibration();
         }, 500);
     }
+}
+
+function resumeAudio() {
+    console.log("Starting audio experience");
+    sketchStarted = true;
+    startButton.style('opacity', '0');
+    startButton.hide();
+
+    if (audioContext.state !== 'running') {
+        audioContext.resume();
+    }
+}
+
+function applyParameters() {
+    let playSpeedAMT = map(r, 25, w / 2, 1.0, 0.0);
+    let driveAMT = map(r, 25, w / 2, 0.0, 1.0);
+    let loopAMT = map(r, 25, w / 2, 3000, 100);
+    let delayAMT = map(ellipseX, 0, w, 0, 90);
+
+    if (paramPlaySpeed) paramPlaySpeed.normalizedValue = playSpeedAMT;
+    if (paramDrive) paramDrive.normalizedValue = driveAMT;
+    if (paramLoop) paramLoop.normalizedValue = loopAMT;
+    if (paramDelay) paramDelay.normalizedValue = delayAMT;
 }
 
 function draw() {
@@ -163,6 +265,7 @@ function draw() {
         textSize(24);
         fill(0);
         text("Follow the point with your eyes", width/2, 40);
+        text("WebGazer is initializing...", width/2, height/2);
 
         if (showingPoint && currentCalibrationIndex < calibrationPoints.length) {
             const point = calibrationPoints[currentCalibrationIndex];
@@ -181,12 +284,13 @@ function draw() {
             noStroke();
         }
     } else if (sketchStarted) {
-        // Main experience code (unchanged)
+        // Main RNBO experience
         let x = map(noise(xoff), 0, 1, 0, width);
         xoff += 0.001;
         ellipse(x, h/2, r * 2, r * 2);
         ellipseX = x;
 
+        // Use gaze position instead of mouse
         var d = dist(gazeX, gazeY, x, h/2);
         if (d < r) {
             r += 0.1;
@@ -201,82 +305,5 @@ function draw() {
     if (gazeX && gazeY) {
         fill(255, 0, 0, 100);
         ellipse(gazeX, gazeY, 10, 10);
-    }
-}
-
-// Keep existing RNBO setup and parameter application functions unchanged
-
-async function rnboSetup(context) {
-    const outputNode = context.createGain();
-    outputNode.connect(context.destination);
-
-    const { createDevice } = RNBO;
-    await context.resume();
-    const rawPatcher = await fetch('audio/patch.export.json');
-    const patcher = await rawPatcher.json();
-
-    device = await createDevice({ context, patcher });
-    device.node.connect(outputNode);
-
-    // Load dependencies if available
-    let dependencies = [];
-    try {
-        const dependenciesResponse = await fetch("audio/dependencies.json");
-        dependencies = await dependenciesResponse.json();
-        dependencies = dependencies.map(d => d.file ? Object.assign({}, d, { file: "audio/" + d.file }) : d);
-    } catch (e) {}
-
-    if (dependencies.length) {
-        await device.loadDataBufferDependencies(dependencies);
-    }
-
-    // Set parameters
-    paramDrive = device.parametersById.get('drive');
-    paramPlaySpeed = device.parametersById.get('playSpeed');
-    paramLoop = device.parametersById.get('chimeLoop');
-    paramDelay = device.parametersById.get('delayFB');
-}
-
-// Function to start the sketch after calibration
-function resumeAudio() {
-    sketchStarted = true;
-    startButton.style('opacity', '0');
-    startButton.hide();
-
-    if (getAudioContext().state !== 'running') {
-        audioContext.resume();
-    }
-}
-
-function applyParameters() {
-    let playSpeedAMT = map(r, 25, w / 2, 1.0, 0.0);
-    let driveAMT = map(r, 25, w / 2, 0.0, 1.0);
-    let loopAMT = map(r, 25, w / 2, 3000, 100);
-    let delayAMT = map(ellipseX, 0, w, 0, 90);
-    if (paramPlaySpeed) paramPlaySpeed.normalizedValue = playSpeedAMT;
-    if (paramDrive) paramDrive.normalizedValue = driveAMT;
-    if (paramLoop) paramLoop.normalizedValue = loopAMT;
-    if (paramDelay) paramDelay.normalizedValue = delayAMT;
-}
-
-
-function mousePressed() {
-    // During calibration, record gaze data on each click
-    if (!calibrated && currentCalibrationIndex < calibrationPoints.length) {
-        if (gazeX !== undefined && gazeY !== undefined) {
-            calibrationData.push({
-                expected: calibrationPoints[currentCalibrationIndex],
-                actual: createVector(gazeX, gazeY)
-            });
-        }
-
-        // Move to the next calibration point
-        currentCalibrationIndex++;
-
-        // Check if calibration is complete
-        if (currentCalibrationIndex >= calibrationPoints.length) {
-            calibrated = true;
-            startButton.show(); // Show the start button
-        }
     }
 }
