@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: PDF of final presentation doc for Question 3">
-      <change afterPath="$PROJECT_DIR$/05/02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/script_2.js" afterDir="false" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: initial commit for Question 3&#10;&#10;Start your engines!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/01/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writing/question_03.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/question_03.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,26 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/m/_Projects/_reflectiveStudies/05",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/m/_Projects/_reflectiveStudies/05&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/05" />
@@ -107,14 +104,7 @@
       <workItem from="1730125891355" duration="1515000" />
       <workItem from="1730318033331" duration="710000" />
       <workItem from="1731520931813" duration="26468000" />
-    </task>
-    <task id="LOCAL-00032" summary="readings: thoughts on Blesser et al's Aural Architecture">
-      <option name="closed" value="true" />
-      <created>1722966621309</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1722966621309</updated>
+      <workItem from="1731964894599" duration="3019000" />
     </task>
     <task id="LOCAL-00033" summary="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes.">
       <option name="closed" value="true" />
@@ -500,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731685001068</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="writing: initial commit for Question 3&#10;&#10;Start your engines!">
+      <option name="closed" value="true" />
+      <created>1731965512696</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1731965512696</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Medina-Gray's &quot;Interacting with Soundscapes: Music, Sound Effects and Dialogue in Video Games&quot;" />
     <MESSAGE value="readings: thoughts on day 4 of Ritual of the Moon" />
     <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
     <MESSAGE value="makings: initial setup for experiment 04" />
@@ -543,6 +540,7 @@
     <MESSAGE value="makings: paying attention... with your eyes!" />
     <MESSAGE value="makings: documentation entry on the initial attempt at the eye-tracking experiment&#10;&#10;Also renamed the file for experiment 5 in anticipation that there will be subsequent versions of this." />
     <MESSAGE value="writing: PDF of final presentation doc for Question 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: PDF of final presentation doc for Question 3" />
+    <MESSAGE value="writing: initial commit for Question 3&#10;&#10;Start your engines!" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: initial commit for Question 3&#10;&#10;Start your engines!" />
   </component>
 </project>
