@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: initial commit for Question 3&#10;&#10;Start your engines!">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writing/question_03.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/question_03.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,14 +104,7 @@
       <workItem from="1730318033331" duration="710000" />
       <workItem from="1731520931813" duration="26468000" />
       <workItem from="1731964894599" duration="3019000" />
-    </task>
-    <task id="LOCAL-00033" summary="readings: thoughts on Djebbara et al's Contemplative Neuroaesthetics. Yes yes yes.">
-      <option name="closed" value="true" />
-      <created>1723064737447</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1723064737447</updated>
+      <workItem from="1732107295474" duration="4988000" />
     </task>
     <task id="LOCAL-00034" summary="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;">
       <option name="closed" value="true" />
@@ -498,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731965512696</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation">
+      <option name="closed" value="true" />
+      <created>1732107400803</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1732107400803</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on day 4 of Ritual of the Moon" />
     <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
     <MESSAGE value="makings: initial setup for experiment 04" />
     <MESSAGE value="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay..." />
@@ -541,6 +540,7 @@
     <MESSAGE value="makings: documentation entry on the initial attempt at the eye-tracking experiment&#10;&#10;Also renamed the file for experiment 5 in anticipation that there will be subsequent versions of this." />
     <MESSAGE value="writing: PDF of final presentation doc for Question 3" />
     <MESSAGE value="writing: initial commit for Question 3&#10;&#10;Start your engines!" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: initial commit for Question 3&#10;&#10;Start your engines!" />
+    <MESSAGE value="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation" />
   </component>
 </project>
