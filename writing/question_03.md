@@ -40,7 +40,7 @@ As a rudimentary step, we can look at Fullerton's formal elements of games. How 
 - Time / Slow Games
 - Space & Movement / Aesthetic Architecture
 - Rules?
-- Agency?
+- Agency??
 
 Side note: I am realizing that all of these could possibly be framed with Soundwalks as the connecting tissue, in which case the format might be more of:
 - element A is in games

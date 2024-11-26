@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Schopenhauer and the concept of aesthetic contemplation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,14 +103,7 @@
       <workItem from="1731520931813" duration="26468000" />
       <workItem from="1731964894599" duration="3019000" />
       <workItem from="1732107295474" duration="4988000" />
-    </task>
-    <task id="LOCAL-00034" summary="readings: thoughts on Benjamin's &quot;The Work of Art in the Age of Mechanical Reproduction&quot;">
-      <option name="closed" value="true" />
-      <created>1723838849475</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1723838849475</updated>
+      <workItem from="1732647004914" duration="370000" />
     </task>
     <task id="LOCAL-00035" summary="readings: thoughts on Frayling">
       <option name="closed" value="true" />
@@ -498,7 +489,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732107400803</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="writing: Schopenhauer and the concept of aesthetic contemplation">
+      <option name="closed" value="true" />
+      <created>1732647329141</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1732647329142</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on day 5 of Ritual of the Moon" />
     <MESSAGE value="makings: initial setup for experiment 04" />
     <MESSAGE value="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay..." />
     <MESSAGE value="readings: thoughts on Day 6 of Ritual of the Moon" />
@@ -541,6 +539,7 @@
     <MESSAGE value="writing: PDF of final presentation doc for Question 3" />
     <MESSAGE value="writing: initial commit for Question 3&#10;&#10;Start your engines!" />
     <MESSAGE value="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation" />
+    <MESSAGE value="writing: Schopenhauer and the concept of aesthetic contemplation" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Schopenhauer and the concept of aesthetic contemplation" />
   </component>
 </project>
