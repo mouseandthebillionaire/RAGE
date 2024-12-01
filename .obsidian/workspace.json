@@ -22,21 +22,7 @@
             }
           },
           {
-            "id": "96f4c0661c7e031d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing/question_01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "question_01"
-            }
-          },
-          {
-            "id": "0d85a029a776818a",
+            "id": "b72a8c725dcff64f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,21 +36,21 @@
             }
           },
           {
-            "id": "c1dd180373e847a0",
+            "id": "0d85a029a776818a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relatedWork.md",
+                "file": "writing/presentationNotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relatedWork"
+              "title": "presentationNotes"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,22 +191,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d85a029a776818a",
+  "active": "b72a8c725dcff64f",
   "lastOpenFiles": [
+    "writing/presentationNotes.md",
+    "writing/question_03.md",
+    "relatedWork.md",
     "media/images/westerkamp.png",
     "media/images/cardiffMiller.png",
     "media/images/firewatch.png",
     "media/images/spiderman.png",
     "media/images/rdr2.png",
     "writing/question_01.md",
-    "writing/question_03.md",
     "writing/question_02.md",
     "writing/question_03.pdf",
     "experiments.md",
     "05/script_2.js",
     "05/02.html",
     "05/01.html",
-    "relatedWork.md",
     "writing/question_03.key",
     "untitled folder",
     "_template/audio/media/chime.wav",
@@ -234,7 +221,6 @@
     "media/images/ex-I_in-I.png",
     "media/images/Screen Shot 2024-08-07 at 4.35.53 PM.png",
     "media/images/dontSnake.gif",
-    "media/images/03_04.png",
     "relatedWork.md.md",
     "relatedWork 1.md",
     "relatedWork/Koike,.md",

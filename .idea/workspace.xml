@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 3 (???)&#10;&#10;Hopefully adding images..." />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,15 +105,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="758000" />
-    </task>
-    <task id="LOCAL-00037" summary="readings: thoughts on Eyles, M. et al. &quot;Playful Ambience&quot;">
-      <option name="closed" value="true" />
-      <created>1724088808640</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1724088808641</updated>
+      <workItem from="1733077638685" duration="1127000" />
     </task>
     <task id="LOCAL-00038" summary="readings: thoughts on a few outliers and missed connections...&#10;&#10;Jaaniste's &quot;Approaching the Ambient&quot;&#10;Locher et al's &quot;Aesthetic Interactions&quot;&#10;Schoffelen et al's &quot;Making and Reflection via Playful Design Representations&quot;">
       <option name="closed" value="true" />
@@ -499,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733079548993</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="writing: Question 3 / stage 3.1 &#10;&#10;More images">
+      <option name="closed" value="true" />
+      <created>1733079916555</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1733079916555</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: experiment 04, intro and stage 1&#10;&#10;do a writeup tomorrow, okay?&#10;&#10;Okay..." />
     <MESSAGE value="readings: thoughts on Day 6 of Ritual of the Moon" />
     <MESSAGE value="makings: initial thoughts on the clickable text meditation prototype" />
     <MESSAGE value="fix: experiments link from the main readme" />
@@ -542,6 +541,7 @@
     <MESSAGE value="writing: some ideas about the place of materiality when thinking about designing for reflection/contemplation" />
     <MESSAGE value="writing: Schopenhauer and the concept of aesthetic contemplation" />
     <MESSAGE value="writing: Question 3 / stage 3 (???)&#10;&#10;Hopefully adding images..." />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 3 (???)&#10;&#10;Hopefully adding images..." />
+    <MESSAGE value="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
   </component>
 </project>
