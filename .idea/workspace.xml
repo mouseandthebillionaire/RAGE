@@ -104,14 +104,7 @@
       <workItem from="1731964894599" duration="3019000" />
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
-    </task>
-    <task id="LOCAL-00035" summary="readings: thoughts on Frayling">
-      <option name="closed" value="true" />
-      <created>1724077657202</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1724077657202</updated>
+      <workItem from="1732647379658" duration="1888000" />
     </task>
     <task id="LOCAL-00036" summary="readings: thoughts on Galloway's Galloway's Soundwalking and the Aurality of *StarDew Valley*,">
       <option name="closed" value="true" />
@@ -497,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732647329142</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="writing: Schopenhauer and the concept of aesthetic contemplation">
+      <option name="closed" value="true" />
+      <created>1732647447385</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1732647447386</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

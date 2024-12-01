@@ -21,25 +21,22 @@ Is it possible, then, for us to think about the foundational elements of certain
 
 Aesthetic attitude / Aesthetics of digital interactive art
 
-Taking this to the next logical step, is it better for us as designers to engage with the materiality of games, the things that make games games, rather than mimicking those aspects of contemplative experiences that we can only recreate digitally? Specifically, I think of the digital recreation of light or the physical world. And this is not to say that the light emminating from a screen isn't worthy of reflection. It is mainly that we seem to treat as one to one to other types of light. It is interesting to note that rather than approach the inherently thingy-ness of digital technology, we continue to rely on metaphors and ideas borrowed from existing areas of life. What are the things of digital technology or of games (the stuff games are made of) that we can build these contemplative experiences out of.
+Taking this to the next logical step, is it better for us as designers to engage with the materiality of games, the things that make games games, rather than mimicking those aspects of contemplative experiences that we can only recreate digitally? Specifically, I think of the digital recreation of light or the physical world. And this is not to say that the light emanating from a screen isn't worthy of reflection. It is mainly that we seem to treat as one to one to other types of light. It is interesting to note that rather than approach the inherently thingy-ness of digital technology, we continue to rely on metaphors and ideas borrowed from existing areas of life. What are the things of digital technology or of games (the stuff games are made of) that we can build these contemplative experiences out of.
 
-As a rudimentary step, we can look at Fullerton's formal elements of games. How could these be addressed as potential lenses for which we might design contemplatively? And how could we learn from existing domains that might have potential crossover or lessons to apply to these?
+As an exploration, below are three possible aesthetic materials of games that can be used for lenses/methods/areas of contemplative engagement. Though I am looking at these aspects from the specific point of view of games, much can be learned by how these materials are considered by practitioners in other contemplative artforms. All of is then applied to the designing of exploratory experiments to see how a contemplative state in games could be designed for.
 
-- Players
-- Objectives
-- Procedures
-- Rules
-- Resources
-- Conflict
-- Boundaries
-- Outcome
+## Aesthetics for Contemplative Audio Games
+
+### Soundwalks
+
+![Red Dead Redemption 2](../media/images/rdr2.png)
 
 
 ## Elements, Precedents, and Experiments
 - Magic Circle / Soundwalks
 - Time / Slow Games
 - Space & Movement / Aesthetic Architecture
-- Rules?
+- Rules? / the Rule of St Benedict? 
 - Agency??
 
 Side note: I am realizing that all of these could possibly be framed with Soundwalks as the connecting tissue, in which case the format might be more of:
