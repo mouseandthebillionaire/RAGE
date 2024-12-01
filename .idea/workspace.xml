@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 4&#10;&#10;Soundwalks">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writing/presentationNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/presentationNotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writing/question_03.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/question_03.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,15 +110,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="1127000" />
-    </task>
-    <task id="LOCAL-00038" summary="readings: thoughts on a few outliers and missed connections...&#10;&#10;Jaaniste's &quot;Approaching the Ambient&quot;&#10;Locher et al's &quot;Aesthetic Interactions&quot;&#10;Schoffelen et al's &quot;Making and Reflection via Playful Design Representations&quot;">
-      <option name="closed" value="true" />
-      <created>1724090514401</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1724090514401</updated>
+      <workItem from="1733077638685" duration="2395000" />
     </task>
     <task id="LOCAL-00039" summary="readings: thoughts on ABZU">
       <option name="closed" value="true" />
@@ -499,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733079916555</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="writing: Question 3 / stage 4&#10;&#10;Soundwalks">
+      <option name="closed" value="true" />
+      <created>1733084176854</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1733084176854</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readings: thoughts on Day 6 of Ritual of the Moon" />
     <MESSAGE value="makings: initial thoughts on the clickable text meditation prototype" />
     <MESSAGE value="fix: experiments link from the main readme" />
     <MESSAGE value="experiments: adding RNBO project" />
@@ -542,6 +546,7 @@
     <MESSAGE value="writing: Schopenhauer and the concept of aesthetic contemplation" />
     <MESSAGE value="writing: Question 3 / stage 3 (???)&#10;&#10;Hopefully adding images..." />
     <MESSAGE value="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
+    <MESSAGE value="writing: Question 3 / stage 4&#10;&#10;Soundwalks" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 4&#10;&#10;Soundwalks" />
   </component>
 </project>

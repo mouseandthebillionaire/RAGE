@@ -1,19 +1,8 @@
 
 # PB Feedback from the Presentation on 11.14
 
-Hey-o
-
-Finally getting to this. I though the presentation on Thursday was **very** good (good-looking too). It felt like this was really spinning up into something coherent and "proposable" with the proviso of finding that kind of nuclear bit that will set everything straight. Easier said than done of course. Maybe we grab a more extended coffee some time soon to see if we can root it out?
-
-Meanwhile, I'm attaching my literal notes here below ← you'll be able to see how interested I was from all the fires!
-
 There are some really juicy things to grab onto I think. I half-wonder whether the tension/oscillation/"confusion" around reflection/contemplation/attention/ambience could be a focus rather than a problem.
 
-**Experimental Sound Design for Reflective Video Games**
-
-**Matthew Bethancourt**
-
-**Presentation**
 
 - What is the right word? "Slow" "Contemplative" "Reflective"
     

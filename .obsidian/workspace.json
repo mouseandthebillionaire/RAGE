@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "b72a8c725dcff64f",
+            "id": "cd21a7caa878ee78",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "question_03"
+            }
+          },
+          {
+            "id": "6a818f86d9ce8119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "relatedWork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "relatedWork"
             }
           },
           {
@@ -191,20 +205,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72a8c725dcff64f",
+  "active": "cd21a7caa878ee78",
   "lastOpenFiles": [
-    "writing/presentationNotes.md",
+    "experiments.md",
     "writing/question_03.md",
+    "writing/presentationNotes.md",
+    "media/images/ex-I_in-I.png",
     "relatedWork.md",
-    "media/images/westerkamp.png",
-    "media/images/cardiffMiller.png",
-    "media/images/firewatch.png",
-    "media/images/spiderman.png",
-    "media/images/rdr2.png",
+    "media/images/02.png",
+    "media/images/01.png",
+    "media/images/abzu.png",
+    "media/images/04_01.png",
+    "media/images/03.00.png",
+    "media/images/03_04.png",
+    "().md",
+    "media/images/vr5.png",
+    "media/images/oreilly.png",
+    "media/images/lorelei.png",
     "writing/question_01.md",
     "writing/question_02.md",
     "writing/question_03.pdf",
-    "experiments.md",
     "05/script_2.js",
     "05/02.html",
     "05/01.html",
@@ -214,13 +234,7 @@
     "01/audio/chime.wav",
     "01/audio/media/chime.wav",
     "02/audio/media/chime.wav",
-    "().md",
-    "media/images/proteusWalkingScore.png",
-    "Screen Shot 2024-09-03 at 10.58.59 AM.png",
     "README.md",
-    "media/images/ex-I_in-I.png",
-    "media/images/Screen Shot 2024-08-07 at 4.35.53 PM.png",
-    "media/images/dontSnake.gif",
     "relatedWork.md.md",
     "relatedWork 1.md",
     "relatedWork/Koike,.md",
