@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,23 +105,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="4946000" />
-    </task>
-    <task id="LOCAL-00042" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
-      <option name="closed" value="true" />
-      <created>1724783496223</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1724783496223</updated>
-    </task>
-    <task id="LOCAL-00043" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
-      <option name="closed" value="true" />
-      <created>1724783502959</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1724783502959</updated>
+      <workItem from="1733077638685" duration="5253000" />
     </task>
     <task id="LOCAL-00044" summary="readings: (a few) Dalsgaard et al's Reflective Design Documentation">
       <option name="closed" value="true" />
@@ -499,7 +483,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733114492512</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="feat: adding docs folder for git pages">
+      <option name="closed" value="true" />
+      <created>1733114735416</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1733114735416</updated>
+    </task>
+    <task id="LOCAL-00092" summary="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one.">
+      <option name="closed" value="true" />
+      <created>1733114837741</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1733114837741</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,8 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="experiments: experiment 04 / audio version" />
-    <MESSAGE value="fix: fixas gotta be fixin" />
     <MESSAGE value="makings: 04.03 experiments with pitch shifts for harmonic color" />
     <MESSAGE value="fix: a simple fix" />
     <MESSAGE value="writing: Initial structure and notes for comps question 02" />
@@ -542,6 +540,8 @@
     <MESSAGE value="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences" />
     <MESSAGE value="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow" />
     <MESSAGE value="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!" />
+    <MESSAGE value="feat: adding docs folder for git pages" />
+    <MESSAGE value="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one." />
   </component>
 </project>
