@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one." />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="feat: docs folder shuffle shuffle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,15 +105,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="5253000" />
-    </task>
-    <task id="LOCAL-00044" summary="readings: (a few) Dalsgaard et al's Reflective Design Documentation">
-      <option name="closed" value="true" />
-      <created>1724786256890</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1724786256890</updated>
+      <workItem from="1733077638685" duration="5582000" />
     </task>
     <task id="LOCAL-00045" summary="readings: (a few) Dalsgaard et al's Reflective Design Documentation">
       <option name="closed" value="true" />
@@ -499,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733114837741</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="feat: docs folder shuffle shuffle">
+      <option name="closed" value="true" />
+      <created>1733115100643</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1733115100643</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: 04.03 experiments with pitch shifts for harmonic color" />
     <MESSAGE value="fix: a simple fix" />
     <MESSAGE value="writing: Initial structure and notes for comps question 02" />
     <MESSAGE value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
@@ -542,6 +541,7 @@
     <MESSAGE value="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!" />
     <MESSAGE value="feat: adding docs folder for git pages" />
     <MESSAGE value="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one." />
+    <MESSAGE value="feat: docs folder shuffle shuffle" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: docs folder shuffle shuffle" />
   </component>
 </project>

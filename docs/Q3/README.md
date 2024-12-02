@@ -11,7 +11,7 @@ Throughout this study, a significant goal was to examine how other fields approa
 
 #### Westerkamp
 
-![Westerkamp](../media/images/westerkamp.png)
+![Westerkamp](../../media/images/westerkamp.png)
 
 One field of practice that can significantly inform this concept of contemplative games is Soundwalking. Soundwalking started as part of R. Murray Schafer's *World Soundscape Project*, which arose from active listening practices developed by artists like John Cage and Pauline Oliveras. Schafer and those in the project sought to anchor these active listening practices to a given place. Hildegard Westerkamp especially believed that through soundwalking, listeners could better understand their sonic environments. 
 
@@ -21,8 +21,8 @@ Additionally, Westerkamp recorded soundwalks so that those who could not actuall
 
 #### Experiments S.1 & S.2
 
-![Firewatch](../media/images/firewatch.png)
-![Red Dead Redemption 2](../media/images/rdr2.png)
+![Firewatch](../../media/images/firewatch.png)
+![Red Dead Redemption 2](../../media/images/rdr2.png)
 
 In response to this Westerkampian style of Soundwalk, I created a series of recorded audio essays over videogame footage. In these experiments, I pointed out sonic elements from the game, directing the listener's attention to how these worked in the game and maybe giving technological background for how these sounds might function on a sound design level. 
 
@@ -31,7 +31,7 @@ _What does it even mean to listen to our games? There is sound there, to be sure
 One revelation from this process is realizing how the material edges blur when we are talking about "soundwalking" in games. In the physical world, we are pointing to real sonic phenomena out in the world, whether that is from natural or manmade sources (the way the wind whistles through a tree's leaves, the sound that a bridge makes when you rap it with your fists). But in games, we are expounding upon the sonic qualities of digitally replicated sounds, which have been designed a certain way and added to the space for a given reason. In this way, we can argue that one of the underlying "natural" aspects of this sonic environment is its technology. Thinking about this technology (and the associated design, social, and economic systems around it) as a material aspect of the soundscape opens up some exciting possibilities for future consideration.
 #### Janet Cardiff and George Bures Miller
 
-![Cardiff / Miller](../media/images/cardiffMiller.png)
+![Cardiff / Miller](../../media/images/cardiffMiller.png)
 
 The Soundwalks of Janet Cardiff and George Bures Miller differ from Westerkamp's in a few ways. While they are similar to Westerkamps in-person guided listening walks in that they take place in a given sonic environment that the listener is currently in, neither Cardiff nor Miller are actually present. Instead, Cardiff's pre-recorded voice guides the listener via headphones. Cardiff/Miller leverage this recorded to technology to then overlay audio in exploratory and exciting ways. Snippets of conversation slip by that feel like they are in the same space as you. Cardiff speaks directly to you but then has a conversation with others who are not visibly present. Recorded audio effects of long-gone marching bands, sirens, and political rallies make the listener feel like they are experiencing a highly professional radio drama. 
 
@@ -46,7 +46,7 @@ From Cardiff/Miller, I identified six strategies for creating profound experienc
 
 #### Experiments S.3-S.9
 
-![Spiderman](../media/images/spiderman.png)
+![Spiderman](../../media/images/spiderman.png)
 
 Taking inspiration from Cardiff/Miller and their soundwalks, I created a series of soundwalks that each focused on one of the strategies listed above. This exploration led to the publication of the paper [Experiments in Soundwalks for Video Games](https://www.cmmas.com/en/ideassonicas32/ideassonicas%2Fsonicideas-23) for the 23rd issue of [Sonic Ideas](https://www.cmmas.com/en/sonicideas).
 
@@ -58,7 +58,7 @@ Another collection of works that I considered as a reference point for contempla
 
 #### Luke Jaaniste
 
-![Luke Jaaniste](../media/images/jaaniste.png)
+![Luke Jaaniste](../../media/images/jaaniste.png)
 
 Luke Jaaniste's thesis "Approaching the Ambient: Creative Practice and the Ambient Mode of Being" from 2007 seems like a good place to start when defining what we mean by ambient experiences. Interestingly enough, Jaaniste's proposal of the "ambient mode" is a bit counter to what we might think of as an ambient experience:
 
@@ -68,12 +68,12 @@ This is in opposition, in particular, to Brian Eno's concept of the ambient as b
 
 #### David Oreilly
 
-![Mountain and Everything, from David Oreilly](../media/images/oreilly.png)
+![Mountain and Everything, from David Oreilly](../../media/images/oreilly.png)
 
 David Oreilly's two pieces [Mountain](https://store.steampowered.com/app/313340/Mountain/) and [Everything](https://store.steampowered.com/app/582270/Everything/) are great examples of this difference between pervasive ambient experiences versus the Eno-ish mode that Jaaniste refers to as the ambivalent (back-and-forth) mode. In Mountain, almost nothing is required of the player. They need to set the simulation in motion, but after that has happened, there is not much for them to do. Rotate the mountain. Zoom in. Zoom out. The mountain sits there and mountains. The user can reflect on the mountain or tune it out while focusing on other things in their life. In contrast, Everything requires more of the player, asking that they work their way through the staggering number of 3D models that Oreilly has created. Oreilly included an auto-play mode, but even with this it still seems to portray a much more focused "pervasive" ambience.
 #### ABZU
 
-![ABZU](../media/images/abzu.png)
+![ABZU](../../media/images/abzu.png)
 
 On the surface, the 2016 game ABZU appears to be a perfect example of an ambient game. The player swims freely in deep ocean waters while rich orchestral music plays. However, it opposes all of the ideas in Rilla Khaled's "Questions Over Answers: Reflective Game Design."
 
@@ -84,19 +84,19 @@ On the surface, the 2016 game ABZU appears to be a perfect example of an ambient
 
 #### Lorelei and the Laser Eyes
 
-![Lorelei and the Laser Eyes](../media/images/lorelei.png)
+![Lorelei and the Laser Eyes](../../media/images/lorelei.png)
 
 In contrast to ABZU, Simogo's [Lorelei and the Laser Eyes](https://simogo.com/work/loreleiandthelasereyes/) feels like a much more traditional puzzle game, but a lot of the narrative content is intentionally ambiguous, possibly leading to more reflective experiences. The game isn't inherently ambient at all, but some of the difficult puzzles mean that the player might be living with the game in the background of their mind for the days or weeks in which they are playing the game. They might be focusing on something at work, and then suddenly, a possible solution to a puzzle that previously stumped them can float to the forefront of their mind. Additionally, it's interesting to think here about the place of puzzles as potential roadblocks. If these puzzles create disruption, *can* they lead to reflection? And if they do, is it the right kind of "reflection?"
 
 #### v r 5
 
-![v r 5](../media/images/vr5.png)
+![v r 5](../../media/images/vr5.png)
 
 Pippin Barr's [v r 5](https://pippinbarr.com/v-r-5/info/) might be the most successful ambient game experience that I looked at because it is trying (at least in part) to recreate a type of museum-going experience that is inherently experiential. As viewers approach an artwork, they bring it to the foreground of their mind, but as they wak away that memory of the artwork pervades and informs future observations. Additionally, standing in front of an artwork, the viewer can stay in that space, that specific pervasive ambience, for as long as is desired. Most games don't afford this. Those that include cinematic cut-scene experiences allow for the player to skip them. It would be almost forbidden to ask players to sit still and experience a thing without letting them pound on the buttons. 
 
 #### Experiment R.1
 
-![Experiment r1](../media/images/01.png)
+![Experiment r1](../../media/images/01.png)
 
 In response to these ambient games, I created contemplative game experiences built on the ideas of pervasive ambience.
 
@@ -106,19 +106,19 @@ One interesting thing about this is that the act of holding the mouse over the c
 
 #### Experiment R.2
 
-![Experiment R2](../media/images/02.png)
+![Experiment R2](../../media/images/02.png)
 
 This second iteration ([R2](https://mouseandthebillionaire.com/reflectiveStudies/02/)) is functionally the same as R1 but inverts the colors and has the music progressing from distortion to clean, thus creating a bit more thematically aligned experience.
 
 #### Experiment R.3
 
-![Experiment R3](../media/images/03_04.png)
+![Experiment R3](../../media/images/03_04.png)
 
 In this experiment ([R3](https://mouseandthebillionaire.com/reflectiveStudies/03/)), the user is presented with a randomized looping pattern of airy piano notes against a droning background. They can use WASD to "wander," which randomizes the notes and creates a flurry of static and jittering radio notes. Once they stop, a new pattern emerges, and they can choose to sit with it for as long as they desire or continue wandering in search of something new. The goal of this experiment is to see what is available when thinking about trying to push the player toward inactivity. Is it possible to make an engaging experience when you are asking the player *not* to play?
 
 #### Experiment R.3.5
 
-![Don't Snake!](../media/images/dontSnake.gif)
+![Don't Snake!](../../media/images/dontSnake.gif)
 
 [Experiment R.3.5](https://mouseandthebillionaire.com/reflectiveStudies/03/dontSnake.html) took the ideas from R3 and applied them to the game Snake. If the player tries to use the keyboard to move their snake, a chaos of notes and shapes issues forth. Adding this playable layer to the previous experiment creates a tension between wanting to act (snake) and not. By deciding to let the snake wrap around the sides, it becomes possible for the player to really stop playing and pay attention to the sonic patterns created as their snake slowly and repeatedly traverses the playing field.
 
@@ -128,7 +128,7 @@ The final grouping of projects for precedents on contemplative game experiences 
 
 #### Performative Objects
 
-![Niedderer's Performative Objects](../media/images/niedderer.png)
+![Niedderer's Performative Objects](../../media/images/niedderer.png)
 
 In her essay "Designing Mindful Interaction: The Category of Performative Object," Kristina Niedderer lays the framework for her concept of "performative objects." It is notable that she separates these performative objects from art objects.
 
@@ -138,7 +138,7 @@ This separation means that the performative object must rely on adaptations with
 
 #### Contemplative Architecture
 
-![The Salk Institute](../media/images/salk.png)
+![The Salk Institute](../../media/images/salk.png)
 
 Djebbara et al.'s "Contemplative neuroaesthetics and architecture: A sensorimotor exploration" provided many helpful language and concepts for framing contemplative experiences outside religious and/or spiritual settings. The distinction between contemplation and "mindfulness" is beneficial:
 
@@ -148,13 +148,13 @@ The phrases' introspection' and 'open consideration' lend a more open-ended, les
 
 #### Vilém Flusser
 
-![Vilem Flusser](../media/images/flusser.png)
+![Vilem Flusser](../../media/images/flusser.png)
 
 Lastly, the essay collection "Immaterialism" by Vilém Flusser was influential as I thought about how practitioners can experiment with the formal elements of their craft. In this collection, the artist Chagrin creates rhythmic patterns out of Flusser's words, using typography to add and strengthen external meaning outside of the meaning present in the spoken word. 
 
 #### Experiment R.4
 
-![Experiment R4](../media/images/04_01.png)
+![Experiment R4](../../media/images/04_01.png)
 
 In [experiment R.4](https://mouseandthebillionaire.com/reflectiveStudies/04/), I built a progressive text experiment influenced by Flusser's "Immaterialism." Patterned text objects appear as the user clicks the screen, accompanied by music, and progress from more experimental sections to sections taken from the original text.
 

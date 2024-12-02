@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "writing/question_03.md",
+                "file": "docs/Q3/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "question_03"
+              "title": "README"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "cd21a7caa878ee78",
   "lastOpenFiles": [
+    "writing/question_03.md",
     "docs/Q3/README.md",
     "docs/Q3",
     "docs/untitled folder",
@@ -217,7 +218,6 @@
     "untitled folder",
     "writing/presentationNotes.md",
     "experiments.md",
-    "writing/question_03.md",
     "relatedWork.md",
     "media/images/salk.png",
     "media/images/niedderer.png",
