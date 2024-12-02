@@ -28,12 +28,12 @@ In response to this Westerkampian style of Soundwalk, I created a series of reco
 
 _What does it even mean to listen to our games? There is sound there, to be sure, but do we pay attention to it? What do you hear right now as you play? What time of day is it, and how are the sounds communicating that to you? Are you in a bustling part of the financial district at mid-morning with citizens congratulating you on your most recent exploits? Are you in a more isolated part of the city in the late evening? Maybe Central Park with small scurrying animals and the wind whistling through the trees._[^3]
 
-One revelation from this process is realizing how the material edges blur when we are talking about "soundwalking" in games. In the physical world, we are pointing to real sonic phenomena out in the world, whether that is from natural or manmade sources (the way the wind whistles through a tree's leaves, the sound that a bridge makes when you rap it with your fists). But in games, we are expounding upon the sonic qualities of digitally replicated sounds, which have been designed a certain way and added to the space for a given reason. In this way, we can argue that one of the underlying "natural" aspects of this sonic environment is its technology. Thinking about this technology (and the associated design, social, and economic systems around it) as a material aspect of the soundscape opens up some exciting possibilities for future consideration.
+One revelation from this process was realizing how the material edges blur when talking about "soundwalking" in games. In the physical world, we point to real sonic phenomena, whether that is from natural or manmade sources (the way the wind whistles through a tree's leaves, the sound that a bridge makes when you rap it with your fists). But in games, we are expounding upon the sonic qualities of digitally replicated sounds, which have been designed a certain way and added to the space for a given reason. In this way, we can argue that one of the underlying "natural" aspects of this sonic environment is its technology. Thinking about this technology (and the associated design, social, and economic systems around it) as a material aspect of the soundscape opens up some exciting possibilities for future consideration.
 #### Janet Cardiff and George Bures Miller
 
 ![Cardiff / Miller](../images/cardiffMiller.png)
 
-The Soundwalks of Janet Cardiff and George Bures Miller differ from Westerkamp's in a few ways. While they are similar to Westerkamps in-person guided listening walks in that they take place in a given sonic environment that the listener is currently in, neither Cardiff nor Miller are actually present. Instead, Cardiff's pre-recorded voice guides the listener via headphones. Cardiff/Miller leverage this recorded to technology to then overlay audio in exploratory and exciting ways. Snippets of conversation slip by that feel like they are in the same space as you. Cardiff speaks directly to you but then has a conversation with others who are not visibly present. Recorded audio effects of long-gone marching bands, sirens, and political rallies make the listener feel like they are experiencing a highly professional radio drama. 
+The Soundwalks of Janet Cardiff and George Bures Miller differ from Westerkamp's in a few ways. While they are similar to Westerkamp's in-person guided listening walks in that they take place in a given sonic environment that the listener is currently in, neither Cardiff nor Miller are actually present. Instead, Cardiff's pre-recorded voice guides the listener via headphones. Cardiff/Miller leverage this technology to then overlay audio in exploratory and exciting ways. Snippets of conversation slip by that feel like they are in the same space as you. Cardiff speaks directly to you but then has a conversation with others who are not visibly present. Recorded audio effects of long-gone marching bands, sirens, and political rallies make the listener feel like they are experiencing a highly professional radio drama. 
 
 From Cardiff/Miller, I identified six strategies for creating profound experiences with soundwalks.
 
@@ -48,13 +48,13 @@ From Cardiff/Miller, I identified six strategies for creating profound experienc
 
 ![Spiderman](../images/spiderman.png)
 
-Taking inspiration from Cardiff/Miller and their soundwalks, I created a series of soundwalks that each focused on one of the strategies listed above. This exploration led to the publication of the paper [Experiments in Soundwalks for Video Games](https://www.cmmas.com/en/ideassonicas32/ideassonicas%2Fsonicideas-23) for the 23rd issue of [Sonic Ideas](https://www.cmmas.com/en/sonicideas).
+Taking inspiration from Cardiff/Miller and their soundwalks, I created a series of soundwalks that each focused on one of the strategies listed above. This exploration led to the publication of the paper [Experiments in Soundwalks for Video Games](https://www.cmmas.com/en/ideassonicas32/ideassonicas%2Fsonicideas-23) in the journal [Sonic Ideas](https://www.cmmas.com/en/sonicideas).
 
 One of the main takeaways from working on this series of experiments is how the medium of video games is a compelling space for thinking about what it means to be in the same space. If you and I are both playing _Spiderman 2_ we are clearly both in a fictional version of New York City, but there is also the possibility that I am in your living room/bedroom and you are in mine. Do the sounds of my controller, children, and physical space bleed into yours? Does this widen the soundscape into more complicated territory? 
 
 ### Ambient Interactive Experiences
 
-Another collection of works that I considered as a reference point for contemplative sound games is what I initially called "slow games" but am now referring to as "ambient interactive experiences." The field of slow games is compelling and a clear precedent (with Liam Gibbons's thesis "Strategies for the Design of Reflective Shortform Videogames" from 2020 being especially instructive as I work on these ideas), but thinking about ambient media opens up the opportunity to include a lot more material.[^4] These projects all appear to be interested in slow pacing, obfuscation, and less "comfortable" experiences, with varying degrees of success.
+Another collection of works that I considered as a reference point for contemplative sound games is what I initially called "slow games" but am now referring to as "ambient interactive experiences." The field of slow games is compelling and a clear precedent (with Liam Gibbons's thesis "Strategies for the Design of Reflective Shortform Videogames" from 2020 being especially instructive as I work on these ideas), but thinking about ambient media opens up the opportunity to include a lot more material.[^4] These projects all appear to be interested in slow pacing, obfuscation, and less traditionally "comfortable" experiences, with varying degrees of success.
 
 #### Luke Jaaniste
 
@@ -62,7 +62,7 @@ Another collection of works that I considered as a reference point for contempla
 
 Luke Jaaniste's thesis "Approaching the Ambient: Creative Practice and the Ambient Mode of Being" from 2007 seems like a good place to start when defining what we mean by ambient experiences. Interestingly enough, Jaaniste's proposal of the "ambient mode" is a bit counter to what we might think of as an ambient experience:
 
-_The ambient mode involves engaging with our surroundings as an ambient pervasive all-around field, without anything being prioritised into foreground and background. Without the salience of the foreground, what would need to become salient is the pervasive ambience itself._
+_The ambient mode involves engaging with our surroundings as an ambient pervasive all-around field, without anything being prioritised into foreground and background. Without the salience of the foreground, what would need to become salient is the pervasive ambience itself._[^5]
 
 This is in opposition, in particular, to Brian Eno's concept of the ambient as being something that can move from foreground to background in the mindful attention of the audience. Eno's concept is more aligned with the use of Gestalt theory in traditional visual design fields.
 
@@ -70,7 +70,7 @@ This is in opposition, in particular, to Brian Eno's concept of the ambient as b
 
 ![Mountain and Everything, from David Oreilly](../images/oreilly.png)
 
-David Oreilly's two pieces [Mountain](https://store.steampowered.com/app/313340/Mountain/) and [Everything](https://store.steampowered.com/app/582270/Everything/) are great examples of this difference between pervasive ambient experiences versus the Eno-ish mode that Jaaniste refers to as the ambivalent (back-and-forth) mode. In Mountain, almost nothing is required of the player. They need to set the simulation in motion, but after that has happened, there is not much for them to do. Rotate the mountain. Zoom in. Zoom out. The mountain sits there and mountains. The user can reflect on the mountain or tune it out while focusing on other things in their life. In contrast, Everything requires more of the player, asking that they work their way through the staggering number of 3D models that Oreilly has created. Oreilly included an auto-play mode, but even with this it still seems to portray a much more focused "pervasive" ambience.
+David Oreilly's two pieces [Mountain](https://store.steampowered.com/app/313340/Mountain/) and [Everything](https://store.steampowered.com/app/582270/Everything/) are great examples of this difference between pervasive ambient experiences versus the Eno-ish mode that Jaaniste refers to as the ambivalent (back-and-forth) mode. In Mountain, almost nothing is required of the player. They need to set the simulation in motion, but after that has happened, there is not much for them to do. Rotate the mountain. Zoom in. Zoom out. The mountain sits there and mountains. The user can reflect on the mountain or tune it out while focusing on other things in their life. In contrast, Everything requires more of the player, asking that they work their way through the staggering number of 3D models that Oreilly has created. Oreilly included an auto-play mode, but even with this it portrays a much more focused "pervasive" ambience.
 #### ABZU
 
 ![ABZU](../images/abzu.png)
@@ -81,6 +81,8 @@ On the surface, the 2016 game ABZU appears to be a perfect example of an ambient
 - It seems to focus on more of a stealth method of infusing values (Stealth OVER Clarity)
 - The whole thing is a comfortable experience (Comfort OVER Disruption)
 - It is very immersive (Immersion OVER Reflection)
+
+Additionally, the narrative of this particular example seems to undermine the ambient mode slightly which raises the question of how to handle linearity in digital media while still maintaining an ambient experience.
 
 #### Lorelei and the Laser Eyes
 
@@ -120,11 +122,11 @@ In this experiment ([R3](https://mouseandthebillionaire.com/reflectiveStudies/03
 
 ![Don't Snake!](../images/dontSnake.gif)
 
-[Experiment R.3.5](https://mouseandthebillionaire.com/reflectiveStudies/03/dontSnake.html) took the ideas from R3 and applied them to the game Snake. If the player tries to use the keyboard to move their snake, a chaos of notes and shapes issues forth. Adding this playable layer to the previous experiment creates a tension between wanting to act (snake) and not. By deciding to let the snake wrap around the sides, it becomes possible for the player to really stop playing and pay attention to the sonic patterns created as their snake slowly and repeatedly traverses the playing field.
+[Experiment R.3.5](https://mouseandthebillionaire.com/reflectiveStudies/03/dontSnake.html) took the ideas from R3 and applied them to the game Snake. If the player tries to use the keyboard to move their snake, a chaos of notes and shapes issues forth. Adding this playable layer to the previous experiment creates a tension between wanting to act (snake) and not. By deciding to let the snake wrap around the sides, the player can stop playing and pay attention to the ambient sonic patterns created as their snake slowly and repeatedly traverses the playing field.
 
 ### Experimental Ideas
 
-The final grouping of projects for precedents on contemplative game experiences is a loose collection of what I have defined as "experimental ideas." These ideas cover a wide selection of fields but are united in that the material aspects of the art forms directly inform the design of the contemplative experience.
+This final grouping of projects for precedents on contemplative game experiences is a loose collection of what I have defined as "experimental ideas." These ideas cover a wide selection of fields but are united in that the material aspects of the art forms directly inform the design of the contemplative experience.
 
 #### Performative Objects
 
@@ -132,9 +134,9 @@ The final grouping of projects for precedents on contemplative game experiences 
 
 In her essay "Designing Mindful Interaction: The Category of Performative Object," Kristina Niedderer lays the framework for her concept of "performative objects." It is notable that she separates these performative objects from art objects.
 
-_"For example, the display of a half-full water glass on a shelf would not draw anyone's attention if it were in a kitchen. But if the same glass is called "An Oak Tree" and/or displayed in the context of an (art) gallery, we allow time to notice the glass and its meaning. Mindfulness, therefore, can be created through the institutional context of art, which is "a certain set of coordinated social practices." However, the concern here is with objects that can cause mindfulness in the context of everyday use, and not in the institutional context of art"_[^5]
+_"For example, the display of a half-full water glass on a shelf would not draw anyone's attention if it were in a kitchen. But if the same glass is called "An Oak Tree" and/or displayed in the context of an (art) gallery, we allow time to notice the glass and its meaning. Mindfulness, therefore, can be created through the institutional context of art, which is "a certain set of coordinated social practices." However, the concern here is with objects that can cause mindfulness in the context of everyday use, and not in the institutional context of art"_[^6]
 
-This separation means that the performative object must rely on adaptations within its formal elements to create a contemplative state *while remaining functional.* Thus, Jacques Carelman's _Catalogue d'Objets Introuvables_ may not fit this description since they are inherently unusable objects.[^6] This is particularly interesting as we consider designing contemplative experiences for game-like experiments that retain their sense of play.
+This separation means that the performative object must rely on adaptations within its formal elements to create a contemplative state *while remaining functional.* Thus, Jacques Carelman's _Catalogue d'Objets Introuvables_ may not fit this description since they are inherently unusable objects.[^7] This is particularly interesting as we consider designing contemplative experiences for game-like experiments that retain their sense of play.
 
 #### Contemplative Architecture
 
@@ -142,9 +144,9 @@ This separation means that the performative object must rely on adaptations with
 
 Djebbara et al.'s "Contemplative neuroaesthetics and architecture: A sensorimotor exploration" provided many helpful language and concepts for framing contemplative experiences outside religious and/or spiritual settings. The distinction between contemplation and "mindfulness" is beneficial:
 
-_"we define mindfulness as a state of non-judgmental awareness and focused attention on the present moment, while contemplation as a state of intense concentration, introspection, and open or directed consideration "_[^7]
+_"we define mindfulness as a state of non-judgmental awareness and focused attention on the present moment, while contemplation as a state of intense concentration, introspection, and open or directed consideration "_[^8]
 
-The phrases' introspection' and 'open consideration' lend a more open-ended, less goal-oriented approach than the word "reflection" is often used in the design literature. Additionally, their separation of externally-induced (EX-I) and internally-induced (IN-I) means of reaching contemplative states is helpful. Likewise, it is interesting to note that architects (as *functional* aesthetic practitioners) value architecture as a means to contemplation because of the "performative" success of the values within. All of this seems to align with at least some of how we think about video games, which are also "functionally" aesthetic objects. 
+The phrases "introspection" and "open consideration" lend a more open-ended, less goal-oriented approach than how "reflection" is used in design literature. Additionally, their separation of externally-induced (EX-I) and internally-induced (IN-I) means of reaching contemplative states is helpful. Likewise, it is interesting to note that architects (as *functional* aesthetic practitioners) value architecture as a means to contemplation because of the "performative" success of the values within. All of this seems to align with at least some of how we think about video games, which are also "functionally" aesthetic objects. 
 
 #### Vilém Flusser
 
@@ -164,15 +166,15 @@ Initially, I planned to use a text from one of the stoic philosophers. However, 
 
 Book III of Schopenhauer's "The World as Will and Representation" holds some interesting language about what he calls "aesthetic contemplation," which is pertinent to the ideas of contemplation in artistic fields. In section 34, he describes the shift from looking at something through "reason" to "a steady contemplation" by saying:
 
-"_if, instead of all this, we devote the entire power of our mind to intuition and immerse ourselves in this entirely, letting the whole of consciousness be filled with peaceful contemplation of the natural object that is directly present, a landscape, a tree, a cliff, a building, or whatever it might be, and, according to a suggestive figure of speech, we *lose* ourselves in this object completely, i.e we forget our individuality, our will, and continue to exist only as pure subject, the clear mirror of the object_"
+"_if, instead of all this, we devote the entire power of our mind to intuition and immerse ourselves in this entirely, letting the whole of consciousness be filled with peaceful contemplation of the natural object that is directly present, a landscape, a tree, a cliff, a building, or whatever it might be, and, according to a suggestive figure of speech, we *lose* ourselves in this object completely, i.e we forget our individuality, our will, and continue to exist only as pure subject, the clear mirror of the object_"[^9]
 
 Schopenhauer argues that this shift helps to bring the viewer closer to the "Idea" rather than the object, echoing Plato's notion of an ideal form. While we don't necessarily need to carry over this idea of an idealized form (or spiritual/essential perfection), this concept of aesthetic contemplation helps discuss the type of experience that one could have with the built world, an experience that moves from the surface to something deeper. What is especially helpful is how Schopenhauer includes space for *active* contemplation on the viewer's part. It is not a passive, peaceful, zen calm, but rather an attitude of looking that is searching for more. Some philosophers and art historians have coined the term ["aesthetic attitude"](https://iep.utm.edu/aesthetic-attitude/) to explain this idea. 
 
-Reflecting on the above survey, I began thinking about how it is possible for us to think about the foundational elements of certain objects as the gateways from which a reflective/contemplative experience might stem. For example, is the contemplative nature of architecture embedded in the way that light hits specific colors? Or how light and sound reverberate together in a particular room? With a particular shape? And of a particular material? If this is the case, what are the material elements of other media that can be examples of contemplative art? Light and hue for painting. Timbre, frequency, and reverberation for audio. 
+Reflecting on the above survey, I began thinking about how it is possible for us to consider the foundational elements of certain objects as the gateways from which a reflective/contemplative experience might stem. For example, is the contemplative nature of architecture embedded in the way that light hits specific colors? Or how light and sound reverberate together in a particular room? With a particular shape? And of a particular material? If this is the case, what are the material elements of other media that can be examples of contemplative art? Light and hue for painting. Timbre, frequency, and reverberation for audio. 
 
-After examining these fields and experimenting with how those lessons could be applied to sound games, a question became apparent. Is it better for designers to engage with the materiality of games, the things that make games games, instead of mimicking those aspects of contemplative experiences that we can only recreate digitally? Rather than approach the inherently thingy-ness of digital technology, we continue to rely on metaphors and ideas borrowed from existing areas of life. What are the things of digital technology or of games (the stuff games are made of) that we can build these contemplative experiences out of?
+After examining these fields and experimenting with how those lessons could be applied to sound games, a question became apparent. Is it better for designers to engage with the materiality of games, the things that make games games, instead of mimicking those aspects of contemplative experiences that we can only recreate digitally? Rather than approach the inherently thingy-ness of digital technology, we continue to rely on metaphors and ideas borrowed from existing areas of life. What are the "materials" of digital technology or of games (the stuff games are made of) that we can build these contemplative experiences out of?
 
-As an exploration, how could we highlight and group aesthetic materials of games to be used for lenses/methods/areas of contemplative engagement? The above study shows that related fields can teach us much about these foundational elements. Aesthetic architecture, for instance, could inform contemplative applications in the concept of the "magic circle;" Ambient interactive experiences help us to think about how games (and audio) rely on the perception of time, and Soundwalks could be informative about the spatial aspects of games and how the human body relates to that digital space. This is a messy, incomplete, and fractured start, but I believe there is potential for some exciting conversation about achieving aesthetic contemplation in gameplay experiences.[^8]
+As an exploration, how could we highlight and group aesthetic materials of games to be used for lenses/methods/areas of contemplative engagement? The above study shows that related fields can teach us much about these foundational elements. Aesthetic architecture, for instance, could inform contemplative games in the concept of the "magic circle;" Ambient interactive experiences help us to think about how games (and audio) rely on the perception of time, and Soundwalks could be informative about the spatial aspects of games and how the human body relates to that digital space. This is a messy, incomplete, and fractured start, but I believe there is potential for some exciting conversation about achieving aesthetic contemplation in gameplay experiences.[^10]
 
 
 
@@ -180,10 +182,12 @@ As an exploration, how could we highlight and group aesthetic materials of games
 [^2]: **Westerkamp, “Soundwalking,” [https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking](https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking)**
 [^3]: Bethancourt, guided soundwalk for Firewatch and Red Dead Redemption 2
 [^4]: In particular, the possibility to think about Eno's ambient work (obviously) and also Paul Roquet's [Ambient Media](https://www.upress.umn.edu/9780816692460/ambient-media/), which I haven't referenced at all in this study but think about a great deal
-[^5]: Niedderer, "Designing Mindful Interaction: The Category of Performative Object"
-[^6]: the *Coffeepot for Masochists* from the cover of Don Norman's "The Design of Everyday Things" is possibly the most famous example of this
-[^7]: Djebarra et al., "Contemplative neuroaesthetics and architecture: A sensorimotor exploration" 
-[^8]: Side note: I am realizing that all of these could possibly be framed with Soundwalks as the connecting tissue, in which case the format might be more of: element A is in games, here is how that is handled in Soundwalks, here is how it is handled in other disciplines, here is a series of experiments I made in reaction to this
+[^5]: Jaaniste, Approaching the Ambient
+[^6]: Niedderer, "Designing Mindful Interaction: The Category of Performative Object"
+[^7]: the *Coffeepot for Masochists* from the cover of Don Norman's "The Design of Everyday Things" is possibly the most famous example of this
+[^8]: Djebarra et al., "Contemplative neuroaesthetics and architecture: A sensorimotor exploration" 
+[^9]: Schopenhauer, "The World as Will and Representation
+[^10]: Side note: I am realizing that all of these could possibly be framed with Soundwalks as the connecting tissue, in which case the format might be more of: element A is in games, here is how that is handled in Soundwalks, here is how it is handled in other disciplines, here is a series of experiments I made in reaction to this
 
 
 

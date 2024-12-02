@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="feat: docs folder shuffle shuffle" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 - added images to the docs folder and fixed the rel links" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,23 +105,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="5582000" />
-    </task>
-    <task id="LOCAL-00045" summary="readings: (a few) Dalsgaard et al's Reflective Design Documentation">
-      <option name="closed" value="true" />
-      <created>1724786263678</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1724786263678</updated>
-    </task>
-    <task id="LOCAL-00046" summary="readings: thoughts on Eklund, A. et al. “Pre-Reflection-in-Action: Rethinking Schön’s Reflective Practice Through the ‘Habits of Design Artistry,&quot;">
-      <option name="closed" value="true" />
-      <created>1724789247264</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1724789247264</updated>
+      <workItem from="1733077638685" duration="6065000" />
     </task>
     <task id="LOCAL-00047" summary="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*">
       <option name="closed" value="true" />
@@ -499,7 +483,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733115100643</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="writing: Question 3 - fix the relative links due to the docs folder shuffle shuffle">
+      <option name="closed" value="true" />
+      <created>1733115327046</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1733115327046</updated>
+    </task>
+    <task id="LOCAL-00095" summary="writing: Question 3 - added images to the docs folder and fixed the rel links">
+      <option name="closed" value="true" />
+      <created>1733115642145</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1733115642145</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,8 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: a simple fix" />
-    <MESSAGE value="writing: Initial structure and notes for comps question 02" />
     <MESSAGE value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
     <MESSAGE value="writing: Day 2" />
     <MESSAGE value="writing: Day 3 - first overall pass" />
@@ -542,6 +540,8 @@
     <MESSAGE value="feat: adding docs folder for git pages" />
     <MESSAGE value="feat: duplicating Q3 into docs folder&#10;&#10;may move the rest of the writing files into the doc folder later. Not sure. But for now just this one." />
     <MESSAGE value="feat: docs folder shuffle shuffle" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: docs folder shuffle shuffle" />
+    <MESSAGE value="writing: Question 3 - fix the relative links due to the docs folder shuffle shuffle" />
+    <MESSAGE value="writing: Question 3 - added images to the docs folder and fixed the rel links" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 - added images to the docs folder and fixed the rel links" />
   </component>
 </project>
