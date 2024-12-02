@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,15 +105,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="4273000" />
-    </task>
-    <task id="LOCAL-00041" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
-      <option name="closed" value="true" />
-      <created>1724783494644</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1724783494644</updated>
+      <workItem from="1733077638685" duration="4946000" />
     </task>
     <task id="LOCAL-00042" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
       <option name="closed" value="true" />
@@ -499,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733113004547</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!">
+      <option name="closed" value="true" />
+      <created>1733114492512</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1733114492512</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="experiments: adding RNBO project" />
     <MESSAGE value="experiments: experiment 04 / audio version" />
     <MESSAGE value="fix: fixas gotta be fixin" />
     <MESSAGE value="makings: 04.03 experiments with pitch shifts for harmonic color" />
@@ -542,6 +541,7 @@
     <MESSAGE value="writing: Question 3 / stage 4&#10;&#10;Soundwalks" />
     <MESSAGE value="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences" />
     <MESSAGE value="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow" />
+    <MESSAGE value="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 5&#10;&#10;After a grammerly pass. Getting there!" />
   </component>
 </project>
