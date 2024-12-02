@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 4&#10;&#10;Soundwalks">
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences">
+      <change afterPath="$PROJECT_DIR$/().md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/abzu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/jaaniste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/lorelei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/oreilly.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/images/vr5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/writing/presentationNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/presentationNotes.md" afterDir="false" />
@@ -110,15 +118,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="2395000" />
-    </task>
-    <task id="LOCAL-00039" summary="readings: thoughts on ABZU">
-      <option name="closed" value="true" />
-      <created>1724780059551</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1724780059551</updated>
+      <workItem from="1733077638685" duration="3025000" />
     </task>
     <task id="LOCAL-00040" summary="readings: thoughts on Mini Metro">
       <option name="closed" value="true" />
@@ -504,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733084176854</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences">
+      <option name="closed" value="true" />
+      <created>1733091781489</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1733091781489</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="makings: initial thoughts on the clickable text meditation prototype" />
     <MESSAGE value="fix: experiments link from the main readme" />
     <MESSAGE value="experiments: adding RNBO project" />
     <MESSAGE value="experiments: experiment 04 / audio version" />
@@ -547,6 +554,7 @@
     <MESSAGE value="writing: Question 3 / stage 3 (???)&#10;&#10;Hopefully adding images..." />
     <MESSAGE value="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
     <MESSAGE value="writing: Question 3 / stage 4&#10;&#10;Soundwalks" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 4&#10;&#10;Soundwalks" />
+    <MESSAGE value="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences" />
   </component>
 </project>
