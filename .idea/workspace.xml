@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences">
-      <change afterPath="$PROJECT_DIR$/().md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/abzu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/jaaniste.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/lorelei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/oreilly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/images/vr5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writing/presentationNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/presentationNotes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writing/question_03.md" beforeDir="false" afterPath="$PROJECT_DIR$/writing/question_03.md" afterDir="false" />
-    </list>
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,15 +105,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="3025000" />
-    </task>
-    <task id="LOCAL-00040" summary="readings: thoughts on Mini Metro">
-      <option name="closed" value="true" />
-      <created>1724781585857</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1724781585857</updated>
+      <workItem from="1733077638685" duration="4273000" />
     </task>
     <task id="LOCAL-00041" summary="readings: thoughts on Gray Areas - Hambleton's ideas on Navigable Narratives">
       <option name="closed" value="true" />
@@ -512,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733091781489</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow">
+      <option name="closed" value="true" />
+      <created>1733113004547</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1733113004547</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix: experiments link from the main readme" />
     <MESSAGE value="experiments: adding RNBO project" />
     <MESSAGE value="experiments: experiment 04 / audio version" />
     <MESSAGE value="fix: fixas gotta be fixin" />
@@ -555,6 +541,7 @@
     <MESSAGE value="writing: Question 3 / stage 3.1 &#10;&#10;More images" />
     <MESSAGE value="writing: Question 3 / stage 4&#10;&#10;Soundwalks" />
     <MESSAGE value="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 4.2&#10;&#10;Ambient Interactive Experiences" />
+    <MESSAGE value="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 / stage 4.3&#10;&#10;Experimental practices and trying to tie everything up with a nice bow" />
   </component>
 </project>
