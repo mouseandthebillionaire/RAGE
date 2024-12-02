@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 - added images to the docs folder and fixed the rel links" />
+    <list default="true" id="c81622f8-bb2b-4d9d-99f1-397edb39cc73" name="Changes" comment="writing: Question 3 - Final edits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,15 +105,7 @@
       <workItem from="1732107295474" duration="4988000" />
       <workItem from="1732647004914" duration="370000" />
       <workItem from="1732647379658" duration="1888000" />
-      <workItem from="1733077638685" duration="6065000" />
-    </task>
-    <task id="LOCAL-00047" summary="readings: thoughts on O'Hara's Mapping Sound: Play, Performance, and Analysis in *Proteus*">
-      <option name="closed" value="true" />
-      <created>1725375927288</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1725375927288</updated>
+      <workItem from="1733077638685" duration="6884000" />
     </task>
     <task id="LOCAL-00048" summary="readings: thoughts on Stockburger's Listen to the Bulk of the Iceberg">
       <option name="closed" value="true" />
@@ -499,7 +491,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733115642145</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="writing: Question 3 - Final edits">
+      <option name="closed" value="true" />
+      <created>1733145169175</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1733145169175</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -517,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="writing: Day 1&#10;&#10;(forgot to push at eod yesterday!)" />
     <MESSAGE value="writing: Day 2" />
     <MESSAGE value="writing: Day 3 - first overall pass" />
     <MESSAGE value="writing: Day 3 - second overall pass" />
@@ -542,6 +541,7 @@
     <MESSAGE value="feat: docs folder shuffle shuffle" />
     <MESSAGE value="writing: Question 3 - fix the relative links due to the docs folder shuffle shuffle" />
     <MESSAGE value="writing: Question 3 - added images to the docs folder and fixed the rel links" />
-    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 - added images to the docs folder and fixed the rel links" />
+    <MESSAGE value="writing: Question 3 - Final edits" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing: Question 3 - Final edits" />
   </component>
 </project>

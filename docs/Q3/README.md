@@ -179,7 +179,7 @@ As an exploration, how could we highlight and group aesthetic materials of games
 
 
 
-[^2]: **Westerkamp, “Soundwalking,” [https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking](https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking)**
+[^2]: Westerkamp, “Soundwalking,” [https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking](https://www.hildegardwesterkamp.ca/writings/writingsby/?post_id=13&title=soundwalking)
 [^3]: Bethancourt, guided soundwalk for Firewatch and Red Dead Redemption 2
 [^4]: In particular, the possibility to think about Eno's ambient work (obviously) and also Paul Roquet's [Ambient Media](https://www.upress.umn.edu/9780816692460/ambient-media/), which I haven't referenced at all in this study but think about a great deal
 [^5]: Jaaniste, Approaching the Ambient
